@@ -1,4 +1,4 @@
-# Competition Fairness & Privacy Analysis
+# AI/ML Gamification Data Analysis
 
 This repository analyzes data science competitions across multiple popular platforms, focusing on fairness, bias, data privacy, and transparency.
 
