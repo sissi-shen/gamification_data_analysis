@@ -1,0 +1,54 @@
+[
+    {
+        "category": "Machine Learning and AI Security",
+        "fairness_bias_mentioned": "no",
+        "how_fairness": "n/a",
+        "data_privacy": "no",
+        "how_data_privacy": "n/a",
+        "toy": "no",
+        "red_team": "yes",
+        "transparency_mentioned": "no",
+        "how_transparency": "n/a",
+        "name": "NIPS 2017: Non-targeted Adversarial Attack",
+        "url": "https://www.kaggle.com/competitions/nips-2017-non-targeted-adversarial-attack"
+    },
+    {
+        "category": "Machine Learning Security",
+        "fairness_bias_mentioned": "no",
+        "how_fairness": "n/a",
+        "data_privacy": "no",
+        "how_data_privacy": "n/a",
+        "toy": "no",
+        "red_team": "yes",
+        "transparency_mentioned": "no",
+        "how_transparency": "n/a",
+        "name": "NIPS 2017: Targeted Adversarial Attack",
+        "url": "https://www.kaggle.com/competitions/nips-2017-targeted-adversarial-attack"
+    },
+    {
+        "category": "Machine Learning/Security",
+        "fairness_bias_mentioned": "no",
+        "how_fairness": "n/a",
+        "data_privacy": "no",
+        "how_data_privacy": "n/a",
+        "toy": "no",
+        "red_team": "yes",
+        "transparency_mentioned": "no",
+        "how_transparency": "n/a - focuses on adversarial attacks and defenses",
+        "name": "NIPS 2017: Defense Against Adversarial Attack",
+        "url": "https://www.kaggle.com/competitions/nips-2017-defense-against-adversarial-attack"
+    },
+    {
+        "category": "Computer Vision",
+        "fairness_bias_mentioned": "no",
+        "how_fairness": "n/a",
+        "data_privacy": "no",
+        "how_data_privacy": "n/a",
+        "toy": "yes",
+        "red_team": "yes",
+        "transparency_mentioned": "no",
+        "how_transparency": "n/a, the focus is on classification accuracy",
+        "name": "Dogs vs. Cats",
+        "url": "https://www.kaggle.com/competitions/dogs-vs-cats"
+    }
+]

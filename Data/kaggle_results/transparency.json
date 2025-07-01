@@ -1,0 +1,54 @@
+[
+    {
+        "category": "Energy Forecasting",
+        "fairness_bias_mentioned": "no",
+        "how_fairness": "n/a",
+        "data_privacy": "no",
+        "how_data_privacy": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "transparency_mentioned": "yes",
+        "how_transparency": "Model transparency is implied through evaluation criteria like clarity of documentation, interpretability, and practicality, beyond just accuracy.",
+        "name": "Global Energy Forecasting Competition 2012 - Load Forecasting",
+        "url": "https://www.kaggle.com/competitions/global-energy-forecasting-competition-2012-load-forecasting"
+    },
+    {
+        "category": "Energy Forecasting",
+        "fairness_bias_mentioned": "no",
+        "how_fairness": "n/a",
+        "data_privacy": "no",
+        "how_data_privacy": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "transparency_mentioned": "yes",
+        "how_transparency": "Model transparency is implicitly discussed through the evaluative focus on clarity of documentation and interpretability of the models.",
+        "name": "Global Energy Forecasting Competition 2012 - Wind Forecasting",
+        "url": "https://www.kaggle.com/competitions/GEF2012-wind-forecasting"
+    },
+    {
+        "category": "Education",
+        "fairness_bias_mentioned": "no",
+        "how_fairness": "n/a",
+        "data_privacy": "yes",
+        "how_data_privacy": "Privacy concerns exist as some schools with small populations do not have their data reported to protect student privacy.",
+        "toy": "no",
+        "red_team": "no",
+        "transparency_mentioned": "yes",
+        "how_transparency": "Transparency is addressed through providing intuitive letter grades and openly distributing methodology used for grading schools.",
+        "name": "Visualize the State of Public Education in Colorado",
+        "url": "https://www.kaggle.com/competitions/visualize-the-state-of-education-in-colorado"
+    },
+    {
+        "category": "Social Network Analysis",
+        "fairness_bias_mentioned": "no",
+        "how_fairness": "n/a",
+        "data_privacy": "yes",
+        "how_data_privacy": "The dataset is anonymized, but the use of social network data can still carry privacy risks if improperly accessed or de-anonymized.",
+        "toy": "no",
+        "red_team": "no",
+        "transparency_mentioned": "yes",
+        "how_transparency": "Participants are encouraged to explain their approaches, indicating a focus on model explainability beyond just performance. AUC is the primary performance metric.",
+        "name": "IJCNN Social Network Challenge",
+        "url": "https://www.kaggle.com/competitions/socialNetwork"
+    }
+]

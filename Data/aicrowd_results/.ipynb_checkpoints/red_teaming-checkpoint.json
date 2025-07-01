@@ -1,0 +1,14 @@
+[
+    {
+        "category": "AI Safety and Prompt Engineering",
+        "fairness_bias_mentioned": "no",
+        "how_fairness": "n/a",
+        "data_privacy": "yes",
+        "how_data_privacy": "There is potential exposure of participants' data, as anonymizing is limited to non-releasing emails and PII unless submitted in prompts. Open-sourcing all submissions without complete anonymization might expose personal data.",
+        "toy": "no",
+        "red_team": "yes",
+        "transparency_mentioned": "no",
+        "how_transparency": "n/a; the competition focuses on performance metrics like the prompt score and token usage.",
+        "url": "https://www.aicrowd.com/challenges/hackaprompt-2023"
+    }
+]

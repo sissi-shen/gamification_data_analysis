@@ -1,0 +1,98 @@
+[
+    {
+        "category": "AI/ML and Video Games",
+        "fairness_bias_mentioned": "yes",
+        "how_fairness": "Participants must uphold transparency in data use and declare external data, indicating a concern for fairness and ethical standards in AI dialogue systems.",
+        "data_privacy": "yes",
+        "how_data_privacy": "Participants must comply with licensing terms for external datasets, ensuring data use is permissible and ethical. Unauthorized data use or misuse of datasets could lead to disqualification.",
+        "toy": "no",
+        "red_team": "no",
+        "transparency_mentioned": "yes",
+        "how_transparency": "Participants must document methods and provide rationale for dataset use. A comprehensive solution report is required, ensuring methodological transparency.",
+        "url": "https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2025"
+    },
+    {
+        "category": "Public Health, AI and Machine Learning",
+        "fairness_bias_mentioned": "yes",
+        "how_fairness": "The dataset exhibits an unbalanced distribution of mosquito classes, and participants must address this imbalance for accurate detection and classification.",
+        "data_privacy": "no",
+        "how_data_privacy": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "transparency_mentioned": "no",
+        "how_transparency": "n/a, filtered Macro F1 score is the primary performance metric.",
+        "url": "https://www.aicrowd.com/challenges/mosquitoalert-challenge-2023"
+    },
+    {
+        "category": "Agricultural Technology",
+        "fairness_bias_mentioned": "yes",
+        "how_fairness": "The competition addresses bias in the dataset due to variations in different global regions and aims to build a robust algorithm to handle it.",
+        "data_privacy": "no",
+        "how_data_privacy": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "transparency_mentioned": "no",
+        "how_transparency": "n/a. The competition focuses on the Average Domain Accuracy as the main performance metric.",
+        "url": "https://www.aicrowd.com/challenges/global-wheat-challenge-2021"
+    },
+    {
+        "category": "Healthcare and Biodiversity",
+        "fairness_bias_mentioned": "yes",
+        "how_fairness": "Bias in class distribution and potential erroneous and delayed healthcare actions are discussed, especially given the long-tailed distribution and noisy data.",
+        "data_privacy": "no",
+        "how_data_privacy": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "transparency_mentioned": "no",
+        "how_transparency": "n/a. The primary evaluation metric is a macro-averaged F1 score calculated across countries.",
+        "url": "https://www.aicrowd.com/challenges/snakeclef2021-snake-species-identification-challenge"
+    },
+    {
+        "category": "Machine Learning / Artificial Intelligence",
+        "fairness_bias_mentioned": "yes",
+        "how_fairness": "The challenge notes the potential societal impact on fair decision-making and stresses ensuring fairness in disentangled representations.",
+        "data_privacy": "no",
+        "how_data_privacy": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "transparency_mentioned": "yes",
+        "how_transparency": "Transparency is required in the form of reproducible results verified by a detailed report on OpenReview, ensuring the proposed methods can be replicated by independent researchers.",
+        "url": "https://www.aicrowd.com/challenges/neurips-2019-disentanglement-challenge"
+    },
+    {
+        "category": "Artificial Intelligence and Machine Learning",
+        "fairness_bias_mentioned": "yes",
+        "how_fairness": "The competition ensures fairness by providing a unified extensive evaluation system and proper sampling of trajectories for a fair comparison.",
+        "data_privacy": "no",
+        "how_data_privacy": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "transparency_mentioned": "no",
+        "how_transparency": "n/a, the competition focuses on final displacement error as a primary metric.",
+        "url": "https://www.aicrowd.com/challenges/trajnet-a-trajectory-forecasting-challenge"
+    },
+    {
+        "category": "Humanitarian Data Analysis",
+        "fairness_bias_mentioned": "yes",
+        "how_fairness": "The competition incentivizes good performance on organizations with less training data, ensuring equal importance across all organizations.",
+        "data_privacy": "no",
+        "how_data_privacy": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "transparency_mentioned": "no",
+        "how_transparency": "n/a. The focus is on mean accuracy across organizations as the key evaluation metric.",
+        "url": "https://www.aicrowd.com/challenges/amld-2020-transfer-learning-for-international-crisis-response"
+    },
+    {
+        "category": "Data Privacy and Protection",
+        "fairness_bias_mentioned": "yes",
+        "how_fairness": "The overview discusses ensuring diversity in imputed entities across protected variables, like country names, to avoid bias.",
+        "data_privacy": "yes",
+        "how_data_privacy": "Data privacy issues are present due to handling sensitive personal information, such as credit card numbers, but the exercise involves creating unrelated PDEs to mask sensitive data.",
+        "toy": "no",
+        "red_team": "no",
+        "transparency_mentioned": "no",
+        "how_transparency": "n/a",
+        "url": "https://www.aicrowd.com/challenges/amld-2020-d-avatar-challenge"
+    }
+]

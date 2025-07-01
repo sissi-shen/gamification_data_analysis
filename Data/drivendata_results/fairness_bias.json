@@ -1,0 +1,62 @@
+[
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "yes",
+        "how_fairness": "The competition aims to improve accuracy across diverse populations and explore understudied factors indicating early AD/ADRD.",
+        "data_privacy": "yes",
+        "how_data_privacy": "Participants must follow strict data-sharing rules and delete data post-competition. Issues addressed through strict adherence to data terms, crediting, and approval requirements.",
+        "toy": "no",
+        "red_team": "no",
+        "transparency_mentioned": "no",
+        "how_transparency": "n/a. Evaluation criteria not explicitly mentioned.",
+        "url": "https://www.drivendata.org/competitions/304/prepare-challenge-phase-3/"
+    },
+    {
+        "category": "Healthcare/Medical Research",
+        "fairness_bias_mentioned": "yes",
+        "how_fairness": "The competition aims to improve prediction accuracy across diverse populations and address bias, especially for underrepresented groups.",
+        "data_privacy": "yes",
+        "how_data_privacy": "Data from DementiaBank are restricted to certain researchers, with strict data sharing and retention rules to protect privacy.",
+        "toy": "no",
+        "red_team": "no",
+        "transparency_mentioned": "yes",
+        "how_transparency": "Explainability is encouraged, with bonus prizes for reports explaining local model predictions.",
+        "url": "https://www.drivendata.org/competitions/299/competition-nih-alzheimers-acoustic-2/"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "yes",
+        "how_fairness": "Special Recognition Prizes include categories like best consideration of bias and potential to generalize to populations disproportionately impacted by AD/ADRD.",
+        "data_privacy": "no",
+        "how_data_privacy": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "transparency_mentioned": "yes",
+        "how_transparency": "Explainability Bonus Prizes are awarded for creating outputs that help interpret and understand predictions for individuals.",
+        "url": "https://www.drivendata.org/competitions/300/competition-nih-alzheimers-sdoh-2/"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "yes",
+        "how_fairness": "The competition seeks to improve AD/ADRD prediction accuracy across diverse populations and specifically mentions addressing bias in model development.",
+        "data_privacy": "yes",
+        "how_data_privacy": "The use of acoustic biomarkers and social determinants implies potential privacy concerns. Participants must delete competition data post-competition, but detailed privacy safeguards are not explicitly outlined.",
+        "toy": "no",
+        "red_team": "no",
+        "transparency_mentioned": "yes",
+        "how_transparency": "Explainability is valued; there's a specific bonus prize for explainability reports that help interpret predictions, emphasizing the importance of model transparency.",
+        "url": "https://www.drivendata.org/competitions/301/prepare-challenge-phase-2-report-arena/"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "yes",
+        "how_fairness": "The competition aims to address racial and ethnic disparities in AD/ADRD diagnosis and emphasizes data from underrepresented groups.",
+        "data_privacy": "yes",
+        "how_data_privacy": "Potential privacy issues stem from collecting sensitive personal health data related to AD/ADRD, requiring strict compliance with ethical guidelines and data protection laws.",
+        "toy": "no",
+        "red_team": "no",
+        "transparency_mentioned": "yes",
+        "how_transparency": "The challenge emphasizes 'right to explanation' for AI algorithms impacting people, ensuring model transparency and explainability.",
+        "url": "https://www.drivendata.org/competitions/253/competition-nih-alzheimers-adrd-1/"
+    }
+]
