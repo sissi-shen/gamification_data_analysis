@@ -41,6 +41,17 @@ The `gpt_test` script leverages the **OpenAI API** (ChatGPT) to analyze the comp
 
 ---
 
+## 📎 Pattern Matching
+
+The `pattern_match` script searches competition information for keyword matches relating to key ethics areas, to validate the results of the GPT analysis. For each ethical subfield (fairness/bias, data privacy, red_teaming, transparency/interpretability, toy competition), it:
+
+- Extracts the **competition name** and **url**
+- Flags if any keyword in that subcategory exists
+- Counts the number of total keyword matches
+- Shows which keywords are present
+
+---
+
 ## 📁 Data Structure
 
 All results are stored under the `Data` folder.  
@@ -50,7 +61,8 @@ Inside each competition site sub-folder (`kaggle_results`, `aicrowd_results`, `d
 - `data_privacy.json`: Competitions with data privacy issues
 - `transparency.json`: Competitions discussing model transparency
 - `red_teaming.json`: Competitions classified as red teaming challenges
-- `all_processed_results.json`: Complete structured outputs for all competitions
+- `all_processed_results.json`: Complete structured gpt outputs for all competitions
+- `all_pattern_match_results.json`: Complete structured pattern matching results for all competitions
 
 ---
 
@@ -61,6 +73,7 @@ Inside each competition site sub-folder (`kaggle_results`, `aicrowd_results`, `d
 3. Provide your OpenAI API key in environment variables or script settings.
 4. Run `scraping` scripts to collect competition data.
 5. Run `gpt_test` script to analyze the collected data.
+6. Run `pattern_match` script to validate gpt results
 
 ---
 
@@ -68,7 +81,10 @@ Inside each competition site sub-folder (`kaggle_results`, `aicrowd_results`, `d
 
 - ✅ Data scraping and acquisition complete
 - ✅ Competition analysis with ChatGPT complete
-- ✅ Categorized structured JSON files generated
+- ✅ Pattern matching complete
+- ✅ Categorized structured gpt outputs JSON files generated
+- ✅ TBD: GPT validation with pattern matching results
+- ✅ TBD: Summary statistics & final analysis
 
 ---
 

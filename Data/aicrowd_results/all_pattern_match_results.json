@@ -1,0 +1,6853 @@
+[
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2025",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/meta-crag-mm-challenge-2025",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/brick-by-brick-2024",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/sounding-video-generation-svg-challenge-2024",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/meta-comprehensive-rag-benchmark-kdd-cup-2024",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/generative-interior-design-challenge-2024",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2023",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/meltingpot-challenge-2023",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/neurips-2023-citylearn-challenge",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/neurips-2023-the-neural-mmo-challenge",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/hackaprompt-2023",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/amazon-kdd-cup-23-multilingual-recommendation-challenge",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/mosquitoalert-challenge-2023",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/scene-understanding-for-autonomous-drone-delivery-suadd-23",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/sound-demixing-challenge-2023",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/visual-product-recognition-challenge-2023",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/food-recognition-benchmark-2022",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/neurips-2022-citylearn-challenge",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/neurips-2022-minerl-basalt-competition",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/data-purchasing-challenge-2022",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/neurips-2022-iglu-challenge",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/neurips-2022-the-neural-mmo-challenge",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/esci-challenge-for-improving-product-search",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/multi-agent-behavior-challenge-2022",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/airborne-object-tracking-challenge",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/neurips-2021-the-nethack-challenge",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/ijcai-2022-the-neural-mmo-challenge",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/neurips-2021-minerl-diamond-competition",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/htrec-2022",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/flatland-3",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/addi-alzheimers-detection-challenge",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/ai-blitz-xiii",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/neurips-2021-minerl-basalt-competition",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-challenge",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/neurips-2020-procgen-competition",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/ai-blitz-xii",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/neurips-2021-aws-deepracer-ai-driving-olympics-challenge",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/the-neural-mmo-challenge",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/seismic-facies-identification-challenge",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/ai-blitz-xi",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/music-demixing-challenge-ismir-2021",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/insurance-pricing-game",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/ai-blitz-x",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/ai-blitz-x",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/ai-blitz-9",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/flatland",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/food-recognition-challenge",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/food-recognition-challenge",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/global-wheat-challenge-2021",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/neurips-2020-minerl-competition",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/neurips-2020-minerl-competition",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/multi-agent-behavior-representation-modeling-measurement-and-applications",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/ai-blitz-8",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/dr-derks-mutant-battlegrounds",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/dr-derks-mutant-battlegrounds",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/learning-to-smell",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/snakeclef2021-snake-species-identification-challenge",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/cyd-campus-aircraft-localization-competition",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/ai-blitz-6",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/ai-blitz-6",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/ai-blitz-7",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/hockey-player-localization",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/real-2020-robot-open-ended-autonomous-learning",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/ai-blitz-5",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/ai-blitz-5",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/ai-blitz-4",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/hockey-puck-tracking-challenge",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/hockey-team-classification",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/neurips-2019-learn-to-move-walk-around",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/aicrowd-blitz-2",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/aicrowd-blitz-2",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/neurips-2019-disentanglement-challenge",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/neurips-2019-minerl-competition",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/flatland-challenge",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/columns-property-annotation-cpa-challenge",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/column-type-annotation-cta-challenge",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/cell-entity-annotation-cea-challenge",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/tartanair-visual-slam-mono-track",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/imageclef-2020-drawnui",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/trajnet-a-trajectory-forecasting-challenge",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/mediqa-2019-natural-language-inference-nli",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/aicrowd-blitz-may-2020",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/aicrowd-blitz-may-2020",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/epfl-ml-road-segmentation",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/epfl-ml-recommender-system-47572853-80a6-48e6-9873-ca57cfea3d3c",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/epfl-ml-text-classification",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/amld-2020-transfer-learning-for-international-crisis-response",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/amld-2020-d-avatar-challenge",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/neurips-2019-robot-open-ended-autonomous-learning",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/iccv-2019-learning-to-drive-challenge",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/unity-obstacle-tower-challenge",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/mediqa-2019-recognizing-question-entailment-rqe",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/mediqa-2019-question-answering-qa",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/iswc-2019-column-type-annotation-cta-challenge",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/iswc-2019-cell-entity-annotation-cea-challenge",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/iswc-2019-columns-property-annotation-cpa-challenge",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/spotify-sequential-skip-prediction-challenge-old",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/mapping-challenge-old",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/epfl-machine-learning-project-1",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/plantvillage-disease-classification-challenge-old",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/plantvillage-disease-classification-challenge",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/imageclef-2018-caption-caption-prediction",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/imageclef-2018-caption-concept-detection",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/imageclef-2018-tuberculosis-mdr-detection",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/imageclef-2019-caption-concept-detection",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/imageclef-2019-tuberculosis-severity-scoring",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/imageclef-2019-tuberculosis-ct-report",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/lifeclef-2018-bird-monophone",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/lifeclef-2019-plant",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/lifeclef-2019-geo",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/labor",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/imageclef-2020-lifelog-lmrt",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/imageclef-2020-lifelog-spll",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/imageclef-2020-coral-annotation-and-localisation",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/ai-for-good-ai-blitz-3",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/ai-for-good-ai-blitz-3",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/imageclef-2020-coral-pixel-wise-parsing",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/imageclef-2020-vqa-med-vqa",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/imageclef-2020-caption-concept-detection",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/imageclef-2020-tuberculosis-ct-report",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/imageclef-2020-vqa-med-vqg",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/maskd",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/miccai-2020-hecktor",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/spotify-sequential-skip-prediction-challenge",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/lifeclef-2020-bird-monophone",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/lifeclef-2020-geo",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/lifeclef-2020-plant",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/chess",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/wineq",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/crdio",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/crdio",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/tartanair-visual-slam-stereo-track",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/eccv-2020-commands-4-autonomous-vehicles",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/scrbl",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/snake",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/fnews",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/solve-sudoku",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/lndst",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/autodri",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/skely",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/semtab-2020",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/captcha",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/jigsaw",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/da-wine-quality-assignment",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/da-project-light",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/da-project-aloid",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/da-project-recid",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/final-project-of-the-data-mining-and-machine-learning-course",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/da-project-monsoon-2020",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/da-project-plant",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/mediqa-2021-question-summarization-qs",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/mediqa-2021-multi-answer-summarization-mas",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/mediqa-2021-radiology-report-summarization-rrs",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/mediqa-2021",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/imageclef-2021-aware",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/imageclef-2021-coral-pixel-wise-parsing",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/imageclef-2021-coral-annotation-and-localisation",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/imageclef-2021-drawnui-wireframe",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/imageclef-2021-drawnui-screenshot",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/imageclef-2021-vqa-med-vqa",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/imageclef-2021-vqa-med-vqg",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/f1-car-detection",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/imageclef-2021-caption-concept-detection",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/imageclef-2021-tuberculosis-tbt-classification",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/f1-team-classification",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/lifeclef-2021-plant",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/time-series-prediction",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/time-series-prediction",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/txtocr",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/txtocr",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/imgcol",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/imgcol",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/objde",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/objde",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/sound-sentiment-prediction",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/sound-sentiment-prediction",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/chess-transcription",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/chess-configuration",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/chess-points",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/chess-pieces",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/chess-win-prediction",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/imageclef-2021-caption-caption-prediction",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/evoked-expressions-from-videos-challenge-cvpr-2021",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/ml-battleground",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/tiring-text",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/tile-slider",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/hey-barrels",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/rl-vi",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/mabe-task-1-classical-classification",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/mabe-task-2-annotation-style-transfer",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/mabe-task-3-learning-new-behavior",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/rliitm-1",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/rl-taxi",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/mars-rotation",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/stage-prediction",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/rover-classification",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/debris-detection",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/image-correction",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/miccai-2021-hecktor",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/ai-blitz-community-challenge",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/f1-speed-recognition",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/f1-smoke-elimination",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/iit-m-rl-assignment-2-taxi",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/iit-m-rl-assignment-2-gridworld",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/iit-m-assignment-2",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/f1-car-rotation",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/iitm-rl-final-project",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/emotion-detection",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/research-paper-classification",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/de-shuffling-text",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/nlp-feature-engineering",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/sound-prediction",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/semtab-2021",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/column-type-annotation-by-dbpedia-cta-dbp",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/cell-entity-annotation-by-wikidata-cea-wd",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/cell-entity-annotation-by-dbpedia-cea-dbp",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/column-type-annotation-by-wikidata-cta-wd",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/findcave",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.aicrowd.com/challenges/makewaterfall",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  }
+]

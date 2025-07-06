@@ -1,0 +1,2017 @@
+[
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/98/nist-federated-learning-1/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/105/nist-federated-learning-2-financial-crime-federated/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/144/nist-federated-learning-2-financial-crime-centralized/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/103/nist-federated-learning-2-pandemic-forecasting-federated/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/145/nist-federated-learning-2-pandemic-forecasting-centralized/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/139/nist-federated-learning-3-red-teams/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/304/prepare-challenge-phase-3/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/299/competition-nih-alzheimers-acoustic-2/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/300/competition-nih-alzheimers-sdoh-2/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/301/prepare-challenge-phase-2-report-arena/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/253/competition-nih-alzheimers-adrd-1/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/140/uk-federated-learning-2-financial-crime-federated/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/146/uk-federated-learning-2-financial-crime-centralised/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/141/uk-federated-learning-2-pandemic-forecasting-federated/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/147/uk-federated-learning-2-pandemic-forecasting-centralized/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/142/uk-federated-learning-3/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/259/reclamation-water-supply-forecast/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/262/reclamation-water-supply-forecast-final/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/257/reclamation-water-supply-forecast-hindcast/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/254/reclamation-water-supply-forecast-dev/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/101/meta-video-similarity-descriptor/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/106/meta-video-similarity-matching/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/184/competition-meta-vsc-descriptor-p2/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/185/competition-meta-vsc-matching-p2/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/219/competition-meta-vsc-desc-open/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/220/competition-meta-vsc-match-open/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/64/hateful-memes/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/70/hateful-memes-phase-2/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/302/competition-uva-aiai-p1/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/295/cdc-automated-abstraction/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/296/cdc-novel-variables/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/218/competition-nasa-airport-pushback-phase2/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/149/competition-nasa-airport-pushback/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/182/competition-nasa-airport-pushback-prescreened/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/78/overhead-geopose-challenge/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/48/identify-fish-challenge/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/96/beluga-whales/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/143/tick-tick-bloom/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/97/nasa-mars-gcms/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/93/nasa-mars-spectrometry/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/73/noaa-magnetic-forecasting/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/52/anomaly-detection-electricity/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/258/competition-snomed-ct/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/148/visiomel-melanoma/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/67/competition-cervical-biopsy/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/55/schneider-cold-start/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/53/optimize-photovoltaic-battery/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/51/electricity-prediction-machine-learning/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/56/predict-cleaning-time-series/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/9/from-fog-nets-to-neural-nets/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/72/predict-wind-speeds/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/99/biomass-estimation/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/5/keeping-it-fresh-predict-restaurant-inspections/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/6/countable-care-modeling-womens-health-care-decisions/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/43/americas-next-top-statistical-model/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/297/whats-up-docs/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/66/flu-shot-learning/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/57/nepal-earthquake/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/87/competition-image-classification-wildlife-conservation/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/256/pale-blue-dot/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/46/box-plots-for-education-reboot/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/1/united-nations-millennium-development-goals/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  },
+  {
+    "competition_name": "",
+    "competition_url": "https://www.drivendata.org/competitions/71/election-competition-2020/",
+    "ethics_analysis": {
+      "fairness_bias": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "data_privacy": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "red_teaming": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "transparency_interpretability": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      },
+      "toy_competition": {
+        "found": false,
+        "match_count": 0,
+        "matches": []
+      }
+    }
+  }
+]
