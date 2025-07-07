@@ -47,7 +47,6 @@ The `pattern_match` script searches competition information for keyword matches 
 
 - Extracts the **competition name** and **url**
 - Flags if any keyword in that subcategory exists
-- Counts the number of total keyword matches
 - Shows which keywords are present
 
 ---
@@ -83,7 +82,7 @@ Inside each competition site sub-folder (`kaggle_results`, `aicrowd_results`, `d
 - ✅ Competition analysis with ChatGPT complete
 - ✅ Pattern matching complete
 - ✅ Categorized structured gpt outputs JSON files generated
-- ✅ TBD: GPT validation with pattern matching results
+- ✅ In progress: GPT validation with pattern matching results
 - ✅ TBD: Summary statistics & final analysis
 
 ---
