@@ -1,62 +1,62 @@
 [
     {
-        "category": "Healthcare",
+        "category": "Urban Planning and Disaster Management",
         "fairness_bias_mentioned": "yes",
-        "how_fairness": "The competition aims to improve accuracy across diverse populations and explore understudied factors indicating early AD/ADRD.",
-        "data_privacy": "yes",
-        "how_data_privacy": "Participants must follow strict data-sharing rules and delete data post-competition. Issues addressed through strict adherence to data terms, crediting, and approval requirements.",
+        "how_fairness": "The competition featured a Responsible AI track focusing on the ethical implications of using ML in disaster risk contexts.",
+        "data_privacy": "no",
+        "how_data_privacy": "n/a",
         "toy": "no",
         "red_team": "no",
         "transparency_mentioned": "no",
-        "how_transparency": "n/a. Evaluation criteria not explicitly mentioned.",
-        "url": "https://www.drivendata.org/competitions/304/prepare-challenge-phase-3/"
+        "how_transparency": "n/a Jaccard index is the sole metric mentioned, focusing on model accuracy.",
+        "url": "https://www.drivendata.org/competitions/60/building-segmentation-disaster-resilience/"
     },
     {
-        "category": "Healthcare/Medical Research",
+        "category": "Environmental Science",
         "fairness_bias_mentioned": "yes",
-        "how_fairness": "The competition aims to improve prediction accuracy across diverse populations and address bias, especially for underrepresented groups.",
-        "data_privacy": "yes",
-        "how_data_privacy": "Data from DementiaBank are restricted to certain researchers, with strict data sharing and retention rules to protect privacy.",
+        "how_fairness": "The competition allows for alternative prediction approaches to be explored without bias from researchers\u2019 prior expectations.",
+        "data_privacy": "no",
+        "how_data_privacy": "n/a",
         "toy": "no",
         "red_team": "no",
-        "transparency_mentioned": "yes",
-        "how_transparency": "Explainability is encouraged, with bonus prizes for reports explaining local model predictions.",
-        "url": "https://www.drivendata.org/competitions/299/competition-nih-alzheimers-acoustic-2/"
+        "transparency_mentioned": "no",
+        "how_transparency": "n/a. The competition focuses on adjusted MAPE calculation as the performance metric.",
+        "url": "https://www.drivendata.org/competitions/47/penguins/"
     },
     {
-        "category": "Healthcare",
+        "category": "Environmental Data Science",
         "fairness_bias_mentioned": "yes",
-        "how_fairness": "Special Recognition Prizes include categories like best consideration of bias and potential to generalize to populations disproportionately impacted by AD/ADRD.",
+        "how_fairness": "The competition evaluates how the team has engaged with affected communities, historical, social, and political contexts, demonstrating ethical and equitable science.",
         "data_privacy": "no",
         "how_data_privacy": "n/a",
         "toy": "no",
         "red_team": "no",
         "transparency_mentioned": "yes",
-        "how_transparency": "Explainability Bonus Prizes are awarded for creating outputs that help interpret and understand predictions for individuals.",
-        "url": "https://www.drivendata.org/competitions/300/competition-nih-alzheimers-sdoh-2/"
+        "how_transparency": "Transparency is discussed through the usability criterion, emphasizing that others in the research community should understand and build on the work, with the process being open and transparent.",
+        "url": "https://www.drivendata.org/competitions/256/pale-blue-dot/"
     },
     {
-        "category": "Healthcare",
+        "category": "Water Resource Management",
         "fairness_bias_mentioned": "yes",
-        "how_fairness": "The competition seeks to improve AD/ADRD prediction accuracy across diverse populations and specifically mentions addressing bias in model development.",
-        "data_privacy": "yes",
-        "how_data_privacy": "The use of acoustic biomarkers and social determinants implies potential privacy concerns. Participants must delete competition data post-competition, but detailed privacy safeguards are not explicitly outlined.",
+        "how_fairness": "Fairness is considered through the evaluation of rigor, with emphasis on avoiding data leakage and assessing biases.",
+        "data_privacy": "no",
+        "how_data_privacy": "n/a",
         "toy": "no",
         "red_team": "no",
         "transparency_mentioned": "yes",
-        "how_transparency": "Explainability is valued; there's a specific bonus prize for explainability reports that help interpret predictions, emphasizing the importance of model transparency.",
-        "url": "https://www.drivendata.org/competitions/301/prepare-challenge-phase-2-report-arena/"
+        "how_transparency": "Explainability and communication are encouraged through a bonus track for creating clear forecast summaries for end users.",
+        "url": "https://www.drivendata.org/competitions/group/reclamation-water-supply-forecast/"
     },
     {
-        "category": "Healthcare",
+        "category": "Healthcare Research",
         "fairness_bias_mentioned": "yes",
-        "how_fairness": "The competition aims to address racial and ethnic disparities in AD/ADRD diagnosis and emphasizes data from underrepresented groups.",
+        "how_fairness": "The competition emphasizes exploring and addressing potential biases in the data and model, evaluating strategies for bias mitigation.",
         "data_privacy": "yes",
-        "how_data_privacy": "Potential privacy issues stem from collecting sensitive personal health data related to AD/ADRD, requiring strict compliance with ethical guidelines and data protection laws.",
+        "how_data_privacy": "Potential issues include sensitive health and demographic data, with no details on anonimization. Ethical handling and secure storage are essential but specifics are not provided.",
         "toy": "no",
         "red_team": "no",
         "transparency_mentioned": "yes",
-        "how_transparency": "The challenge emphasizes 'right to explanation' for AI algorithms impacting people, ensuring model transparency and explainability.",
-        "url": "https://www.drivendata.org/competitions/253/competition-nih-alzheimers-adrd-1/"
+        "how_transparency": "The competition includes an Explainability Bonus Track to ensure model outputs are understandable for preclinical patients and care providers.",
+        "url": "https://www.drivendata.org/competitions/group/nih-nia-alzheimers-adrd-competition/"
     }
 ]
