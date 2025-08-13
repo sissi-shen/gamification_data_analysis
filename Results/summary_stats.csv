@@ -1,0 +1,5 @@
+,platform,total,red_team,bias,red_team_bias,privacy,red_team_privacy,transparency,red_team_transparency,toy,red_team_toy
+0,Kaggle,300,4,8,0,68,0,4,0,126,1
+1,DrivenData,66,2,5,0,66,2,5,2,4,0
+2,AIcrowd,221,1,8,0,42,1,11,0,72,0
+3,All,587,7,21,0,131,3,20,2,202,1
