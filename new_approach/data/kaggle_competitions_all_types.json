@@ -1,0 +1,5002 @@
+[
+    {
+        "name": "Predicting the price of diamond",
+        "link": "https://www.kaggle.com/competitions/predicting-the-price-of-diamond",
+        "prize": 1
+    },
+    {
+        "name": "📢 PySphere Movie Review Sentiment Challenge",
+        "link": "https://www.kaggle.com/competitions/py-sphere-movie-review-sentiment-challenge",
+        "prize": 0
+    },
+    {
+        "name": "SBU_data_science_5",
+        "link": "https://www.kaggle.com/competitions/sbu-data-science-5",
+        "prize": 0
+    },
+    {
+        "name": "SPARTA 2024 Data Science Competition",
+        "link": "https://www.kaggle.com/competitions/sparta-2024-data-science-competition",
+        "prize": 0
+    },
+    {
+        "name": "Jigsaw - Agile Community Rules Classification",
+        "link": "https://www.kaggle.com/competitions/jigsaw-agile-community-rules",
+        "prize": 100000
+    },
+    {
+        "name": "Kschool 10 Master Data Science Abr 2025",
+        "link": "https://www.kaggle.com/competitions/kschool-10-master-data-science-abr-2025",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Osaka Summer 2025",
+        "link": "https://www.kaggle.com/competitions/data-science-osaka-summer-2025",
+        "prize": 0
+    },
+    {
+        "name": "International Medical AI and Data Science Calorie",
+        "link": "https://www.kaggle.com/competitions/international-medical-ai-and-data-science-calorie",
+        "prize": 0
+    },
+    {
+        "name": "NeurIPS - Ariel Data Challenge 2025",
+        "link": "https://www.kaggle.com/competitions/ariel-data-challenge-2025",
+        "prize": 50000
+    },
+    {
+        "name": "FDS Summer Challenge 2025 - Weather Prediction",
+        "link": "https://www.kaggle.com/competitions/fds-summer-challenge-2025-weather-prediction",
+        "prize": 0
+    },
+    {
+        "name": "Data science 5 SBU",
+        "link": "https://www.kaggle.com/competitions/data-science-5-sbu",
+        "prize": 0
+    },
+    {
+        "name": "Seleksi Data Science Academy COMPFEST 17",
+        "link": "https://www.kaggle.com/competitions/seleksi-dsa-compfest-17",
+        "prize": 0
+    },
+    {
+        "name": "[REGRESSION] - Cholesterol Prediction",
+        "link": "https://www.kaggle.com/competitions/ndsc-regression-cholesterol-prediction",
+        "prize": 0
+    },
+    {
+        "name": "[CLASSIFICATION] - Cholesterol Prediction",
+        "link": "https://www.kaggle.com/competitions/ndsc-classification-cholesterol-prediction",
+        "prize": 0
+    },
+    {
+        "name": "FINAL PROJECT INTRODUCTION ON DATA SCIENCE 2025",
+        "link": "https://www.kaggle.com/competitions/final-project-introduction-on-data-science-2025",
+        "prize": 0
+    },
+    {
+        "name": "stratford workshop",
+        "link": "https://www.kaggle.com/competitions/stratford-workshop",
+        "prize": 0
+    },
+    {
+        "name": "Data Science - MBDA - UPV",
+        "link": "https://www.kaggle.com/competitions/data-science-mbda-upv",
+        "prize": 0
+    },
+    {
+        "name": "Data Science 2 2025 HW2",
+        "link": "https://www.kaggle.com/competitions/data-science-2-2025-hw-2",
+        "prize": 0
+    },
+    {
+        "name": "Optimize Product Assortment",
+        "link": "https://www.kaggle.com/competitions/q-2-superai-ss-5-cp-axtra",
+        "prize": 0
+    },
+    {
+        "name": "Sales Forecasting",
+        "link": "https://www.kaggle.com/competitions/q1-superai-ss-5-cp-axtra",
+        "prize": 0
+    },
+    {
+        "name": "Predicción de precios de portátiles 25-02-FT-BIL",
+        "link": "https://www.kaggle.com/competitions/prediccion-de-precios-de-portatiles-25-02-ft-bil",
+        "prize": 0
+    },
+    {
+        "name": "ML_Competition_GDGoC_ITS",
+        "link": "https://www.kaggle.com/competitions/ml-competition-gd-go-c-its",
+        "prize": 0
+    },
+    {
+        "name": "MCD Data Science Competition 2024 (Open)",
+        "link": "https://www.kaggle.com/competitions/mcd-data-science-competition-2024-open",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Osaka Spring 2025",
+        "link": "https://www.kaggle.com/competitions/data-science-osaka-spring-2025",
+        "prize": 0
+    },
+    {
+        "name": "Prediction of E-commerce Users",
+        "link": "https://www.kaggle.com/competitions/prediction-of-e-commerce-users",
+        "prize": 0
+    },
+    {
+        "name": "Data Science: Income Prediction",
+        "link": "https://www.kaggle.com/competitions/data-science-income-prediction",
+        "prize": 0
+    },
+    {
+        "name": "Learn Data Science with Kaggle",
+        "link": "https://www.kaggle.com/competitions/learn-data-science-with-kaggle",
+        "prize": 0
+    },
+    {
+        "name": "Data Engineering & Data Science-Group B",
+        "link": "https://www.kaggle.com/competitions/data-engineering-data-science-group-b",
+        "prize": 0
+    },
+    {
+        "name": "Assignment -Data Science Lab",
+        "link": "https://www.kaggle.com/competitions/assignment-data-science-lab",
+        "prize": 0
+    },
+    {
+        "name": "Data Engineering & Data Science-Group A",
+        "link": "https://www.kaggle.com/competitions/data-engineering-data-science-group-a",
+        "prize": 0
+    },
+    {
+        "name": "Data Engineering & Data Science-GITA",
+        "link": "https://www.kaggle.com/competitions/data-engineering-ds-gita",
+        "prize": 0
+    },
+    {
+        "name": "[ML4Science]FNO",
+        "link": "https://www.kaggle.com/competitions/ml-4-science-fno",
+        "prize": 0
+    },
+    {
+        "name": "Procom '25 - Data Science Round 2",
+        "link": "https://www.kaggle.com/competitions/procom-25-data-science-round-2",
+        "prize": 0
+    },
+    {
+        "name": "Procom '25 - Data Science Round 1 ",
+        "link": "https://www.kaggle.com/competitions/data-science-round-1-procom-25",
+        "prize": 0
+    },
+    {
+        "name": "Data Science: Heart Disease Prediction",
+        "link": "https://www.kaggle.com/competitions/hearth-disease-recognition",
+        "prize": 0
+    },
+    {
+        "name": "Seleksi Data Science Academya Arkavidia 9.0",
+        "link": "https://www.kaggle.com/competitions/seleksi-academya-data-science-2025",
+        "prize": 0
+    },
+    {
+        "name": "SRU Data Vision 2025",
+        "link": "https://www.kaggle.com/competitions/data-vision-2025",
+        "prize": 0
+    },
+    {
+        "name": "[ML4Science]GNN",
+        "link": "https://www.kaggle.com/competitions/ml-4-science-gnn",
+        "prize": 0
+    },
+    {
+        "name": "🚀 MISSION: DATA IMPOSSIBLE 🔍",
+        "link": "https://www.kaggle.com/competitions/mission-data-impossible",
+        "prize": 0
+    },
+    {
+        "name": "Product Defect Detection",
+        "link": "https://www.kaggle.com/competitions/product-defect-detection",
+        "prize": 0
+    },
+    {
+        "name": "wharton data science 2023-2024",
+        "link": "https://www.kaggle.com/competitions/wharton-data-science-2023-2024",
+        "prize": 0
+    },
+    {
+        "name": "Exploring Predictive Health Factors",
+        "link": "https://www.kaggle.com/competitions/exploring-predictive-health-factors",
+        "prize": 1
+    },
+    {
+        "name": "[ML4Science]UNET",
+        "link": "https://www.kaggle.com/competitions/ml-4-science-unet",
+        "prize": 0
+    },
+    {
+        "name": "SP25 Data Science Competition",
+        "link": "https://www.kaggle.com/competitions/SP25-DSC",
+        "prize": 450
+    },
+    {
+        "name": "Predict the Customer Satisfaction - CSE 22",
+        "link": "https://www.kaggle.com/competitions/Predict-the-Customer-Satisfaction-CSE-22",
+        "prize": 0
+    },
+    {
+        "name": "Prediction of Factory Electric Consumption",
+        "link": "https://www.kaggle.com/competitions/prediction-of-factory-electric-consumption",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Osaka Winter 2024",
+        "link": "https://www.kaggle.com/competitions/data-science-osaka-winter-2024",
+        "prize": 0
+    },
+    {
+        "name": "Introduction to Data Science-HW2",
+        "link": "https://www.kaggle.com/competitions/2024-ntust-introduction-to-data-science-hw-2",
+        "prize": 0
+    },
+    {
+        "name": "Predicción de precios de portátiles 24-09-FT-BIL",
+        "link": "https://www.kaggle.com/competitions/prediccion-de-precios-de-portatiles-24-09-ft-bil",
+        "prize": 0
+    },
+    {
+        "name": "Introduction to Data Science - HW1",
+        "link": "https://www.kaggle.com/competitions/introduction-to-data-science-hw-1",
+        "prize": 0
+    },
+    {
+        "name": "ComQuals Data Science HMIF 2024-2025",
+        "link": "https://www.kaggle.com/competitions/comquals-data-science-hmif-2024-2025",
+        "prize": 0
+    },
+    {
+        "name": "GROUP B - UIT DATA SCIENCE CHALLENGE 2024",
+        "link": "https://www.kaggle.com/competitions/group-b-uit-data-science-challenge-2024",
+        "prize": 0
+    },
+    {
+        "name": "Practical Innovative Analytics Data Science 2024",
+        "link": "https://www.kaggle.com/competitions/practical-innovative-analytics-data-science-2024",
+        "prize": 0
+    },
+    {
+        "name": "AltScore Data Science competition",
+        "link": "https://www.kaggle.com/competitions/alt-score-data-science-competition",
+        "prize": 0
+    },
+    {
+        "name": "Altscore data science competition",
+        "link": "https://www.kaggle.com/competitions/altscore-data-science-competition",
+        "prize": 0
+    },
+    {
+        "name": "Prediction of Store Visitors",
+        "link": "https://www.kaggle.com/competitions/prediction-of-store-visitors",
+        "prize": 0
+    },
+    {
+        "name": "TWP 2024 Silicon Roundabout Data Science Contest",
+        "link": "https://www.kaggle.com/competitions/twp-2024-silicon-roundabout-data-science-contest",
+        "prize": 0
+    },
+    {
+        "name": "BHF Data Science Centre ECG Challenge",
+        "link": "https://www.kaggle.com/competitions/bhf-data-science-centre-ecg-challenge",
+        "prize": 0
+    },
+    {
+        "name": "Forecasting Electricity Consumption",
+        "link": "https://www.kaggle.com/competitions/forecasting-electricity-consumption",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Osaka Autumn 2024",
+        "link": "https://www.kaggle.com/competitions/data-science-osaka-autumn-2024",
+        "prize": 0
+    },
+    {
+        "name": "Adatalapú rendszerek laboratórium 2024",
+        "link": "https://www.kaggle.com/competitions/adatalapu-rendszerek-laboratorium-2024",
+        "prize": 0
+    },
+    {
+        "name": "Open Class HMIF Data Science August 2024",
+        "link": "https://www.kaggle.com/competitions/open-class-hmif-data-science-august-2024",
+        "prize": 0
+    },
+    {
+        "name": "First Steps in Data Science",
+        "link": "https://www.kaggle.com/competitions/first-steps-in-data-science-new",
+        "prize": 0
+    },
+    {
+        "name": "NeurIPS - Ariel Data Challenge 2024",
+        "link": "https://www.kaggle.com/competitions/ariel-data-challenge-2024",
+        "prize": 50000
+    },
+    {
+        "name": "PROJECT DSC 2024",
+        "link": "https://www.kaggle.com/competitions/dsc-2024-temporary",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Osaka Summer 2024-relocated",
+        "link": "https://www.kaggle.com/competitions/data-science-osaka-summer-2024-relocated",
+        "prize": 0
+    },
+    {
+        "name": "CAT Reloaded Data Science Competition 2.0",
+        "link": "https://www.kaggle.com/competitions/cat-reloaded-data-science-competition-2-0",
+        "prize": 0
+    },
+    {
+        "name": "¡Enséñame la Pasta!💸La competición bancaria.",
+        "link": "https://www.kaggle.com/competitions/ensename-la-pasta-la-competicion-bancaria",
+        "prize": 0
+    },
+    {
+        "name": "Tienda portátiles",
+        "link": "https://www.kaggle.com/competitions/tienda-portatiles",
+        "prize": 0
+    },
+    {
+        "name": "Predicta 1.0: Classify the Weather",
+        "link": "https://www.kaggle.com/competitions/predicta-1-0-predict-the-unpredictable-part-2",
+        "prize": 0
+    },
+    {
+        "name": "Predicta 1.0: Predict the Unpredictable",
+        "link": "https://www.kaggle.com/competitions/predicta-1-0-predict-the-unpredictable",
+        "prize": 0
+    },
+    {
+        "name": "MSA NZ 2024 - Data Science - Phase 2 Competition",
+        "link": "https://www.kaggle.com/competitions/nzmsa-2024",
+        "prize": 0
+    },
+    {
+        "name": "Data Science:  Car Prediction",
+        "link": "https://www.kaggle.com/competitions/hackathon-online-data-science-and-big-data-ss-4",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Dojo Capstone Project: Titanic Model",
+        "link": "https://www.kaggle.com/competitions/data-science-dojo-capstone-project-titanic-model",
+        "prize": 0
+    },
+    {
+        "name": "FDS Summer 2024 Data Challenge",
+        "link": "https://www.kaggle.com/competitions/fds-summer-2024-data-challenger",
+        "prize": 0
+    },
+    {
+        "name": "KML2024S Final Exam Practice",
+        "link": "https://www.kaggle.com/competitions/kml-2024-s-final-exam-practice",
+        "prize": 0
+    },
+    {
+        "name": "Forest Type Classification",
+        "link": "https://www.kaggle.com/competitions/forest-type-classification-spai",
+        "prize": 0
+    },
+    {
+        "name": "RedLight SI24 Data Science Challenge",
+        "link": "https://www.kaggle.com/competitions/red-light-si-24-data-science-challenge",
+        "prize": 0
+    },
+    {
+        "name": "49140 Data Science Coder",
+        "link": "https://www.kaggle.com/competitions/49140-data-science-coder",
+        "prize": 0
+    },
+    {
+        "name": "Data Science - Coder 49140 - Season Finale",
+        "link": "https://www.kaggle.com/competitions/data-science-coder-49140-season-finale",
+        "prize": 0
+    },
+    {
+        "name": "Home Credit - Credit Risk Modeling",
+        "link": "https://www.kaggle.com/competitions/home-credit-credit-risk-modeling",
+        "prize": 0
+    },
+    {
+        "name": "Predicción de precios de portátiles 24-03 FT",
+        "link": "https://www.kaggle.com/competitions/prediccion-de-precios-de-portatiles-24-03-ft",
+        "prize": 0
+    },
+    {
+        "name": "¿Qué es Data Science? - MASTER BIG DATA ANALYTICS",
+        "link": "https://www.kaggle.com/competitions/que-es-data-science-master-en-big-data-analytics",
+        "prize": 0
+    },
+    {
+        "name": "[2024 NH Data Science] Second Competition",
+        "link": "https://www.kaggle.com/competitions/2024-nh-data-science-second-competition",
+        "prize": 0
+    },
+    {
+        "name": "Linkit Data Science Schulung (SS24)",
+        "link": "https://www.kaggle.com/competitions/linkit-data-science-schulung-ss24",
+        "prize": 0
+    },
+    {
+        "name": "CS3319-01 Project 2: Recommendation 2024 Spring",
+        "link": "https://www.kaggle.com/competitions/cs3319-01-project-2-recommendation-2024-spring",
+        "prize": 0
+    },
+    {
+        "name": "Data Science 2 2024 HW2",
+        "link": "https://www.kaggle.com/competitions/data-science-2-2024-hw2",
+        "prize": 0
+    },
+    {
+        "name": "[2024 NH Data Science] First Competition",
+        "link": "https://www.kaggle.com/competitions/2024-nh-data-science-first-competition",
+        "prize": 0
+    },
+    {
+        "name": "Heart Disease Dataset",
+        "link": "https://www.kaggle.com/competitions/MLSA-KFS-DS_0",
+        "prize": 0
+    },
+    {
+        "name": "CS3319-01-project-1 Graph Augmentation",
+        "link": "https://www.kaggle.com/competitions/cs3319-01-project-1",
+        "prize": 0
+    },
+    {
+        "name": "Telecom Customer Churn Analysis and Prediction",
+        "link": "https://www.kaggle.com/competitions/public-telecom-customer-churn-analysis-and-prediction",
+        "prize": 0
+    },
+    {
+        "name": "2024 Identify Player Number 10",
+        "link": "https://www.kaggle.com/competitions/2024-identify-player-number-10",
+        "prize": 0
+    },
+    {
+        "name": "Precio Portátiles \"Cositas-Markt\"",
+        "link": "https://www.kaggle.com/competitions/precio-porttiles-cositas-markt",
+        "prize": 0
+    },
+    {
+        "name": "Data Science 2 2024 HW1",
+        "link": "https://www.kaggle.com/competitions/data-science-2-2024-hw1",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Challenge at EEF 2024",
+        "link": "https://www.kaggle.com/competitions/data-science-challenge-at-eef-2024",
+        "prize": 0
+    },
+    {
+        "name": "NTHU-2024-DataScience-hw02-Classification",
+        "link": "https://www.kaggle.com/competitions/nthu-2024datascience-hw02-classification",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Osaka Spring 2024",
+        "link": "https://www.kaggle.com/competitions/data-science-osaka-spring-2024",
+        "prize": 0
+    },
+    {
+        "name": "TITANIC-formation-data-science - 18/03/24",
+        "link": "https://www.kaggle.com/competitions/titanic-formation-data-science",
+        "prize": 0
+    },
+    {
+        "name": "HAH Data Science Challenge3rd",
+        "link": "https://www.kaggle.com/competitions/hah-data-science-challenge3rd",
+        "prize": 0
+    },
+    {
+        "name": "Steel Plate Defect Prediction",
+        "link": "https://www.kaggle.com/competitions/playground-series-s4e3",
+        "prize": 0
+    },
+    {
+        "name": "Machine Failure Prediction | ITI | Data Science",
+        "link": "https://www.kaggle.com/competitions/machine-failure-prediction-iti-data-science",
+        "prize": 0
+    },
+    {
+        "name": "Fashion MNist AI_DS 2023-24_DeepLearning",
+        "link": "https://www.kaggle.com/competitions/fashion-mnist-aids-2023-24deeplearning",
+        "prize": 0
+    },
+    {
+        "name": "Google – AI Assistants for Data Tasks with Gemma",
+        "link": "https://www.kaggle.com/competitions/data-assistants-with-gemma",
+        "prize": 50000
+    },
+    {
+        "name": "Classification of English Learner Proficiency",
+        "link": "https://www.kaggle.com/competitions/celp",
+        "prize": 0
+    },
+    {
+        "name": "Facial Expression Spotting (FES)",
+        "link": "https://www.kaggle.com/competitions/fes",
+        "prize": 0
+    },
+    {
+        "name": "Fashion MNist AI_DS 2023-24",
+        "link": "https://www.kaggle.com/competitions/fashion-mnist-aids-2023-24",
+        "prize": 0
+    },
+    {
+        "name": "Competencia Kaggle 1 Data Science The Bridge 2023",
+        "link": "https://www.kaggle.com/competitions/competencia-kaggle-1-data-science-the-bridge-2023",
+        "prize": 0
+    },
+    {
+        "name": "Fundamentals of Data Science",
+        "link": "https://www.kaggle.com/competitions/fundamentals-of-data-science",
+        "prize": 0
+    },
+    {
+        "name": "HMS - Harmful Brain Activity Classification ",
+        "link": "https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification",
+        "prize": 50000
+    },
+    {
+        "name": "ICG: Freshers Data Science Competition- Level 1",
+        "link": "https://www.kaggle.com/competitions/icg-freshers-data-science-competition-level-1",
+        "prize": 0
+    },
+    {
+        "name": "Data Science interview exam - ISCORE",
+        "link": "https://www.kaggle.com/competitions/data-science-interview-exam",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Osaka Winter 2023",
+        "link": "https://www.kaggle.com/competitions/data-science-osaka-winter-2023",
+        "prize": 0
+    },
+    {
+        "name": "OLC Data Science Final Project",
+        "link": "https://www.kaggle.com/competitions/olc-data-science-final-project",
+        "prize": 0
+    },
+    {
+        "name": "[SWCON425] Competition",
+        "link": "https://www.kaggle.com/competitions/swcon425-competition-2023",
+        "prize": 0
+    },
+    {
+        "name": "Clip counting competition",
+        "link": "https://www.kaggle.com/competitions/clip-counting-competition-s23",
+        "prize": 0
+    },
+    {
+        "name": "Predicción de precios de laptops",
+        "link": "https://www.kaggle.com/competitions/prediccion-de-precios-de-laptops-s23",
+        "prize": 0
+    },
+    {
+        "name": "Regression with a Mohs Hardness Dataset",
+        "link": "https://www.kaggle.com/competitions/playground-series-s3e25",
+        "prize": 0
+    },
+    {
+        "name": "Precio Portátiles",
+        "link": "https://www.kaggle.com/competitions/precio-portatiles-the-bridge",
+        "prize": 0
+    },
+    {
+        "name": "Enefit - Predict Energy Behavior of Prosumers",
+        "link": "https://www.kaggle.com/competitions/predict-energy-behavior-of-prosumers",
+        "prize": 50000
+    },
+    {
+        "name": "Business Data Science 2023",
+        "link": "https://www.kaggle.com/competitions/business-data-science-2023",
+        "prize": 0
+    },
+    {
+        "name": "Bootcamp Data Science y Python (Octubre 2023)",
+        "link": "https://www.kaggle.com/competitions/bootcamp-data-science-y-python-octubre-2023",
+        "prize": 0
+    },
+    {
+        "name": "Prediction of Tourist Arrivals",
+        "link": "https://www.kaggle.com/competitions/prediction-of-tourist-arrivals",
+        "prize": 0
+    },
+    {
+        "name": "Machine Learning Competition - HW06",
+        "link": "https://www.kaggle.com/competitions/machine-learning-competition-hw06",
+        "prize": 0
+    },
+    {
+        "name": "Risk Evaluation",
+        "link": "https://www.kaggle.com/competitions/world-championship-2023-risk-evaluation",
+        "prize": 0
+    },
+    {
+        "name": "Embryo classification based on microscopic images",
+        "link": "https://www.kaggle.com/competitions/world-championship-2023-embryo-classification",
+        "prize": 0
+    },
+    {
+        "name": "Predict of electric power",
+        "link": "https://www.kaggle.com/competitions/predict-of-electric-power",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Osaka Autumn 2023",
+        "link": "https://www.kaggle.com/competitions/data-science-osaka-autumn-2023",
+        "prize": 0
+    },
+    {
+        "name": "GDSC Data Science Recruitments 2023-24 (2)",
+        "link": "https://www.kaggle.com/competitions/gdsc-data-science-recruitments-2023-24-2",
+        "prize": 0
+    },
+    {
+        "name": "Adivinando el precio de ordenadores portátiles",
+        "link": "https://www.kaggle.com/competitions/adivinando-el-precio-de-ordenadores-porttiles",
+        "prize": 0
+    },
+    {
+        "name": "Open Problems – Single-Cell Perturbations",
+        "link": "https://www.kaggle.com/competitions/open-problems-single-cell-perturbations",
+        "prize": 100000
+    },
+    {
+        "name": "OLD-Data Science Playground - Harga Pangan",
+        "link": "https://www.kaggle.com/competitions/copy-of-data-science-playground-harga-pangan",
+        "prize": 0
+    },
+    {
+        "name": "OLD-Data Science Playground - NYC TLC",
+        "link": "https://www.kaggle.com/competitions/data-science-playground-nyc-tlc",
+        "prize": 0
+    },
+    {
+        "name": "OLD-Data Science Playground - NATICUSdroid",
+        "link": "https://www.kaggle.com/competitions/data-science-playground-naticusdroid",
+        "prize": 0
+    },
+    {
+        "name": "KSchool Master Data Science Streaming 2023",
+        "link": "https://www.kaggle.com/competitions/kschool-master-data-science-streaming-2023",
+        "prize": 0
+    },
+    {
+        "name": "Adatalapú rendszerek laboratórium",
+        "link": "https://www.kaggle.com/competitions/adatalap-rendszerek-laboratorium-2023",
+        "prize": 0
+    },
+    {
+        "name": "Preliminary round of DSO-2023",
+        "link": "https://www.kaggle.com/competitions/preliminary-round",
+        "prize": 0
+    },
+    {
+        "name": "KSchool Master Data Science Streaming Abril 2023",
+        "link": "https://www.kaggle.com/competitions/kschool-master-data-science-streaming-abril-2023",
+        "prize": 0
+    },
+    {
+        "name": "Google - Fast or Slow? Predict AI Model Runtime",
+        "link": "https://www.kaggle.com/competitions/predict-ai-model-runtime",
+        "prize": 50000
+    },
+    {
+        "name": "Flutter Internal Data Science Comp",
+        "link": "https://www.kaggle.com/competitions/flutterinternalcomp",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Playground - NYC TLC for TalentHub",
+        "link": "https://www.kaggle.com/competitions/data-science-playground-nyc-tlc-for-talenthub",
+        "prize": 0
+    },
+    {
+        "name": "Who are our important customers?",
+        "link": "https://www.kaggle.com/competitions/who-are-our-important-customers",
+        "prize": 0
+    },
+    {
+        "name": "Load forecasting for a large building",
+        "link": "https://www.kaggle.com/competitions/load-forecasting-for-a-large-building",
+        "prize": 0
+    },
+    {
+        "name": "Cat Reloaded Data Science Competition",
+        "link": "https://www.kaggle.com/competitions/cat-reloaded-data-science-competition",
+        "prize": 0
+    },
+    {
+        "name": "Hackathon Online: Data Science and Big Data",
+        "link": "https://www.kaggle.com/competitions/geoplant",
+        "prize": 0
+    },
+    {
+        "name": "Hackathon Online: Data Science and Big Data",
+        "link": "https://www.kaggle.com/competitions/plant",
+        "prize": 0
+    },
+    {
+        "name": "Hackathon Online: Data Science and Big Data",
+        "link": "https://www.kaggle.com/competitions/geo",
+        "prize": 0
+    },
+    {
+        "name": "Hackathon-Online-Data Science",
+        "link": "https://www.kaggle.com/competitions/hackathon-online-2023-data-science",
+        "prize": 0
+    },
+    {
+        "name": "Data Playground",
+        "link": "https://www.kaggle.com/competitions/dataplayground",
+        "prize": 0
+    },
+    {
+        "name": "Predicción de precios de laptops1",
+        "link": "https://www.kaggle.com/competitions/copy-of-prediccion-precios-laptops",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Osaka Summer 2023",
+        "link": "https://www.kaggle.com/competitions/data-science-osaka-summer-2023",
+        "prize": 0
+    },
+    {
+        "name": "Pastel Data Test",
+        "link": "https://www.kaggle.com/competitions/pastel-data-test",
+        "prize": 0
+    },
+    {
+        "name": "Ristek Data Challenge 5",
+        "link": "https://www.kaggle.com/competitions/percobaan-task-kompetisi",
+        "prize": 0
+    },
+    {
+        "name": "Hackathon Online: Data Science and Big Data",
+        "link": "https://www.kaggle.com/competitions/geospatial",
+        "prize": 0
+    },
+    {
+        "name": "Certification Data Science AVISIA 2023",
+        "link": "https://www.kaggle.com/competitions/certification-data-science-avisia-2023",
+        "prize": 0
+    },
+    {
+        "name": "Nuclio-dsc-0523",
+        "link": "https://www.kaggle.com/competitions/nuclio-dsc-0523",
+        "prize": 0
+    },
+    {
+        "name": "NEOMA Hackaton - Dataiku",
+        "link": "https://www.kaggle.com/competitions/neoma-hackaton-dataiku",
+        "prize": 0
+    },
+    {
+        "name": "Psych Data Science Lab @ BGU 2023",
+        "link": "https://www.kaggle.com/competitions/psych-data-science-lab-bgu-2023",
+        "prize": 0
+    },
+    {
+        "name": "ML2023S Final Exam - Type II",
+        "link": "https://www.kaggle.com/competitions/ml-final-exam-type-02",
+        "prize": 0
+    },
+    {
+        "name": "ML2023S Final Exam - Type I",
+        "link": "https://www.kaggle.com/competitions/ml-final-exam-type-01",
+        "prize": 0
+    },
+    {
+        "name": "Precio Portatiles",
+        "link": "https://www.kaggle.com/competitions/precio-portatiles",
+        "prize": 0
+    },
+    {
+        "name": "RS Data Science SoSe 2023",
+        "link": "https://www.kaggle.com/competitions/rs-data-science-sose-2023",
+        "prize": 0
+    },
+    {
+        "name": "KML 2023S Modeling with Ensemble",
+        "link": "https://www.kaggle.com/competitions/kml-2023s-modeling",
+        "prize": 0
+    },
+    {
+        "name": "PhazeRo Summer Internship DS Assessment",
+        "link": "https://www.kaggle.com/competitions/phazero-summer-internship-ds-assessment",
+        "prize": 0
+    },
+    {
+        "name": "South African Language Identification Hack 2023",
+        "link": "https://www.kaggle.com/competitions/south-african-language-identification-hack-2023",
+        "prize": 0
+    },
+    {
+        "name": "Bootcamp Data Science y Python",
+        "link": "https://www.kaggle.com/competitions/bootcamp-data-science-y-python",
+        "prize": 0
+    },
+    {
+        "name": "HSU Data Science Challenge SS23",
+        "link": "https://www.kaggle.com/competitions/hsu-data-science-ss23-challenge",
+        "prize": 0
+    },
+    {
+        "name": "Fundamentals of Data Science SS 2023",
+        "link": "https://www.kaggle.com/competitions/fundamentals-of-data-science-ss-2023",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Training 2023 - Titanic",
+        "link": "https://www.kaggle.com/competitions/data-science-training-2023-titanic",
+        "prize": 0
+    },
+    {
+        "name": "Feature Imputation with a Heat Flux Dataset",
+        "link": "https://www.kaggle.com/competitions/playground-series-s3e15",
+        "prize": 0
+    },
+    {
+        "name": "MIS208-MIS220-2022.2 Introduction to Data Science",
+        "link": "https://www.kaggle.com/competitions/mis-introduction-to-data-science",
+        "prize": 0
+    },
+    {
+        "name": "KML 2023S Feature Engineering",
+        "link": "https://www.kaggle.com/competitions/kml2023s-fe",
+        "prize": 0
+    },
+    {
+        "name": "Clip counting competition",
+        "link": "https://www.kaggle.com/competitions/clip-counting-competition",
+        "prize": 0
+    },
+    {
+        "name": "Data Science - MASTER EN BIG DATA ANALYTICS",
+        "link": "https://www.kaggle.com/competitions/data-science-master-en-big-data-analytics",
+        "prize": 0
+    },
+    {
+        "name": "CS3319-02 Project 1: Graph based Recommendation",
+        "link": "https://www.kaggle.com/competitions/cs3319-02-project-1-graph-based-recommendation",
+        "prize": 0
+    },
+    {
+        "name": "PS11 Part 3: Voice2Age",
+        "link": "https://www.kaggle.com/competitions/ps11-part-3-voice2age-2023-updated",
+        "prize": 0
+    },
+    {
+        "name": "PS11 Part 2: Voice2Gender",
+        "link": "https://www.kaggle.com/competitions/ps11-part-2-voice2gender-2023-updated",
+        "prize": 0
+    },
+    {
+        "name": "PS11 Part 1: Voice2SpeakerID",
+        "link": "https://www.kaggle.com/competitions/ps11-part-1-voice2speakerid-2023-updated",
+        "prize": 0
+    },
+    {
+        "name": "Developers Day 2023 - Data Science Competition",
+        "link": "https://www.kaggle.com/competitions/developers-day-2023-data-science-competition",
+        "prize": 0
+    },
+    {
+        "name": "Spain Electricity Shortfall Challenge 2023",
+        "link": "https://www.kaggle.com/competitions/spain-electricity-shortfall-challenge-2023",
+        "prize": 0
+    },
+    {
+        "name": "Data Science 2 2023 HW2",
+        "link": "https://www.kaggle.com/competitions/data-science-2-2023-hw2",
+        "prize": 0
+    },
+    {
+        "name": "2023 Identify Player Number 10",
+        "link": "https://www.kaggle.com/competitions/2023-identify-player-number-10",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Capstone Project 2023",
+        "link": "https://www.kaggle.com/competitions/data-science-capstone-project-2023",
+        "prize": 0
+    },
+    {
+        "name": "Datathon'23 Machine Learning Competition",
+        "link": "https://www.kaggle.com/competitions/datathon23-machine-learning-competition",
+        "prize": 0
+    },
+    {
+        "name": "[2023 NH Data Science] Second Competition",
+        "link": "https://www.kaggle.com/competitions/2023-nh-data-science-second-competition",
+        "prize": 0
+    },
+    {
+        "name": "[2023 NH Data Science] First Competition",
+        "link": "https://www.kaggle.com/competitions/2023-nh-data-science-first-competition",
+        "prize": 0
+    },
+    {
+        "name": "PS10 Part 2: Transfer Learning",
+        "link": "https://www.kaggle.com/competitions/ps10-part-2-transfer-learning",
+        "prize": 0
+    },
+    {
+        "name": "Prevalence of the CCD Disease",
+        "link": "https://www.kaggle.com/competitions/prevalence-of-the-ccd-disease",
+        "prize": 0
+    },
+    {
+        "name": "Prediction of electric power",
+        "link": "https://www.kaggle.com/competitions/prediction-of-electric-power",
+        "prize": 0
+    },
+    {
+        "name": "DS11102 HW3",
+        "link": "https://www.kaggle.com/competitions/ds11102-hw3",
+        "prize": 0
+    },
+    {
+        "name": "Nuclio-dsc-0223",
+        "link": "https://www.kaggle.com/competitions/nuclio-dsc-0223",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Classification Problem Spring 2023",
+        "link": "https://www.kaggle.com/competitions/data-science-classification-problem-spring-2023",
+        "prize": 0
+    },
+    {
+        "name": "Data Science 2023 - HW4 - Crowd Estimation",
+        "link": "https://www.kaggle.com/competitions/data-science-2023-hw4-crowd-counting",
+        "prize": 0
+    },
+    {
+        "name": "Predicción de precios de laptops",
+        "link": "https://www.kaggle.com/competitions/prediccion-precios-laptops",
+        "prize": 0
+    },
+    {
+        "name": "Code To Cure 1.0 : Data Science Hackathon",
+        "link": "https://www.kaggle.com/competitions/code-to-cure-10",
+        "prize": 0
+    },
+    {
+        "name": "ST Data Science Day - 1",
+        "link": "https://www.kaggle.com/competitions/stdsday1",
+        "prize": 0
+    },
+    {
+        "name": "Grad Bunker Learning Hub Data Science Competition",
+        "link": "https://www.kaggle.com/competitions/grad-bunker-learning-hub-data-science-competition",
+        "prize": 0
+    },
+    {
+        "name": "Data Science 2 2023 HW1",
+        "link": "https://www.kaggle.com/competitions/data-science-2-2023-hw1",
+        "prize": 0
+    },
+    {
+        "name": "Practical Innovative Analytics Data Science 2023",
+        "link": "https://www.kaggle.com/competitions/practical-innovative-data-science-2023",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Regression Problem Spring 2023",
+        "link": "https://www.kaggle.com/competitions/data-science-regression-competition-spring-2023",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Olympiade",
+        "link": "https://www.kaggle.com/competitions/data-science-olympiade",
+        "prize": 0
+    },
+    {
+        "name": "AML-2023-Project2",
+        "link": "https://www.kaggle.com/competitions/aml-2023-project2",
+        "prize": 0
+    },
+    {
+        "name": "KAIST Introduction to Data Science 2023",
+        "link": "https://www.kaggle.com/competitions/kaist-intro-ds-2023",
+        "prize": 0
+    },
+    {
+        "name": "DATA LOCK BCC 2023",
+        "link": "https://www.kaggle.com/competitions/mock-find-it-bcc",
+        "prize": 0
+    },
+    {
+        "name": "IDC Challenge 2023",
+        "link": "https://www.kaggle.com/competitions/idc-challenge-2023",
+        "prize": 0
+    },
+    {
+        "name": "NTHU DS 11102 HW2-2023",
+        "link": "https://www.kaggle.com/competitions/nthu-ds-11102-2023-hw2-vfinal",
+        "prize": 0
+    },
+    {
+        "name": "Supervised Learning - Hands-on",
+        "link": "https://www.kaggle.com/competitions/2210-supervised-learning-immune",
+        "prize": 0
+    },
+    {
+        "name": "Supervised Learning - Hands-on",
+        "link": "https://www.kaggle.com/competitions/2210-supervisedlearning-immune",
+        "prize": 0
+    },
+    {
+        "name": "Data Science: Asset Price Prediction",
+        "link": "https://www.kaggle.com/competitions/ss3-final-ds-asset-price-prediction",
+        "prize": 0
+    },
+    {
+        "name": "MBI Big Data & Data Science Competition 2023",
+        "link": "https://www.kaggle.com/competitions/mbi-big-data-data-science-competition-2023",
+        "prize": 0
+    },
+    {
+        "name": "CS506 Spring 2023 Midterm",
+        "link": "https://www.kaggle.com/competitions/cs506-spring-2023-midterm",
+        "prize": 0
+    },
+    {
+        "name": "DSAI @UoL by EnAppSys part of Montel Group",
+        "link": "https://www.kaggle.com/competitions/dsai-uol-enappsys",
+        "prize": 0
+    },
+    {
+        "name": "rahul data science hackathon",
+        "link": "https://www.kaggle.com/competitions/rahul-data-science-hackathon",
+        "prize": 0
+    },
+    {
+        "name": "Data Science 2023 - HW3 - Few-Shot Learning",
+        "link": "https://www.kaggle.com/competitions/data-science-2023-hw3-few-shot-learning",
+        "prize": 0
+    },
+    {
+        "name": "NWEA Data Science for Everyone",
+        "link": "https://www.kaggle.com/competitions/nwea-DS4E",
+        "prize": 0
+    },
+    {
+        "name": "Prediction of seriously ill patients",
+        "link": "https://www.kaggle.com/competitions/prediction-of-seriously-ill-patients",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Bootcamp HMIF ITB 2023",
+        "link": "https://www.kaggle.com/competitions/data-science-bootcamp-hmif-itb-2023",
+        "prize": 0
+    },
+    {
+        "name": "BizInnovate 2023",
+        "link": "https://www.kaggle.com/competitions/bizinnovate-2023",
+        "prize": 0
+    },
+    {
+        "name": "Dat-a-thon'23",
+        "link": "https://www.kaggle.com/competitions/dat-a-thon23",
+        "prize": 0
+    },
+    {
+        "name": "Neural networks challenge spring 2023",
+        "link": "https://www.kaggle.com/competitions/neural-networks-challenge-spring-2023",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Osaka Spring 2023",
+        "link": "https://www.kaggle.com/competitions/data-science-osaka-spring-2023",
+        "prize": 0
+    },
+    {
+        "name": "Procom'23 Data Science Competition Round 1",
+        "link": "https://www.kaggle.com/competitions/procom23-data-science-competition-round-1",
+        "prize": 0
+    },
+    {
+        "name": "Heber Data Science- Spooky Author Classification",
+        "link": "https://www.kaggle.com/competitions/heber-data-science-spooky-author-classification",
+        "prize": 0
+    },
+    {
+        "name": "DS2023 Challenge: Starry night",
+        "link": "https://www.kaggle.com/competitions/ds2023-counting-stars",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Lab - Spring 2023",
+        "link": "https://www.kaggle.com/competitions/data-science-lab-spring-2023",
+        "prize": 0
+    },
+    {
+        "name": "Nuclio:16-dsc-1122",
+        "link": "https://www.kaggle.com/competitions/nuclio16-dsc-1122",
+        "prize": 0
+    },
+    {
+        "name": "Predict the Salary for Data Science Jobs",
+        "link": "https://www.kaggle.com/competitions/predict-salary-for-data-science-jobs",
+        "prize": 0
+    },
+    {
+        "name": "Data Science for Starters - Astera Software",
+        "link": "https://www.kaggle.com/competitions/data-science-for-starters-astera-software",
+        "prize": 0
+    },
+    {
+        "name": "2110446 Data Science and Data Engineering",
+        "link": "https://www.kaggle.com/competitions/2110446-data-science-and-data-engineering-2023",
+        "prize": 0
+    },
+    {
+        "name": "AML-2023-Projet1",
+        "link": "https://www.kaggle.com/competitions/aml-2023-projet1",
+        "prize": 0
+    },
+    {
+        "name": "Multimodal Hand Gesture Recognition",
+        "link": "https://www.kaggle.com/competitions/mmhgr",
+        "prize": 0
+    },
+    {
+        "name": "Multilabel French Text Classification",
+        "link": "https://www.kaggle.com/competitions/mlftc",
+        "prize": 0
+    },
+    {
+        "name": "RISTEK Data Science & Analytics 2023 Oprec",
+        "link": "https://www.kaggle.com/competitions/oprec-ristek-dsa-2023",
+        "prize": 0
+    },
+    {
+        "name": "Data Science 2 Classification 2023: Loan Repayment",
+        "link": "https://www.kaggle.com/competitions/data-science-2-classification-2023-loan-repayment",
+        "prize": 0
+    },
+    {
+        "name": "Cepheus 23 Data Science Hackathon (PS - II)",
+        "link": "https://www.kaggle.com/competitions/cepheus-23-data-science-hackathon-ps-ii",
+        "prize": 0
+    },
+    {
+        "name": "Data Science 2 Linear regression 2023: Bank Loans",
+        "link": "https://www.kaggle.com/competitions/data-science-2-linear-regression-2023-bank-loans",
+        "prize": 0
+    },
+    {
+        "name": "Cepheus 23 Data Science Hackathon (PS - II) Old",
+        "link": "https://www.kaggle.com/competitions/data-science-hackathon-problem-statement-2",
+        "prize": 0
+    },
+    {
+        "name": "Cepheus 23 Data Science Hackathon (PS - I)",
+        "link": "https://www.kaggle.com/competitions/cepheus-23-data-science-hackathon-ps-i",
+        "prize": 0
+    },
+    {
+        "name": "TPMAP Poverty Rate Prediction - Living",
+        "link": "https://www.kaggle.com/competitions/ss3-tpmap-poverty-rate-prediction-living",
+        "prize": 0
+    },
+    {
+        "name": "TPMAP Poverty Rate Prediction - Income",
+        "link": "https://www.kaggle.com/competitions/ss3-tpmap-poverty-rate-prediction-income",
+        "prize": 0
+    },
+    {
+        "name": "TPMAP Poverty Rate Prediction - Education",
+        "link": "https://www.kaggle.com/competitions/ss3-tpmap-poverty-rate-prediction-education",
+        "prize": 0
+    },
+    {
+        "name": "TPMAP Poverty Rate Prediction - Accessibility",
+        "link": "https://www.kaggle.com/competitions/ss3-tpmap-poverty-rate-prediction-accessibility",
+        "prize": 0
+    },
+    {
+        "name": "TPMAP Poverty Rate Prediction - Health",
+        "link": "https://www.kaggle.com/competitions/ss3-tpmap-poverty-rate-prediction-health",
+        "prize": 0
+    },
+    {
+        "name": "Precio Portatiles Superchulos",
+        "link": "https://www.kaggle.com/competitions/precio-portatiles-superchulos",
+        "prize": 0
+    },
+    {
+        "name": "Cepheus 23 Data Science Hackathon (PS - I) Old",
+        "link": "https://www.kaggle.com/competitions/datasciencehackathon",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Assignments",
+        "link": "https://www.kaggle.com/competitions/data-science-assignments",
+        "prize": 0
+    },
+    {
+        "name": "Nuclio:15-dsc-str-1022",
+        "link": "https://www.kaggle.com/competitions/nuclio15-dsc-str-1022",
+        "prize": 0
+    },
+    {
+        "name": "IceCube - Neutrinos in Deep Ice",
+        "link": "https://www.kaggle.com/competitions/icecube-neutrinos-in-deep-ice",
+        "prize": 50000
+    },
+    {
+        "name": "GDSC Data Science Fresher Recruitment 2023",
+        "link": "https://www.kaggle.com/competitions/gdsc-data-science-fresher-recruitment-2023",
+        "prize": 0
+    },
+    {
+        "name": "NeuroHack",
+        "link": "https://www.kaggle.com/competitions/neurohack",
+        "prize": 0
+    },
+    {
+        "name": "MS Data Competition 2",
+        "link": "https://www.kaggle.com/competitions/ms-data-competition-2",
+        "prize": 0
+    },
+    {
+        "name": "PSUT-DS-24Hr-Level2",
+        "link": "https://www.kaggle.com/competitions/psut-ds-24hr-level2",
+        "prize": 0
+    },
+    {
+        "name": "Competitive Data Science Course by Data Feeling",
+        "link": "https://www.kaggle.com/competitions/competative-data-science-course-by-data-feeling",
+        "prize": 0
+    },
+    {
+        "name": "PSUT-DS-24Hr-Level1",
+        "link": "https://www.kaggle.com/competitions/psut-ds-24hr-level1",
+        "prize": 0
+    },
+    {
+        "name": "Nuclio:14-dsc-0922",
+        "link": "https://www.kaggle.com/competitions/nuclio14-dsc-0922",
+        "prize": 0
+    },
+    {
+        "name": "KDSH Data Solution Task-1",
+        "link": "https://www.kaggle.com/competitions/kdsh-data-solution-task-1",
+        "prize": 0
+    },
+    {
+        "name": "KDSH Data Solution Task-2",
+        "link": "https://www.kaggle.com/competitions/kdsh-data-solution-task-2",
+        "prize": 0
+    },
+    {
+        "name": "KML 2022F Final Exam.",
+        "link": "https://www.kaggle.com/competitions/kml2022f-exam",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Osaka Winter 2022",
+        "link": "https://www.kaggle.com/competitions/data-science-osaka-winter-2022",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Competition",
+        "link": "https://www.kaggle.com/competitions/data-science-competition-aic",
+        "prize": 0
+    },
+    {
+        "name": "Master 2 SNS Data Science 2022",
+        "link": "https://www.kaggle.com/competitions/masterSNS2022",
+        "prize": 0
+    },
+    {
+        "name": "[SWCON425] Competition",
+        "link": "https://www.kaggle.com/competitions/swcon425-competition",
+        "prize": 0
+    },
+    {
+        "name": "2022 NTUST Data Science HW2",
+        "link": "https://www.kaggle.com/competitions/2022-ntust-data-science-hw2",
+        "prize": 0
+    },
+    {
+        "name": "K*MBA ML Challenge 2022",
+        "link": "https://www.kaggle.com/competitions/kmba2022",
+        "prize": 0
+    },
+    {
+        "name": "CS 310 - Data Science Capstone Project - Playoffs",
+        "link": "https://www.kaggle.com/competitions/cs-310-data-science-capstone-project-playoffs",
+        "prize": 0
+    },
+    {
+        "name": "Hackathon Online: Data Science and Big Data",
+        "link": "https://www.kaggle.com/competitions/hackathon-online-data-science-and-big-data",
+        "prize": 0
+    },
+    {
+        "name": "-x-ย้ายไปกระดานใหม่-x-",
+        "link": "https://www.kaggle.com/competitions/ss3-hackathon-online-data-science-and-big-data",
+        "prize": 0
+    },
+    {
+        "name": "Hackathon Data Science AVISIA 2022",
+        "link": "https://www.kaggle.com/competitions/hackathon-data-science-avisia-2022",
+        "prize": 0
+    },
+    {
+        "name": "KML Challenge 2022F",
+        "link": "https://www.kaggle.com/competitions/kml2022f",
+        "prize": 0
+    },
+    {
+        "name": "AF II 2022-II: object localization GR2",
+        "link": "https://www.kaggle.com/competitions/af-ii-2022-ii-object-localization-gr2",
+        "prize": 0
+    },
+    {
+        "name": "The Purdue Using Data Analytics & Science for Good",
+        "link": "https://www.kaggle.com/competitions/purdue-data-for-good",
+        "prize": 0
+    },
+    {
+        "name": "AICVS 2022-23 Data Science Job Salaries",
+        "link": "https://www.kaggle.com/competitions/aicvs-2022-23-data-science-job-salaries",
+        "prize": 0
+    },
+    {
+        "name": "I'm Somewhat Of A Cybersecurity Analyst Myself...",
+        "link": "https://www.kaggle.com/competitions/im-somewhat-of-a-cybersecurity-analyst-myself",
+        "prize": 0
+    },
+    {
+        "name": "2022 Data Science HW1",
+        "link": "https://www.kaggle.com/competitions/2022-data-science-hw1",
+        "prize": 0
+    },
+    {
+        "name": "BYU Data Science Capstone Classification",
+        "link": "https://www.kaggle.com/competitions/byu-data-science-capstone-classification",
+        "prize": 0
+    },
+    {
+        "name": "CS506 Midterm",
+        "link": "https://www.kaggle.com/competitions/cs506-fall-2022",
+        "prize": 0
+    },
+    {
+        "name": "Machine Learning Competition - HW08",
+        "link": "https://www.kaggle.com/competitions/ids-2022-ut-course",
+        "prize": 0
+    },
+    {
+        "name": "Prototyping Data Science Products - PDSP ",
+        "link": "https://www.kaggle.com/competitions/prototyping-data-science-products-pdsp",
+        "prize": 0
+    },
+    {
+        "name": "MBA ML Ensemble Competition",
+        "link": "https://www.kaggle.com/competitions/mba-ensemble-competition",
+        "prize": 0
+    },
+    {
+        "name": "IEEE Data Science Circle",
+        "link": "https://www.kaggle.com/competitions/ieee-data-science-circle",
+        "prize": 0
+    },
+    {
+        "name": "Fall 2022 UT Business Data Science",
+        "link": "https://www.kaggle.com/competitions/fall-2022-bds",
+        "prize": 0
+    },
+    {
+        "name": "ML Ensemble Competition",
+        "link": "https://www.kaggle.com/competitions/ml-ensemble-competition",
+        "prize": 0
+    },
+    {
+        "name": "VNPT AI Final Project 2022 - Data Science",
+        "link": "https://www.kaggle.com/competitions/vnpt-ai-class-2022-data-science",
+        "prize": 0
+    },
+    {
+        "name": "AF II 2022-II: object localization GR1",
+        "link": "https://www.kaggle.com/competitions/af-ii-2022-ii-object-localization-gr1",
+        "prize": 0
+    },
+    {
+        "name": "2022 Kaggle Machine Learning & Data Science Survey",
+        "link": "https://www.kaggle.com/competitions/kaggle-survey-2022",
+        "prize": 30000
+    },
+    {
+        "name": "Supervised Learning - Hands-on",
+        "link": "https://www.kaggle.com/competitions/2203-supervisedlearning-immune",
+        "prize": 0
+    },
+    {
+        "name": "Classifying Arabic Handwritten Characters",
+        "link": "https://www.kaggle.com/competitions/classifying-arabic-handwritten-characters",
+        "prize": 0
+    },
+    {
+        "name": "SCSC Data Science Workshop",
+        "link": "https://www.kaggle.com/competitions/scsc-data-science-workshop",
+        "prize": 0
+    },
+    {
+        "name": "Data Mining TA.2022/2023",
+        "link": "https://www.kaggle.com/competitions/data-mining-ta20222023",
+        "prize": 0
+    },
+    {
+        "name": "Predict VIRAL instagram posts!🔥   ",
+        "link": "https://www.kaggle.com/competitions/predict-viral-instagram-posts",
+        "prize": 0
+    },
+    {
+        "name": "Predict VIRAL instagram posts! 🔥",
+        "link": "https://www.kaggle.com/competitions/predict-viral-instagram-posts-advanced",
+        "prize": 0
+    },
+    {
+        "name": "2110531 Data Science and Data Engineering Tools",
+        "link": "https://www.kaggle.com/competitions/2110531-data-science-and-data-engineering-tools",
+        "prize": 0
+    },
+    {
+        "name": "Predict the salary for Data Science Jobs",
+        "link": "https://www.kaggle.com/competitions/bt-ironhack-agosto-2022-ml-competition",
+        "prize": 0
+    },
+    {
+        "name": "Pelatihan GTA - DSF",
+        "link": "https://www.kaggle.com/competitions/pelatihan-gta-dsf-sept",
+        "prize": 0
+    },
+    {
+        "name": "GDSC Data Science Recruitments 2022 ",
+        "link": "https://www.kaggle.com/competitions/gdsc-data-science-recruitments-2022",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Osaka Autumn 2022",
+        "link": "https://www.kaggle.com/competitions/data-science-osaka-autumn-2022",
+        "prize": 0
+    },
+    {
+        "name": "MMF Data Science 2022",
+        "link": "https://www.kaggle.com/competitions/mmf-data-science-2022",
+        "prize": 0
+    },
+    {
+        "name": "VNPT AI Final Project 2022 - Data Science",
+        "link": "https://www.kaggle.com/competitions/vnpt-ai-final-project-2022-data-science",
+        "prize": 0
+    },
+    {
+        "name": "Oprec Divisi Data Science OmahTI 2022",
+        "link": "https://www.kaggle.com/competitions/soal-praktek-2022",
+        "prize": 0
+    },
+    {
+        "name": "Const Dev Challenge 2022",
+        "link": "https://www.kaggle.com/competitions/const-dev-challenge-2022",
+        "prize": 0
+    },
+    {
+        "name": "SATRIA DATA ITB 2022",
+        "link": "https://www.kaggle.com/competitions/satria-data-itb-2022",
+        "prize": 0
+    },
+    {
+        "name": "Open Problems - Multimodal Single-Cell Integration",
+        "link": "https://www.kaggle.com/competitions/open-problems-multimodal",
+        "prize": 25000
+    },
+    {
+        "name": "Data Science Competition 2022 NDDC X KMTETI",
+        "link": "https://www.kaggle.com/competitions/dsc-dteti-2022",
+        "prize": 0
+    },
+    {
+        "name": "Precio de portátiles",
+        "link": "https://www.kaggle.com/competitions/precio-de-portatiles",
+        "prize": 0
+    },
+    {
+        "name": "DSCTP 2022 1 House Pricing",
+        "link": "https://www.kaggle.com/competitions/dsctp-2022-1-house-pricing",
+        "prize": 0
+    },
+    {
+        "name": "ITEC'22 DATA SCIENCE",
+        "link": "https://www.kaggle.com/competitions/itec-ned-data-science",
+        "prize": 0
+    },
+    {
+        "name": "Predict the salary for Data Science Jobs",
+        "link": "https://www.kaggle.com/competitions/predict-the-salary-for-data-science-jobs",
+        "prize": 0
+    },
+    {
+        "name": "Predict the salary for Data Science Jobs",
+        "link": "https://www.kaggle.com/competitions/ih-data-analasys-may22-competition",
+        "prize": 0
+    },
+    {
+        "name": "Nuclio:13-dsc-0522",
+        "link": "https://www.kaggle.com/competitions/nuclio13-dsc-0522",
+        "prize": 0
+    },
+    {
+        "name": "Psych Data Science Lab @ BGU 2022",
+        "link": "https://www.kaggle.com/competitions/psych-data-science-lab-bgu-2022",
+        "prize": 0
+    },
+    {
+        "name": "EDSA Individual | Electricity Shortfall Challenge",
+        "link": "https://www.kaggle.com/competitions/edsa-individual-electricity-shortfall-challenge",
+        "prize": 0
+    },
+    {
+        "name": "South African Language Identification Hack 2022",
+        "link": "https://www.kaggle.com/competitions/south-african-language-identification-hack-2022",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Osaka Summer 2022",
+        "link": "https://www.kaggle.com/competitions/data-science-osaka-summer-2022",
+        "prize": 0
+    },
+    {
+        "name": "[Classroom] Demand Forecasting",
+        "link": "https://www.kaggle.com/competitions/classroom-demand-forecasting",
+        "prize": 0
+    },
+    {
+        "name": "AF II 2022-II: object localization ",
+        "link": "https://www.kaggle.com/competitions/analytics-fundamentals-ii-2022-2-convnets",
+        "prize": 0
+    },
+    {
+        "name": "Nuclio:12-dsc-str-0322",
+        "link": "https://www.kaggle.com/competitions/nuclio12-dsc-str-0322",
+        "prize": 0
+    },
+    {
+        "name": "KML Challenge 2022S",
+        "link": "https://www.kaggle.com/competitions/kml2022s",
+        "prize": 0
+    },
+    {
+        "name": "INSAID Data Premier League (Edition : May 2022)",
+        "link": "https://www.kaggle.com/competitions/insaid-dpl2022",
+        "prize": 0
+    },
+    {
+        "name": "Fashion MNist",
+        "link": "https://www.kaggle.com/competitions/fminst2122",
+        "prize": 0
+    },
+    {
+        "name": "NH Data Science Lab 5",
+        "link": "https://www.kaggle.com/competitions/nhn-data-science-lab-5",
+        "prize": 0
+    },
+    {
+        "name": "NH Data Science Course Lab3 ",
+        "link": "https://www.kaggle.com/competitions/nh-data-science-course-lab3",
+        "prize": 0
+    },
+    {
+        "name": "Google AI4Code – Understand Code in Python Notebooks",
+        "link": "https://www.kaggle.com/competitions/AI4Code",
+        "prize": 150000
+    },
+    {
+        "name": "MBDA - ¿Qué es Data Science?",
+        "link": "https://www.kaggle.com/competitions/prediccion-alquiler-bicicletas-valencia",
+        "prize": 0
+    },
+    {
+        "name": "CS245-2 Project 2:  Key Author Finding",
+        "link": "https://www.kaggle.com/competitions/cs245-2-project-2-key-author-finding",
+        "prize": 0
+    },
+    {
+        "name": "CS245-2 Project 1: Graph based Recommendation",
+        "link": "https://www.kaggle.com/competitions/cs245-2-project-11-graph-based-recommendation",
+        "prize": 0
+    },
+    {
+        "name": "Identify Player Number 10 from Match Snapshots",
+        "link": "https://www.kaggle.com/competitions/player10",
+        "prize": 0
+    },
+    {
+        "name": "MFF Data Science 2 HW3",
+        "link": "https://www.kaggle.com/competitions/mff-data-science-2-hw3",
+        "prize": 0
+    },
+    {
+        "name": "Data Science 3 Classification 2022: Loan Repayment",
+        "link": "https://www.kaggle.com/competitions/data-sci-3-classification-2022-loan-repayment",
+        "prize": 0
+    },
+    {
+        "name": "Google Smartphone Decimeter Challenge 2022",
+        "link": "https://www.kaggle.com/competitions/smartphone-decimeter-2022",
+        "prize": 10000
+    },
+    {
+        "name": "Nuclio:11-dsc-0222",
+        "link": "https://www.kaggle.com/competitions/nuclio11-dsc-0222",
+        "prize": 0
+    },
+    {
+        "name": "HackSchulich2022",
+        "link": "https://www.kaggle.com/competitions/hackschulich2022",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Scotland meetup - W&B competition",
+        "link": "https://www.kaggle.com/competitions/data-science-scotland-meetup-wandb",
+        "prize": 0
+    },
+    {
+        "name": "PS11 Part 1: Voice2SpeakerID",
+        "link": "https://www.kaggle.com/competitions/ps11-p1-voice2speakerid",
+        "prize": 0
+    },
+    {
+        "name": "PS11 Part 2: Voice2Gender",
+        "link": "https://www.kaggle.com/competitions/ps11-p2-voice2gender",
+        "prize": 0
+    },
+    {
+        "name": "PS11 Part 3: Voice2Age",
+        "link": "https://www.kaggle.com/competitions/ps11-p3-voice2age",
+        "prize": 0
+    },
+    {
+        "name": "Data Science 3 Regression 2022: Bank Loans",
+        "link": "https://www.kaggle.com/competitions/data-sci-3-reg-2022-bank-loans",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Training - Titanic",
+        "link": "https://www.kaggle.com/competitions/data-science-training-titanic",
+        "prize": 0
+    },
+    {
+        "name": "Spain Electricity Shortfall Challenge 2022",
+        "link": "https://www.kaggle.com/competitions/spain-electricity-shortfall-challenge-2022",
+        "prize": 0
+    },
+    {
+        "name": "IEEE CUSB | ML Competition",
+        "link": "https://www.kaggle.com/competitions/ieee-cusb-ml-competition",
+        "prize": 0
+    },
+    {
+        "name": "Self-Driving Cars: Drivable or Not? Advanced",
+        "link": "https://www.kaggle.com/competitions/self-driving-cars-drivable-or-not-advanced",
+        "prize": 0
+    },
+    {
+        "name": "Self-Driving Cars: Drivable or Not? Beginner",
+        "link": "https://www.kaggle.com/competitions/self-driving-cars-drivable-or-not-beginner",
+        "prize": 0
+    },
+    {
+        "name": "PS10 Part 2: Transfer Learning",
+        "link": "https://www.kaggle.com/competitions/ps10-part-2-sp22",
+        "prize": 0
+    },
+    {
+        "name": "PS10 Part 1: Prevalence of the CCD Disease",
+        "link": "https://www.kaggle.com/competitions/ps10-1-sp22",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Capstone Project Playoffs",
+        "link": "https://www.kaggle.com/competitions/cs310-playoffs",
+        "prize": 0
+    },
+    {
+        "name": "Central NJ Data Science Meetup April 2022",
+        "link": "https://www.kaggle.com/competitions/central-nj-data-science-meetup-april-2022",
+        "prize": 0
+    },
+    {
+        "name": "Foursquare - Location Matching",
+        "link": "https://www.kaggle.com/competitions/foursquare-location-matching",
+        "prize": 25000
+    },
+    {
+        "name": "IDC Challenge 2022",
+        "link": "https://www.kaggle.com/competitions/idc-challenge-2022",
+        "prize": 0
+    },
+    {
+        "name": "222-Flex Ames Competition",
+        "link": "https://www.kaggle.com/competitions/222-flex-ames",
+        "prize": 0
+    },
+    {
+        "name": "GDSC_Damnhour Data Science Track",
+        "link": "https://www.kaggle.com/competitions/gdsc-data-science-track",
+        "prize": 0
+    },
+    {
+        "name": "2110446 DS Round 2",
+        "link": "https://www.kaggle.com/competitions/2110446-data-science-and-data-engineering-2022redo",
+        "prize": 0
+    },
+    {
+        "name": "UET Hackathon 2022 - Data Science",
+        "link": "https://www.kaggle.com/competitions/uet-hackathon-2022-data-science",
+        "prize": 0
+    },
+    {
+        "name": "Pelatihan GTA - DSF",
+        "link": "https://www.kaggle.com/competitions/pelatihan-gta-dsf-april",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Capstone Project",
+        "link": "https://www.kaggle.com/competitions/cs310-data-science-capstone-project",
+        "prize": 0
+    },
+    {
+        "name": "EDSA Movie Recommendation 2022",
+        "link": "https://www.kaggle.com/competitions/edsa-movie-recommendation-2022",
+        "prize": 0
+    },
+    {
+        "name": "Credenz 21-22: DataWiz 2022",
+        "link": "https://www.kaggle.com/competitions/credenz-21-22-datawiz-2022",
+        "prize": 0
+    },
+    {
+        "name": "321-Countdown! Ames Competition",
+        "link": "https://www.kaggle.com/competitions/321-countdown",
+        "prize": 0
+    },
+    {
+        "name": "JPX Tokyo Stock Exchange Prediction",
+        "link": "https://www.kaggle.com/competitions/jpx-tokyo-stock-exchange-prediction",
+        "prize": 63000
+    },
+    {
+        "name": "BostonHack x BUDSA Hackathon",
+        "link": "https://www.kaggle.com/competitions/bostonhack-x-budsa-hackathon",
+        "prize": 0
+    },
+    {
+        "name": "Recognizance'22",
+        "link": "https://www.kaggle.com/competitions/recognizance22",
+        "prize": 0
+    },
+    {
+        "name": "KAIST Introduction to Data Science",
+        "link": "https://www.kaggle.com/competitions/kaist-intro-ds",
+        "prize": 0
+    },
+    {
+        "name": "Practice of Data Science Competition",
+        "link": "https://www.kaggle.com/competitions/practice-of-data-science-competition",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Homework",
+        "link": "https://www.kaggle.com/competitions/data-science-homework",
+        "prize": 0
+    },
+    {
+        "name": "Company Bankruptcy Prediction",
+        "link": "https://www.kaggle.com/competitions/company-bankruptcy-prediction",
+        "prize": 0
+    },
+    {
+        "name": "Fashion and Beauty Reviews",
+        "link": "https://www.kaggle.com/competitions/fashion-and-beauty-reviews",
+        "prize": 0
+    },
+    {
+        "name": "Classification of plants of Southeast Asia",
+        "link": "https://www.kaggle.com/competitions/classification-of-plants-of-southeast-asia",
+        "prize": 0
+    },
+    {
+        "name": "Cassandra (UDYAM 2022)",
+        "link": "https://www.kaggle.com/competitions/cassandra-udyam-2022",
+        "prize": 0
+    },
+    {
+        "name": "MBI Big Data & Data Science Competition",
+        "link": "https://www.kaggle.com/competitions/mbi2022Cup",
+        "prize": 0
+    },
+    {
+        "name": "NTHU DS2022 HW2",
+        "link": "https://www.kaggle.com/competitions/nthu-ds2022-hw2",
+        "prize": 0
+    },
+    {
+        "name": "Customer Churn Prediction",
+        "link": "https://www.kaggle.com/competitions/customer-churn-prediction-visathon",
+        "prize": 0
+    },
+    {
+        "name": "Precio de las laptop",
+        "link": "https://www.kaggle.com/competitions/precio-de-las-laptop",
+        "prize": 0
+    },
+    {
+        "name": "Procom'22 Data Science Competition",
+        "link": "https://www.kaggle.com/competitions/procom22-data-science-competition",
+        "prize": 0
+    },
+    {
+        "name": "Prediction",
+        "link": "https://www.kaggle.com/competitions/mdss-customer-churn-prediction",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Osaka Spring 2022",
+        "link": "https://www.kaggle.com/competitions/data-science-osaka-spring-2022",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Lab 2022 Spring Kaggle",
+        "link": "https://www.kaggle.com/competitions/data-science-lab-2022-spring-kaggle",
+        "prize": 0
+    },
+    {
+        "name": "MFF Data Science 2 HW1",
+        "link": "https://www.kaggle.com/competitions/mff-data-science-2-hw1",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Capstone Project Spring 2022",
+        "link": "https://www.kaggle.com/competitions/data-science-capstone-project-spring-2022",
+        "prize": 0
+    },
+    {
+        "name": "Cassandra Mock Round",
+        "link": "https://www.kaggle.com/competitions/cassandra-mock-round",
+        "prize": 0
+    },
+    {
+        "name": "CS506 Midterm",
+        "link": "https://www.kaggle.com/competitions/cs506-midterm",
+        "prize": 0
+    },
+    {
+        "name": "EDSA - Climate Change Belief Analysis 2022",
+        "link": "https://www.kaggle.com/competitions/edsa-climate-change-belief-analysis-2022",
+        "prize": 0
+    },
+    {
+        "name": "Predictive Modeling",
+        "link": "https://www.kaggle.com/competitions/48fe736d-d85a-4e97-b362-5f045be3c5ec",
+        "prize": 0
+    },
+    {
+        "name": "Excellence in Research Award (Phase II)",
+        "link": "https://www.kaggle.com/competitions/phase-ii-widsdatathon2022",
+        "prize": 0
+    },
+    {
+        "name": "MFF Data Science 2 HW2",
+        "link": "https://www.kaggle.com/competitions/mff-data-science-2-test",
+        "prize": 0
+    },
+    {
+        "name": "Ensias AI Kaggle Playground 2022",
+        "link": "https://www.kaggle.com/competitions/ensias-ai-kaggle-playground-2022",
+        "prize": 0
+    },
+    {
+        "name": "RISTEK Data Science 2022 Open Recruitment",
+        "link": "https://www.kaggle.com/competitions/oprec-ristek-ds-2022",
+        "prize": 0
+    },
+    {
+        "name": "USS Data Science Workshop Competition 2022",
+        "link": "https://www.kaggle.com/competitions/ussdatascienceworkshop2022",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Bootcamp HMIF ITB 2022",
+        "link": "https://www.kaggle.com/competitions/data-science-bootcamp-hmif-itb-2022",
+        "prize": 0
+    },
+    {
+        "name": "Emotion Recognition in Conversations (NLP)",
+        "link": "https://www.kaggle.com/competitions/nlp22",
+        "prize": 0
+    },
+    {
+        "name": "Facial Expression Recognition in Image Sequences",
+        "link": "https://www.kaggle.com/competitions/fer22",
+        "prize": 0
+    },
+    {
+        "name": "2110446 Data Science and Data Engineering 2022",
+        "link": "https://www.kaggle.com/competitions/2110446-data-science-and-data-engineering-2022",
+        "prize": 0
+    },
+    {
+        "name": "STL Housing",
+        "link": "https://www.kaggle.com/competitions/stl-housing",
+        "prize": 0
+    },
+    {
+        "name": "Nuclio:10-dsc-1121",
+        "link": "https://www.kaggle.com/competitions/nuclio10-dsc-1121",
+        "prize": 0
+    },
+    {
+        "name": "IEEE CodinGuru | AI Module",
+        "link": "https://www.kaggle.com/competitions/ieee-coding-gurus-aiguru",
+        "prize": 0
+    },
+    {
+        "name": "Supervised Learning - Hands-on",
+        "link": "https://www.kaggle.com/competitions/4edsupervisedlearningimmune",
+        "prize": 0
+    },
+    {
+        "name": "PTI Hack",
+        "link": "https://www.kaggle.com/competitions/pti-hack",
+        "prize": 0
+    },
+    {
+        "name": "Adswerve Data Science Challenge 2022 Q1",
+        "link": "https://www.kaggle.com/competitions/adswerve-data-science-challenge-2022-q1",
+        "prize": 0
+    },
+    {
+        "name": "DS Test",
+        "link": "https://www.kaggle.com/competitions/ds-programming-test",
+        "prize": 0
+    },
+    {
+        "name": "Free Pass Data Science BCC 2022",
+        "link": "https://www.kaggle.com/competitions/freepassbcc",
+        "prize": 0
+    },
+    {
+        "name": "Nuclio:09-dsc-str-1021",
+        "link": "https://www.kaggle.com/competitions/nuclio09-dsc-str-1021",
+        "prize": 0
+    },
+    {
+        "name": "BGU | Introduction to Data Science",
+        "link": "https://www.kaggle.com/competitions/intro-ds-project",
+        "prize": 0
+    },
+    {
+        "name": "Central NJ Data Science Meetup",
+        "link": "https://www.kaggle.com/competitions/central-nj-data-science-meetup",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Capstone - Mini Project Competition",
+        "link": "https://www.kaggle.com/competitions/capstonespring2022",
+        "prize": 0
+    },
+    {
+        "name": "HvA: Data Science FD",
+        "link": "https://www.kaggle.com/competitions/hva-data-science-fd",
+        "prize": 0
+    },
+    {
+        "name": "EDSA Movie Recommendation Wilderness",
+        "link": "https://www.kaggle.com/competitions/edsa-movie-recommendation-wilderness",
+        "prize": 0
+    },
+    {
+        "name": "WiDS Datathon 2022",
+        "link": "https://www.kaggle.com/competitions/widsdatathon2022",
+        "prize": 0
+    },
+    {
+        "name": "Predict Youtube Video Likes (Pog Series #1)",
+        "link": "https://www.kaggle.com/competitions/kaggle-pog-series-s01e01",
+        "prize": 0
+    },
+    {
+        "name": "24Hours Data Science Challenge- PSUT",
+        "link": "https://www.kaggle.com/competitions/ds24h-challenge-psut",
+        "prize": 0
+    },
+    {
+        "name": "2021 Data Science HW2",
+        "link": "https://www.kaggle.com/competitions/2021-data-science-hw2",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Winter Osaka2",
+        "link": "https://www.kaggle.com/competitions/data-science-winter-osaka2",
+        "prize": 0
+    },
+    {
+        "name": "Nuclio:08-dsc-0921",
+        "link": "https://www.kaggle.com/competitions/nuclio08-dsc-0921",
+        "prize": 0
+    },
+    {
+        "name": "DSE501 Introduction to Data Science Tools",
+        "link": "https://www.kaggle.com/competitions/dse501-introduction-to-data-science-tools",
+        "prize": 0
+    },
+    {
+        "name": "PS11 Part 3: Voice2Age",
+        "link": "https://www.kaggle.com/competitions/ps11-part-3-voice2age",
+        "prize": 0
+    },
+    {
+        "name": "PS11 Part 2: Voice2Gender",
+        "link": "https://www.kaggle.com/competitions/ps11-part-2-voice2gender",
+        "prize": 0
+    },
+    {
+        "name": "PS11 Part 1: Voice2SpeakerID ",
+        "link": "https://www.kaggle.com/competitions/ps11-part-1-voice2speakerid",
+        "prize": 0
+    },
+    {
+        "name": "Competencia para Data Science",
+        "link": "https://www.kaggle.com/competitions/data-science-specialist",
+        "prize": 0
+    },
+    {
+        "name": "K*MBA ML Challenge 2021",
+        "link": "https://www.kaggle.com/competitions/kmba2021",
+        "prize": 0
+    },
+    {
+        "name": "NTU 2021 Data Science HW6",
+        "link": "https://www.kaggle.com/competitions/ntuds-2021-digit-recognition",
+        "prize": 0
+    },
+    {
+        "name": "[Test] NTU 2021 Data Science HW6",
+        "link": "https://www.kaggle.com/competitions/test-111",
+        "prize": 0
+    },
+    {
+        "name": "Cusco-PUCP 2021-02 - Ataque al Corazón",
+        "link": "https://www.kaggle.com/competitions/cusco-pucp-2021-02-heart-attack",
+        "prize": 0
+    },
+    {
+        "name": "KML Challenge 2021F",
+        "link": "https://www.kaggle.com/competitions/kml2021f",
+        "prize": 0
+    },
+    {
+        "name": "Data Science & Machine Learning (ISM 415)",
+        "link": "https://www.kaggle.com/competitions/data-science-and-machine-learning-ism-415",
+        "prize": 0
+    },
+    {
+        "name": "Hackathon Data Science AVISIA 2021",
+        "link": "https://www.kaggle.com/competitions/hackathon-data-science-avisia-2021",
+        "prize": 0
+    },
+    {
+        "name": "PS10 Part 2: Transfer Learning",
+        "link": "https://www.kaggle.com/competitions/ps10-2-fall2021",
+        "prize": 0
+    },
+    {
+        "name": "PS10 Part 1: Prevalence of the CCD Disease",
+        "link": "https://www.kaggle.com/competitions/ps10-1-fall21",
+        "prize": 0
+    },
+    {
+        "name": "Computing SG Data Science",
+        "link": "https://www.kaggle.com/competitions/computingsgds",
+        "prize": 0
+    },
+    {
+        "name": "Desafio 1 - Extensão Data Science e AI",
+        "link": "https://www.kaggle.com/competitions/desafio01extensaodatascienceeai",
+        "prize": 0
+    },
+    {
+        "name": "COSC2789 2021 Assignment 2",
+        "link": "https://www.kaggle.com/competitions/cosc2789-2021",
+        "prize": 0
+    },
+    {
+        "name": "2021/22 Climate Change Belief Analysis",
+        "link": "https://www.kaggle.com/competitions/202122-climate-change-belief-analysis",
+        "prize": 0
+    },
+    {
+        "name": "SBS-PUCP 2021-01 - Competencia sobre Marketing v2",
+        "link": "https://www.kaggle.com/competitions/sbs-pucp-2021-01-competencia-sobre-marketing-v2",
+        "prize": 0
+    },
+    {
+        "name": "Hack Placements",
+        "link": "https://www.kaggle.com/competitions/gdscjmi-hack-placements",
+        "prize": 0
+    },
+    {
+        "name": "2021 Data Science HW1",
+        "link": "https://www.kaggle.com/competitions/2021-data-science-hw1",
+        "prize": 0
+    },
+    {
+        "name": "9/21 - East Coast Flex Ames Competition",
+        "link": "https://www.kaggle.com/competitions/921fx-ames",
+        "prize": 0
+    },
+    {
+        "name": "SBS-PUCP 2021-01 - Competencia sobre Marketing v1",
+        "link": "https://www.kaggle.com/competitions/sbs-pucp-2021-01-competencia-sobre-marketing-v1-1",
+        "prize": 0
+    },
+    {
+        "name": "Tickmill Forecasting Challenge",
+        "link": "https://www.kaggle.com/competitions/tickmill1",
+        "prize": 0
+    },
+    {
+        "name": "KSchool Master Data Science Online ",
+        "link": "https://www.kaggle.com/competitions/MasterDataScienceKschool",
+        "prize": 0
+    },
+    {
+        "name": "CAS Data Science HS 21 - ML Lab 2",
+        "link": "https://www.kaggle.com/competitions/cas-data-science-hs-21-c1-ml-lab-2",
+        "prize": 0
+    },
+    {
+        "name": "Polytech' Nice Data Science course 2021",
+        "link": "https://www.kaggle.com/competitions/polytech-nice-data-science-course-2021",
+        "prize": 0
+    },
+    {
+        "name": "CAS Data Science HS 21 - ML Lab 2",
+        "link": "https://www.kaggle.com/competitions/cas-data-science-hs-21-c2-ml-lab-2",
+        "prize": 0
+    },
+    {
+        "name": "Prototyping Data Science Products - PDSP",
+        "link": "https://www.kaggle.com/competitions/pdsp",
+        "prize": 0
+    },
+    {
+        "name": "Machine Learning Competition",
+        "link": "https://www.kaggle.com/competitions/ids-2021-ut-course",
+        "prize": 0
+    },
+    {
+        "name": "VHB ProDok Data Science: Ames Housing",
+        "link": "https://www.kaggle.com/competitions/vhb-prodok-ames-housing",
+        "prize": 0
+    },
+    {
+        "name": "NTHU Data Science 2021 HW5",
+        "link": "https://www.kaggle.com/competitions/nthu-ds2021-hw5",
+        "prize": 0
+    },
+    {
+        "name": "Spain Electricity Shortfall Challenge",
+        "link": "https://www.kaggle.com/competitions/spain-electricity-shortfall-challenge",
+        "prize": 0
+    },
+    {
+        "name": "Challenge Avisia - Reco blog",
+        "link": "https://www.kaggle.com/competitions/challenge-avisia-reco-blog",
+        "prize": 0
+    },
+    {
+        "name": "2021 Kaggle Machine Learning & Data Science Survey",
+        "link": "https://www.kaggle.com/competitions/kaggle-survey-2021",
+        "prize": 30000
+    },
+    {
+        "name": "Prediction Competition - Bike Sharing Demand",
+        "link": "https://www.kaggle.com/competitions/ds-org-bike-sharing-demand",
+        "prize": 0
+    },
+    {
+        "name": "Ames Housing Data",
+        "link": "https://www.kaggle.com/competitions/dsirfx817",
+        "prize": 0
+    },
+    {
+        "name": "CAS Data Science HS 21 - ML Lab 1",
+        "link": "https://www.kaggle.com/competitions/cas-data-science-hs-21-c1-ml-lab-1",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Autumn 2021",
+        "link": "https://www.kaggle.com/competitions/data-science-autumn-2021",
+        "prize": 0
+    },
+    {
+        "name": "Heber Data Science Hackathon- Image Classification",
+        "link": "https://www.kaggle.com/competitions/heberhackathon",
+        "prize": 0
+    },
+    {
+        "name": "CAS Data Science HS 21 - ML Lab 1",
+        "link": "https://www.kaggle.com/competitions/cas-data-science-hs-21-c2-ml-lab-1",
+        "prize": 0
+    },
+    {
+        "name": "Australian Stores Sales Demand Forecasting",
+        "link": "https://www.kaggle.com/competitions/australian-stores-demand-forecasting",
+        "prize": 0
+    },
+    {
+        "name": "EPF Montpellier - Introduction to Data Science",
+        "link": "https://www.kaggle.com/competitions/epf-montpellier-introduction-to-data-science",
+        "prize": 0
+    },
+    {
+        "name": "Heber Data Science Hackathon",
+        "link": "https://www.kaggle.com/competitions/testbishop",
+        "prize": 0
+    },
+    {
+        "name": "Time Series - DSF GTA",
+        "link": "https://www.kaggle.com/competitions/timeseriesdsf",
+        "prize": 0
+    },
+    {
+        "name": "GTA Data Science Fundamental",
+        "link": "https://www.kaggle.com/competitions/gta-dsf",
+        "prize": 0
+    },
+    {
+        "name": "Data science Course Homework",
+        "link": "https://www.kaggle.com/competitions/jds3",
+        "prize": 0
+    },
+    {
+        "name": "Past Comp",
+        "link": "https://www.kaggle.com/competitions/datathon-beginner-level",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Competition-Credit Risk Prediction",
+        "link": "https://www.kaggle.com/competitions/gs-l1-credit-risk-assessment",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Competition-Email Classification",
+        "link": "https://www.kaggle.com/competitions/gs-l1-email-classification",
+        "prize": 0
+    },
+    {
+        "name": "HAH Data Science Challenge",
+        "link": "https://www.kaggle.com/competitions/hah-data-science-challenge",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Nigeria Patient Treatment ",
+        "link": "https://www.kaggle.com/competitions/data-science-nigeria-patient-treatment",
+        "prize": 0
+    },
+    {
+        "name": "Beyond Analysis",
+        "link": "https://www.kaggle.com/competitions/beyond-analysis",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Capstone - Mini Project Competition",
+        "link": "https://www.kaggle.com/competitions/capstonefall2021",
+        "prize": 0
+    },
+    {
+        "name": "Level Up Final Project",
+        "link": "https://www.kaggle.com/competitions/himatika-levelup",
+        "prize": 0
+    },
+    {
+        "name": "Innføring i data science - 2021",
+        "link": "https://www.kaggle.com/competitions/inf161-innforing-i-data-science-2021",
+        "prize": 0
+    },
+    {
+        "name": "2021 Data Science HW5 Link Prediction Project",
+        "link": "https://www.kaggle.com/competitions/2021-ntust-sna-hw",
+        "prize": 0
+    },
+    {
+        "name": "GirlsGoIT Competition 2021",
+        "link": "https://www.kaggle.com/competitions/girlsgoit-competition-2021",
+        "prize": 0
+    },
+    {
+        "name": "Skill-Branch Final Project",
+        "link": "https://www.kaggle.com/competitions/skill-branch-final-project",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Summer2 Osaka",
+        "link": "https://www.kaggle.com/competitions/data-science-summer2-osaka",
+        "prize": 0
+    },
+    {
+        "name": "How to be instagram-famous with data science",
+        "link": "https://www.kaggle.com/competitions/how-to-be-instagram-famous-with-data-science",
+        "prize": 0
+    },
+    {
+        "name": "Biobytes :- Data Science Contest",
+        "link": "https://www.kaggle.com/competitions/biobytes-data-science-contest",
+        "prize": 0
+    },
+    {
+        "name": "Biobytes : Data Science Contest",
+        "link": "https://www.kaggle.com/competitions/biobytes",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Nigeria Bank Campaign Subscription v2",
+        "link": "https://www.kaggle.com/competitions/data-science-nigeria-bank-campaign-subscription-v2",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Nigeria Bank Campaign Subscriptions 2",
+        "link": "https://www.kaggle.com/competitions/data-science-nigeria-bank-campaign-subscriptions-2",
+        "prize": 0
+    },
+    {
+        "name": "BU Data Science Summer'21",
+        "link": "https://www.kaggle.com/competitions/bu-data-science-summer-21",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Club PSUT ",
+        "link": "https://www.kaggle.com/competitions/data-science-club-psut",
+        "prize": 0
+    },
+    {
+        "name": "BCC 2021 Datathon#1",
+        "link": "https://www.kaggle.com/competitions/bcc-2021-datathon1",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Nigeria Apex Bank Convert Algorithm 2",
+        "link": "https://www.kaggle.com/competitions/data-science-nigeria-apex-bank-convert-algorithm-2",
+        "prize": 0
+    },
+    {
+        "name": "Predykcja ceny mieszkań",
+        "link": "https://www.kaggle.com/competitions/master-class-property",
+        "prize": 0
+    },
+    {
+        "name": "SDA Data Science ",
+        "link": "https://www.kaggle.com/competitions/sda-data-science",
+        "prize": 0
+    },
+    {
+        "name": "Optiver Realized Volatility Prediction",
+        "link": "https://www.kaggle.com/competitions/optiver-realized-volatility-prediction",
+        "prize": 100000
+    },
+    {
+        "name": "Data Science Nigeria Bank Campaign Subscriptions ",
+        "link": "https://www.kaggle.com/competitions/data-science-nigeria-bank-campaign-subscriptions",
+        "prize": 0
+    },
+    {
+        "name": "Nuclio:07-dsc-0421",
+        "link": "https://www.kaggle.com/competitions/nuclio07-dsc-0421",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Hackathon",
+        "link": "https://www.kaggle.com/competitions/ds-coe",
+        "prize": 0
+    },
+    {
+        "name": "DATA SCIENCE - ML AND DL",
+        "link": "https://www.kaggle.com/competitions/data-science-finetuning",
+        "prize": 0
+    },
+    {
+        "name": "DATA SCIENCE - ML AND DL",
+        "link": "https://www.kaggle.com/competitions/datasciencemlanddl2",
+        "prize": 0
+    },
+    {
+        "name": "Psych Data Science Lab @ BGU 2021",
+        "link": "https://www.kaggle.com/competitions/psych-data-science-lab-bgu-2021",
+        "prize": 0
+    },
+    {
+        "name": "Data Science testing ex №6",
+        "link": "https://www.kaggle.com/competitions/dfpmidatascience5",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Contest",
+        "link": "https://www.kaggle.com/competitions/data-science-contest",
+        "prize": 0
+    },
+    {
+        "name": "ST4 data challenge",
+        "link": "https://www.kaggle.com/competitions/st4-data-challenge-new",
+        "prize": 0
+    },
+    {
+        "name": "Introduction to Data Science Challenge",
+        "link": "https://www.kaggle.com/competitions/introduction-to-data-science-challenge",
+        "prize": 0
+    },
+    {
+        "name": "Intro to Data Science Challenge",
+        "link": "https://www.kaggle.com/competitions/intro-to-data-science-challenge",
+        "prize": 0
+    },
+    {
+        "name": "ST4 data challenge 2021",
+        "link": "https://www.kaggle.com/competitions/st4-data-challenge-2021",
+        "prize": 0
+    },
+    {
+        "name": "Test Comp 1 ",
+        "link": "https://www.kaggle.com/competitions/test-comp-1",
+        "prize": 0
+    },
+    {
+        "name": "Machine Learning Lab - CAS Data Science FS 21",
+        "link": "https://www.kaggle.com/competitions/cas-data-science-fs-21-c1-ml-lab-2",
+        "prize": 0
+    },
+    {
+        "name": "DATA SCIENCE - ML AND DL",
+        "link": "https://www.kaggle.com/competitions/data-science-ml-and-dl",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Spring Osaka (Hard Mode)",
+        "link": "https://www.kaggle.com/competitions/data-science-spring-osaka-hard-mode",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Final Exam",
+        "link": "https://www.kaggle.com/competitions/data-science-final-exam",
+        "prize": 0
+    },
+    {
+        "name": "KML Challenge 2021S",
+        "link": "https://www.kaggle.com/competitions/kml2021s",
+        "prize": 0
+    },
+    {
+        "name": "NYCU 2021 Data Science Applications Project 2 ",
+        "link": "https://www.kaggle.com/competitions/nycu-2021-data-science-applications-project-2",
+        "prize": 0
+    },
+    {
+        "name": "NYCU 2021 Data Science Applications V3",
+        "link": "https://www.kaggle.com/competitions/nycu-2021-data-science-applications-v3",
+        "prize": 0
+    },
+    {
+        "name": "Machine Learning Lab - CAS Data Science FS 21",
+        "link": "https://www.kaggle.com/competitions/machine-learning-lab-cas-data-science-fs-21",
+        "prize": 0
+    },
+    {
+        "name": "¿Qué es Data Science? Competición",
+        "link": "https://www.kaggle.com/competitions/que-es-data-science-competicion",
+        "prize": 0
+    },
+    {
+        "name": "CAS Data Science FS 21 - ML Lab 1",
+        "link": "https://www.kaggle.com/competitions/cas-data-science-fs-21-c1-ml-lab-1",
+        "prize": 0
+    },
+    {
+        "name": "Google Smartphone Decimeter Challenge",
+        "link": "https://www.kaggle.com/competitions/google-smartphone-decimeter-challenge",
+        "prize": 10000
+    },
+    {
+        "name": "SNU 2021-1 DS Project 3",
+        "link": "https://www.kaggle.com/competitions/snu-2021-1-ds-project-3",
+        "prize": 0
+    },
+    {
+        "name": "SETI Breakthrough Listen - E.T. Signal Search",
+        "link": "https://www.kaggle.com/competitions/seti-breakthrough-listen",
+        "prize": 15000
+    },
+    {
+        "name": "Data Science 2021: Fake news challenge",
+        "link": "https://www.kaggle.com/competitions/ds2021",
+        "prize": 0
+    },
+    {
+        "name": "Nuclio:06-dsc-str-0321",
+        "link": "https://www.kaggle.com/competitions/nuclio06-dsc-str-0321",
+        "prize": 0
+    },
+    {
+        "name": "SSSSO MDCL Competition 2",
+        "link": "https://www.kaggle.com/competitions/sssso-mdcl-competition-ii",
+        "prize": 0
+    },
+    {
+        "name": "Certification Data Science AVISIA",
+        "link": "https://www.kaggle.com/competitions/certification-data-science-avisia",
+        "prize": 0
+    },
+    {
+        "name": "EDSA Movie Recommendation Challenge",
+        "link": "https://www.kaggle.com/competitions/edsa-movie-recommendation-challenge",
+        "prize": 0
+    },
+    {
+        "name": "Real Estate Price Prediction DS1",
+        "link": "https://www.kaggle.com/competitions/real-estate-price-prediction-ds1",
+        "prize": 0
+    },
+    {
+        "name": "NYCU 2021 Data Science Applications V2",
+        "link": "https://www.kaggle.com/competitions/nycu-2021-data-science-applications-v2",
+        "prize": 0
+    },
+    {
+        "name": "Библиотеки для DS2 - 803",
+        "link": "https://www.kaggle.com/competitions/ds803",
+        "prize": 0
+    },
+    {
+        "name": "Data Science & Machine Learning (ISM 415, 2021)",
+        "link": "https://www.kaggle.com/competitions/data-science-and-machine-learning-ism-415-2021",
+        "prize": 0
+    },
+    {
+        "name": "Identify Player Number 10 from Match Snapshots",
+        "link": "https://www.kaggle.com/competitions/football-player-number-10",
+        "prize": 0
+    },
+    {
+        "name": "Scope 21 - Data Science Hackathon",
+        "link": "https://www.kaggle.com/competitions/cat-reloaded",
+        "prize": 0
+    },
+    {
+        "name": "SSSSO Khammam Medchal Competition",
+        "link": "https://www.kaggle.com/competitions/sssso-kmm-mdcl-competition",
+        "prize": 0
+    },
+    {
+        "name": "CAS Data Science FS 21 - ML Lab 1",
+        "link": "https://www.kaggle.com/competitions/cas-data-science-fs-21-ml-lab-1",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Spring Osaka 2021",
+        "link": "https://www.kaggle.com/competitions/data-science-spring-osaka-2021",
+        "prize": 0
+    },
+    {
+        "name": "PS10 Part 3: Voice2Age",
+        "link": "https://www.kaggle.com/competitions/ps10-part-3-voice2age",
+        "prize": 0
+    },
+    {
+        "name": "Dossier quality item 2",
+        "link": "https://www.kaggle.com/competitions/dossier-quality-2",
+        "prize": 0
+    },
+    {
+        "name": "PS10 Part 1: Voice2SpeakerID",
+        "link": "https://www.kaggle.com/competitions/ps10-part-1-voice2speakerid",
+        "prize": 0
+    },
+    {
+        "name": "PS10 Part 2: Voice2Gender",
+        "link": "https://www.kaggle.com/competitions/ps10-part-2-voice2gender",
+        "prize": 0
+    },
+    {
+        "name": "Nuclio:05-dsc-0221",
+        "link": "https://www.kaggle.com/competitions/nuclio05-dsc-0221",
+        "prize": 0
+    },
+    {
+        "name": "Shift Academy Data Science Bootcamp 10",
+        "link": "https://www.kaggle.com/competitions/shift-academy-data-science-bootcamp-10",
+        "prize": 0
+    },
+    {
+        "name": "WiDS Texas Datathon 2021",
+        "link": "https://www.kaggle.com/competitions/wids-texas-datathon-2021",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Nigeria Insurance claims",
+        "link": "https://www.kaggle.com/competitions/data-science-nigeria-insurance-claims-competition",
+        "prize": 0
+    },
+    {
+        "name": "AI Talks#4 Tournament",
+        "link": "https://www.kaggle.com/competitions/ai-talks4-tournament",
+        "prize": 0
+    },
+    {
+        "name": "SNU 2021-1 DS Project 2",
+        "link": "https://www.kaggle.com/competitions/snu-2021-1-ds-project-2",
+        "prize": 0
+    },
+    {
+        "name": "DevDay'21 Data Science Competition",
+        "link": "https://www.kaggle.com/competitions/devday21-data-science-competition",
+        "prize": 0
+    },
+    {
+        "name": "PS9 Part 1: Prevalence of the CCD Disease",
+        "link": "https://www.kaggle.com/competitions/ps9-1-spring21",
+        "prize": 0
+    },
+    {
+        "name": "PS9 Part 2: Transfer Learning",
+        "link": "https://www.kaggle.com/competitions/ps9-2-spring21",
+        "prize": 0
+    },
+    {
+        "name": "Spotify Data Science Challenge",
+        "link": "https://www.kaggle.com/competitions/bfh-spotify-challenge-v2",
+        "prize": 0
+    },
+    {
+        "name": "NYCU 2021 Data Science Applications V1",
+        "link": "https://www.kaggle.com/competitions/nycu-2021-data-science-applications-v1",
+        "prize": 0
+    },
+    {
+        "name": "Cassandra, Udyam'21",
+        "link": "https://www.kaggle.com/competitions/cassandra-udyam21",
+        "prize": 0
+    },
+    {
+        "name": "NTHU DS2021 HW3",
+        "link": "https://www.kaggle.com/competitions/nthuds2021hw3",
+        "prize": 0
+    },
+    {
+        "name": "Coleridge Initiative - Show US the Data ",
+        "link": "https://www.kaggle.com/competitions/coleridgeinitiative-show-us-the-data",
+        "prize": 90000
+    },
+    {
+        "name": "Data Science Dojo Capstone Project: Titanic Model",
+        "link": "https://www.kaggle.com/competitions/datasciencedojo-spring2021",
+        "prize": 0
+    },
+    {
+        "name": "2110446 Data Science and Data Engineering 2021",
+        "link": "https://www.kaggle.com/competitions/2110446-data-science-and-data-engineering-2021",
+        "prize": 0
+    },
+    {
+        "name": "SNU 2021-1 DS Project 1",
+        "link": "https://www.kaggle.com/competitions/snu-2021-1-ds-project-1",
+        "prize": 0
+    },
+    {
+        "name": "RISTEK Data Science 2021 Open Recruitment",
+        "link": "https://www.kaggle.com/competitions/oprec-ristek-ds-2021",
+        "prize": 0
+    },
+    {
+        "name": "Spotify Data Science Challenge",
+        "link": "https://www.kaggle.com/competitions/bfh-spotify-challenge",
+        "prize": 0
+    },
+    {
+        "name": "Shopee Code League - Address Elements Extraction",
+        "link": "https://www.kaggle.com/competitions/scl-2021-ds",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Weekends by Data Science Indonesia ",
+        "link": "https://www.kaggle.com/competitions/danthon2021",
+        "prize": 0
+    },
+    {
+        "name": "MIE 1624 Course Project",
+        "link": "https://www.kaggle.com/competitions/mie1624winter2021",
+        "prize": 0
+    },
+    {
+        "name": "CS506 Spring 2021 Midterm",
+        "link": "https://www.kaggle.com/competitions/cs506-spring-2021",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Challenge at ITA 2021 (Warm Up)",
+        "link": "https://www.kaggle.com/competitions/data-science-challenge-at-ita-2021-warm-up",
+        "prize": 0
+    },
+    {
+        "name": "Bristol-Myers Squibb – Molecular Translation",
+        "link": "https://www.kaggle.com/competitions/bms-molecular-translation",
+        "prize": 50000
+    },
+    {
+        "name": "EDSA - Climate Change Belief Analysis 2021",
+        "link": "https://www.kaggle.com/competitions/edsa-climate-change-belief-analysis-2021",
+        "prize": 0
+    },
+    {
+        "name": "US election Twitter mini Datathon",
+        "link": "https://www.kaggle.com/competitions/mdss-basic-stream",
+        "prize": 0
+    },
+    {
+        "name": "CCC Titanic Dataset Competition",
+        "link": "https://www.kaggle.com/competitions/ccc-titanic-dataset-competition",
+        "prize": 0
+    },
+    {
+        "name": "UoM CSE DS Challenge 2021",
+        "link": "https://www.kaggle.com/competitions/uomcse2021",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Dojo Capstone Project: Titanic Model",
+        "link": "https://www.kaggle.com/competitions/onlinefall2020cohort",
+        "prize": 0
+    },
+    {
+        "name": "Datawiz 2021 Round 2",
+        "link": "https://www.kaggle.com/competitions/datawiz-2021-round-2",
+        "prize": 0
+    },
+    {
+        "name": "Курсовой проект по Библиотеки Python для DS",
+        "link": "https://www.kaggle.com/competitions/654pds2courseproject",
+        "prize": 0
+    },
+    {
+        "name": "Tirutsava Data Science Competition",
+        "link": "https://www.kaggle.com/competitions/tirutsava-data-science-competition-test",
+        "prize": 0
+    },
+    {
+        "name": "Datawiz 2021 Round 1",
+        "link": "https://www.kaggle.com/competitions/datawiz-2021-round-1",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Nigeria Churn prediction",
+        "link": "https://www.kaggle.com/competitions/data-science-nigeria-churn-prediction",
+        "prize": 0
+    },
+    {
+        "name": "NLP-based Multi Label Classification",
+        "link": "https://www.kaggle.com/competitions/nlp-based-multi-label-classification",
+        "prize": 0
+    },
+    {
+        "name": "EEG-based Brain-Computer Interface",
+        "link": "https://www.kaggle.com/competitions/eeg-based-brain-computer-interface",
+        "prize": 0
+    },
+    {
+        "name": "Gait Recognition Using Smartphone",
+        "link": "https://www.kaggle.com/competitions/gait-recognition-using-smartphone",
+        "prize": 0
+    },
+    {
+        "name": "Waroenk Skill #3 Competition",
+        "link": "https://www.kaggle.com/competitions/waroenk-skill-3-competition",
+        "prize": 0
+    },
+    {
+        "name": "Black Friday Sales",
+        "link": "https://www.kaggle.com/competitions/gb-black-friday-sales",
+        "prize": 0
+    },
+    {
+        "name": "Free Pass Data Science BCC 2021",
+        "link": "https://www.kaggle.com/competitions/freepass-ds-bcc-2021",
+        "prize": 0
+    },
+    {
+        "name": "Testing Free Pass Data Science BCC 2021",
+        "link": "https://www.kaggle.com/competitions/free-pass-data-science-bcc-2021",
+        "prize": 0
+    },
+    {
+        "name": "Dossier quality",
+        "link": "https://www.kaggle.com/competitions/dossier-quality",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Winter Osaka 2021",
+        "link": "https://www.kaggle.com/competitions/ml-study-meetup-osaka",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Club Compeitition",
+        "link": "https://www.kaggle.com/competitions/data-science-club-compeitition",
+        "prize": 0
+    },
+    {
+        "name": "COSI 143b - Data Management for Data Science ",
+        "link": "https://www.kaggle.com/competitions/cosi-143b-brandeis",
+        "prize": 0
+    },
+    {
+        "name": "Autism Spectrum Disorder Classification",
+        "link": "https://www.kaggle.com/competitions/abide",
+        "prize": 0
+    },
+    {
+        "name": "(Retired) Data Science Dojo Capstone Project",
+        "link": "https://www.kaggle.com/competitions/onlinewinter2021cohort",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Dojo Capstone Project: Titanic Model",
+        "link": "https://www.kaggle.com/competitions/datasciencedojo-capstonev2",
+        "prize": 0
+    },
+    {
+        "name": "Bussines data science 2020 - final exam",
+        "link": "https://www.kaggle.com/competitions/bussines-data-science-2020-final-exam",
+        "prize": 0
+    },
+    {
+        "name": "NUS Stats Soc Data Science Competition 2021",
+        "link": "https://www.kaggle.com/competitions/nus-sds-dsc2021",
+        "prize": 0
+    },
+    {
+        "name": "SSSSO MDCL Competition",
+        "link": "https://www.kaggle.com/competitions/sssso-mdcl-competition",
+        "prize": 0
+    },
+    {
+        "name": "Bussines data science - final exam",
+        "link": "https://www.kaggle.com/competitions/bussines-data-science-final-exam",
+        "prize": 0
+    },
+    {
+        "name": "WiDS Datathon 2021",
+        "link": "https://www.kaggle.com/competitions/widsdatathon2021",
+        "prize": 0
+    },
+    {
+        "name": "Waroenk Skill #2 Competition",
+        "link": "https://www.kaggle.com/competitions/waroenk-skill-2-competition",
+        "prize": 0
+    },
+    {
+        "name": "Dauphine - Data Science - Acquisition",
+        "link": "https://www.kaggle.com/competitions/dauphine-datascience-ecommerce-2021-1",
+        "prize": 0
+    },
+    {
+        "name": "Exam for KMA 2020",
+        "link": "https://www.kaggle.com/competitions/exam-for-kma-2020",
+        "prize": 0
+    },
+    {
+        "name": "109 Data Science HW3",
+        "link": "https://www.kaggle.com/competitions/109-data-sciencehw3",
+        "prize": 0
+    },
+    {
+        "name": "109 Data Science HW2",
+        "link": "https://www.kaggle.com/competitions/109datasciencehw2",
+        "prize": 0
+    },
+    {
+        "name": "Challenge Avisia - MVP NBA",
+        "link": "https://www.kaggle.com/competitions/challenge-avisia-mvp-nba",
+        "prize": 0
+    },
+    {
+        "name": "ML Challenge Fall 2020",
+        "link": "https://www.kaggle.com/competitions/ml2020f",
+        "prize": 0
+    },
+    {
+        "name": "K-MBA ML Challenge 2020",
+        "link": "https://www.kaggle.com/competitions/kmba2020f",
+        "prize": 0
+    },
+    {
+        "name": "(Test) ML Challenge 2020",
+        "link": "https://www.kaggle.com/competitions/kmba2020",
+        "prize": 0
+    },
+    {
+        "name": "Product Matching - ID NDSC 2020",
+        "link": "https://www.kaggle.com/competitions/product-matching-id-ndsc-2020",
+        "prize": 0
+    },
+    {
+        "name": "Payment Matching - ID NDSC 2020",
+        "link": "https://www.kaggle.com/competitions/payment-id-ndsc-2020",
+        "prize": 0
+    },
+    {
+        "name": "Market Basket - ID NDSC 2020",
+        "link": "https://www.kaggle.com/competitions/market-basket-id-ndsc-2020",
+        "prize": 0
+    },
+    {
+        "name": "Data Science for Business | IBIS Seminar | LMU",
+        "link": "https://www.kaggle.com/competitions/data-science-for-business-ibis-seminar-lmu-ws2021",
+        "prize": 0
+    },
+    {
+        "name": "Credit Default",
+        "link": "https://www.kaggle.com/competitions/gb-credit-default",
+        "prize": 0
+    },
+    {
+        "name": "Shift Academy Data Science Bootcamp",
+        "link": "https://www.kaggle.com/competitions/shift-academy-data-science-bootcamp",
+        "prize": 0
+    },
+    {
+        "name": "upGrad Rise - Hackathon for Data Science & Tech",
+        "link": "https://www.kaggle.com/competitions/upgrad-rise-hackathon-for-data-science-and-tech",
+        "prize": 0
+    },
+    {
+        "name": "Pre Launch Product Matching - ID NDSC 2020",
+        "link": "https://www.kaggle.com/competitions/pre-product-matching-id-ndsc-2020",
+        "prize": 0
+    },
+    {
+        "name": "2020 Kaggle Machine Learning & Data Science Survey",
+        "link": "https://www.kaggle.com/competitions/kaggle-survey-2020",
+        "prize": 30000
+    },
+    {
+        "name": "Polytech' Nice Data Science course 2020",
+        "link": "https://www.kaggle.com/competitions/polytech-ds-2020",
+        "prize": 0
+    },
+    {
+        "name": "Machine Learning Lab - CAS Data Science HS 20",
+        "link": "https://www.kaggle.com/competitions/machine-learning-lab-cas-data-science-hs-20-day2",
+        "prize": 0
+    },
+    {
+        "name": "Garanti BBVA Teknoloji Data Science Challenge",
+        "link": "https://www.kaggle.com/competitions/onlinedatasciencechallenge",
+        "prize": 0
+    },
+    {
+        "name": "2020 Data Science HW1",
+        "link": "https://www.kaggle.com/competitions/2020-data-science-hw1",
+        "prize": 0
+    },
+    {
+        "name": "TEST - ING Credit Card Frauds Data Science Game",
+        "link": "https://www.kaggle.com/competitions/test-ing-credit-card-frauds-data-science-game",
+        "prize": 0
+    },
+    {
+        "name": "USF Data Science Cybersecurity Competition 2020",
+        "link": "https://www.kaggle.com/competitions/usf-data-science-cybersecurity-competition-2020",
+        "prize": 0
+    },
+    {
+        "name": "Machine Learning Competition",
+        "link": "https://www.kaggle.com/competitions/ids-2020-ut-course",
+        "prize": 0
+    },
+    {
+        "name": "BADS 2020/2021",
+        "link": "https://www.kaggle.com/competitions/bads2021",
+        "prize": 0
+    },
+    {
+        "name": "Laboratorio de Implementación I",
+        "link": "https://www.kaggle.com/competitions/uamds2020ldi1f2",
+        "prize": 0
+    },
+    {
+        "name": "Machine Learning Lab - CAS Data Science HS 20",
+        "link": "https://www.kaggle.com/competitions/machine-learning-lab-cas-data-science-hs-20",
+        "prize": 0
+    },
+    {
+        "name": "Business Data Science Competition",
+        "link": "https://www.kaggle.com/competitions/business-data-science-competition",
+        "prize": 0
+    },
+    {
+        "name": "Data science Business competition",
+        "link": "https://www.kaggle.com/competitions/data-science-business-competition",
+        "prize": 0
+    },
+    {
+        "name": "data science comp F2020",
+        "link": "https://www.kaggle.com/competitions/data-science-comp-f2020",
+        "prize": 0
+    },
+    {
+        "name": "INGV - Volcanic Eruption Prediction",
+        "link": "https://www.kaggle.com/competitions/predict-volcanic-eruptions-ingv-oe",
+        "prize": 0
+    },
+    {
+        "name": "Prototyping data science products - ML",
+        "link": "https://www.kaggle.com/competitions/prototyping-data-science-products-ml",
+        "prize": 0
+    },
+    {
+        "name": "Haiti Data Science Week 1",
+        "link": "https://www.kaggle.com/competitions/haitidsweek1",
+        "prize": 0
+    },
+    {
+        "name": "BOS Data Science Question 2",
+        "link": "https://www.kaggle.com/competitions/pmdrentals",
+        "prize": 0
+    },
+    {
+        "name": "BOS Data Science Question 1",
+        "link": "https://www.kaggle.com/competitions/bitcointransactions",
+        "prize": 0
+    },
+    {
+        "name": "Sanbercode Data Science 0820",
+        "link": "https://www.kaggle.com/competitions/sanbercode-data-science-batch0820",
+        "prize": 0
+    },
+    {
+        "name": "EDLD 654: Fall 2020",
+        "link": "https://www.kaggle.com/competitions/edld-654-fall-2020",
+        "prize": 0
+    },
+    {
+        "name": "Credit Default",
+        "link": "https://www.kaggle.com/competitions/credit-default",
+        "prize": 0
+    },
+    {
+        "name": "Real Estate Price Prediction",
+        "link": "https://www.kaggle.com/competitions/real-estate-price-prediction-moscow",
+        "prize": 0
+    },
+    {
+        "name": "Desafio WorCAP 2020",
+        "link": "https://www.kaggle.com/competitions/desafio-worcap-2020",
+        "prize": 0
+    },
+    {
+        "name": "Pima Indians Diabetes challenge",
+        "link": "https://www.kaggle.com/competitions/pima-indians-diabetes-challenge",
+        "prize": 0
+    },
+    {
+        "name": "Climate Change Belief Analysis",
+        "link": "https://www.kaggle.com/competitions/climate-change-edsa2020-21",
+        "prize": 0
+    },
+    {
+        "name": "Mechanisms of Action (MoA) Prediction",
+        "link": "https://www.kaggle.com/competitions/lish-moa",
+        "prize": 30000
+    },
+    {
+        "name": "Shift Academy Data Science",
+        "link": "https://www.kaggle.com/competitions/shift-academy-kemenkeu",
+        "prize": 0
+    },
+    {
+        "name": "Lyft Motion Prediction for Autonomous Vehicles",
+        "link": "https://www.kaggle.com/competitions/lyft-motion-prediction-autonomous-vehicles",
+        "prize": 30000
+    },
+    {
+        "name": "South German Credit Prediction ",
+        "link": "https://www.kaggle.com/competitions/south-german-credit-prediction",
+        "prize": 0
+    },
+    {
+        "name": "Laboratorio de Implementación I ciclo 2020",
+        "link": "https://www.kaggle.com/competitions/uamds2020ldi1f1",
+        "prize": 0
+    },
+    {
+        "name": "Sanbercode Data Science 0720",
+        "link": "https://www.kaggle.com/competitions/sanbercode",
+        "prize": 0
+    },
+    {
+        "name": "Energy demand forecasting",
+        "link": "https://www.kaggle.com/competitions/energy-demand-forecasting",
+        "prize": 0
+    },
+    {
+        "name": "GirlsGoIT competition 2020",
+        "link": "https://www.kaggle.com/competitions/girlsgoit-competition-2020",
+        "prize": 0
+    },
+    {
+        "name": "Predict the Diabetes!",
+        "link": "https://www.kaggle.com/competitions/predict-the-diabetes",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Circle Challenge",
+        "link": "https://www.kaggle.com/competitions/data-science-circle-challenge",
+        "prize": 0
+    },
+    {
+        "name": "Skill Task",
+        "link": "https://www.kaggle.com/competitions/skill-task2",
+        "prize": 0
+    },
+    {
+        "name": "Sanbercode Data Science 0620",
+        "link": "https://www.kaggle.com/competitions/sanbercode-data-science-0620",
+        "prize": 0
+    },
+    {
+        "name": "EDSA Movie Recommendation Challenge",
+        "link": "https://www.kaggle.com/competitions/edsa-recommender-system-predict",
+        "prize": 0
+    },
+    {
+        "name": "PCHS Data Science COVID-19 Competition",
+        "link": "https://www.kaggle.com/competitions/pchs-data-science-covid-19-competition",
+        "prize": 0
+    },
+    {
+        "name": "Machine Learning Lab - CAS Data Science FS 20",
+        "link": "https://www.kaggle.com/competitions/machine-learning-lab-cas-data-science-fs-20",
+        "prize": 0
+    },
+    {
+        "name": "KML Challenge 2020F",
+        "link": "https://www.kaggle.com/competitions/kml2020f",
+        "prize": 0
+    },
+    {
+        "name": "Psych Data Science Lab @ BGU 2020",
+        "link": "https://www.kaggle.com/competitions/psych-data-science-lab-bgu-2020",
+        "prize": 0
+    },
+    {
+        "name": "KML Challenge 2020",
+        "link": "https://www.kaggle.com/competitions/kml2020",
+        "prize": 0
+    },
+    {
+        "name": "Data Crunch",
+        "link": "https://www.kaggle.com/competitions/data-crunch",
+        "prize": 0
+    },
+    {
+        "name": "Data Science testing ex №5",
+        "link": "https://www.kaggle.com/competitions/dfpmidatascience4",
+        "prize": 0
+    },
+    {
+        "name": "Climate Change Belief Analysis",
+        "link": "https://www.kaggle.com/competitions/climate-change-belief-analysis",
+        "prize": 0
+    },
+    {
+        "name": "108-2-5611資料科學應用 Data Science project 2",
+        "link": "https://www.kaggle.com/competitions/108-2-5611-data-science-project-2",
+        "prize": 0
+    },
+    {
+        "name": "BGU intro to Data Science Course - Final Project",
+        "link": "https://www.kaggle.com/competitions/bguintro2ds",
+        "prize": 0
+    },
+    {
+        "name": "Sanbercode Data Science",
+        "link": "https://www.kaggle.com/competitions/sanbercode-data-science",
+        "prize": 0
+    },
+    {
+        "name": "EEE Datathon Challenge 2020",
+        "link": "https://www.kaggle.com/competitions/eee-datathon-challenge-2020",
+        "prize": 0
+    },
+    {
+        "name": "Summer Data Science Competition",
+        "link": "https://www.kaggle.com/competitions/summer-data-science-competition",
+        "prize": 0
+    },
+    {
+        "name": "Classifying the Fake News",
+        "link": "https://www.kaggle.com/competitions/classifying-the-fake-news",
+        "prize": 0
+    },
+    {
+        "name": "SoftServe DS Hackathon 2020",
+        "link": "https://www.kaggle.com/competitions/softserve-ds-hackathon-2020",
+        "prize": 0
+    },
+    {
+        "name": "Machine Learning Lab - CAS Data Science FS 20",
+        "link": "https://www.kaggle.com/competitions/cas-ds-fs-20",
+        "prize": 0
+    },
+    {
+        "name": "【108下】5611資料科學應用 Data Science Applications",
+        "link": "https://www.kaggle.com/competitions/1085611-data-science-applications",
+        "prize": 0
+    },
+    {
+        "name": "Data Science 2020: Fake News Challenge",
+        "link": "https://www.kaggle.com/competitions/ds2020",
+        "prize": 0
+    },
+    {
+        "name": "Identify Player Number 13 from Match Snapshots",
+        "link": "https://www.kaggle.com/competitions/football-player-number-13",
+        "prize": 0
+    },
+    {
+        "name": "DS-UA 112: Introduction to Data Science",
+        "link": "https://www.kaggle.com/competitions/dsua-112-project2",
+        "prize": 0
+    },
+    {
+        "name": "NTHU DS2020 HW3",
+        "link": "https://www.kaggle.com/competitions/nthuds2020hw3-1",
+        "prize": 0
+    },
+    {
+        "name": "Data Science & ML(PAU,ISM 415)",
+        "link": "https://www.kaggle.com/competitions/data-science-and-mlpauism-415",
+        "prize": 0
+    },
+    {
+        "name": "TLP Data Science Contest",
+        "link": "https://www.kaggle.com/competitions/tlp-data-science-contest",
+        "prize": 0
+    },
+    {
+        "name": "Master 1 Data Science",
+        "link": "https://www.kaggle.com/competitions/mastere1datascience",
+        "prize": 0
+    },
+    {
+        "name": "BFH Data Science Competition",
+        "link": "https://www.kaggle.com/competitions/bfh-ds-competition-2020",
+        "prize": 0
+    },
+    {
+        "name": "2110446 Data Science and Data Engineering 2020",
+        "link": "https://www.kaggle.com/competitions/2110446-data-science-and-data-engineering-2020",
+        "prize": 0
+    },
+    {
+        "name": "Similarity Search Project",
+        "link": "https://www.kaggle.com/competitions/similarity-search-project",
+        "prize": 0
+    },
+    {
+        "name": "Konigle-SPMS Data Science Challenge",
+        "link": "https://www.kaggle.com/competitions/konigle",
+        "prize": 0
+    },
+    {
+        "name": "Stats Impact, Jagriti, IIT (BHU) Varanasi",
+        "link": "https://www.kaggle.com/competitions/jagritistatsimpact",
+        "prize": 0
+    },
+    {
+        "name": "Tweet Sentiment Extraction",
+        "link": "https://www.kaggle.com/competitions/tweet-sentiment-extraction",
+        "prize": 15000
+    },
+    {
+        "name": "Jigsaw Multilingual Toxic Comment Classification",
+        "link": "https://www.kaggle.com/competitions/jigsaw-multilingual-toxic-comment-classification",
+        "prize": 50000
+    },
+    {
+        "name": "Data Science Challenge at ITA 2020",
+        "link": "https://www.kaggle.com/competitions/data-science-challenge-at-ita-2020",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Nigeria AI in Cities.",
+        "link": "https://www.kaggle.com/competitions/data-science-nigeria-ai-in-citie",
+        "prize": 0
+    },
+    {
+        "name": "UoM Data Science Challenge 2020",
+        "link": "https://www.kaggle.com/competitions/uomds20",
+        "prize": 0
+    },
+    {
+        "name": "Astro Analytics Techsoc IITM",
+        "link": "https://www.kaggle.com/competitions/astro-analytics-techsoc-iitm",
+        "prize": 0
+    },
+    {
+        "name": "TESTERS PAGE ADV ID 2020 SUBMISSION",
+        "link": "https://www.kaggle.com/competitions/testeradvid2020submit",
+        "prize": 0
+    },
+    {
+        "name": "Teeeee2",
+        "link": "https://www.kaggle.com/competitions/teeeee2",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Lab Kaggle Sp2020",
+        "link": "https://www.kaggle.com/competitions/data-science-lab-kaggle-sp2020",
+        "prize": 0
+    },
+    {
+        "name": "Stonkss",
+        "link": "https://www.kaggle.com/competitions/niwipricristik20",
+        "prize": 0
+    },
+    {
+        "name": "TESTERS PAGE ADV ID 2020",
+        "link": "https://www.kaggle.com/competitions/testeradvid2020",
+        "prize": 0
+    },
+    {
+        "name": "Ristik Diti Sciinci Ipin Ricriitmint 2020",
+        "link": "https://www.kaggle.com/competitions/ipricristik20",
+        "prize": 0
+    },
+    {
+        "name": "ID National Data Science Challenge 2020 - Advanced",
+        "link": "https://www.kaggle.com/competitions/id-national-data-science-challenge-2020-advanced",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Nigeria AI in Cities ",
+        "link": "https://www.kaggle.com/competitions/data-science-nigeria-ai-in-cities",
+        "prize": 0
+    },
+    {
+        "name": "Lala 1",
+        "link": "https://www.kaggle.com/competitions/lala1",
+        "prize": 0
+    },
+    {
+        "name": "Hand Gesture Recognition Using 3D Skeletal Dataset",
+        "link": "https://www.kaggle.com/competitions/odhgdata",
+        "prize": 0
+    },
+    {
+        "name": "Flower Classification with TPUs",
+        "link": "https://www.kaggle.com/competitions/flower-classification-with-tpus",
+        "prize": 0
+    },
+    {
+        "name": "Dudu 2",
+        "link": "https://www.kaggle.com/competitions/dudu-2",
+        "prize": 0
+    },
+    {
+        "name": "Dudu 1 ",
+        "link": "https://www.kaggle.com/competitions/dudu-1",
+        "prize": 0
+    },
+    {
+        "name": "Open Hackathon Data Science AVISIA",
+        "link": "https://www.kaggle.com/competitions/open-hackathon-data-science-avisia",
+        "prize": 0
+    },
+    {
+        "name": "Data Science - Master",
+        "link": "https://www.kaggle.com/competitions/data-science-master",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Nigeria Product Demand Forecast",
+        "link": "https://www.kaggle.com/competitions/data-science-nigeria-product-demand-forecast",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Nigeria Instagram Marketing",
+        "link": "https://www.kaggle.com/competitions/data-science-nigeria-instagram-marketing",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Nigeria-Retail Quantity Prediction",
+        "link": "https://www.kaggle.com/competitions/data-science-nigeria-retail-quantity-prediction",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Nigeria Instagram Marketing Ad",
+        "link": "https://www.kaggle.com/competitions/data-science-nigeria-instagram-marketing-ad",
+        "prize": 0
+    },
+    {
+        "name": "Embajadores-MachineLearning",
+        "link": "https://www.kaggle.com/competitions/embajadores-machinelearning",
+        "prize": 0
+    },
+    {
+        "name": "SCE DATA SCIENCE COURSE",
+        "link": "https://www.kaggle.com/competitions/sce-data-science-2020-course",
+        "prize": 0
+    },
+    {
+        "name": "WiDS Datathon 2020",
+        "link": "https://www.kaggle.com/competitions/widsdatathon2020",
+        "prize": 0
+    },
+    {
+        "name": "[01/24] Iris Data Set",
+        "link": "https://www.kaggle.com/competitions/2401-iris-data-set",
+        "prize": 0
+    },
+    {
+        "name": "Competição DSA de Machine Learning",
+        "link": "https://www.kaggle.com/competitions/competicao-dsa-machine-learning-dec-2019",
+        "prize": 0
+    },
+    {
+        "name": "Data Science School: ML Starter ",
+        "link": "https://www.kaggle.com/competitions/ml-starter",
+        "prize": 0
+    },
+    {
+        "name": "EDSA Graduation Week Hackathon",
+        "link": "https://www.kaggle.com/competitions/gradweekhackathon",
+        "prize": 0
+    },
+    {
+        "name": "MISTER SPEX DATA SCIENCE CASE",
+        "link": "https://www.kaggle.com/competitions/msxcase-fs-2",
+        "prize": 0
+    },
+    {
+        "name": "MISTER SPEX DATA SCIENCE CASE",
+        "link": "https://www.kaggle.com/competitions/msxcase-fs",
+        "prize": 0
+    },
+    {
+        "name": "(KMU) ML Challenge 2019",
+        "link": "https://www.kaggle.com/competitions/kml2019",
+        "prize": 0
+    },
+    {
+        "name": "108 Data Science HW2",
+        "link": "https://www.kaggle.com/competitions/108-data-science-hw2",
+        "prize": 0
+    },
+    {
+        "name": "108 Data Science HW3",
+        "link": "https://www.kaggle.com/competitions/108-data-science-hw3",
+        "prize": 0
+    },
+    {
+        "name": "KBA Challenge 2019",
+        "link": "https://www.kaggle.com/competitions/kba2019",
+        "prize": 0
+    },
+    {
+        "name": "HMIF Challenge 2019",
+        "link": "https://www.kaggle.com/competitions/hmif-challenge-2019",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Lab - Lab 7",
+        "link": "https://www.kaggle.com/competitions/dsl-lab7-competition",
+        "prize": 0
+    },
+    {
+        "name": "Hackathon Data Science Avisia",
+        "link": "https://www.kaggle.com/competitions/hackathon-data-science-avisia",
+        "prize": 0
+    },
+    {
+        "name": "DataQuest-2-2019",
+        "link": "https://www.kaggle.com/competitions/dataquest-2-2019",
+        "prize": 0
+    },
+    {
+        "name": "ACCA 2019 Data Science Competition",
+        "link": "https://www.kaggle.com/competitions/acca-2019-data-science-competition",
+        "prize": 0
+    },
+    {
+        "name": "ACCA 2019 Data Science Competition: Practice",
+        "link": "https://www.kaggle.com/competitions/acca-2019-data-science-competition-practice",
+        "prize": 0
+    },
+    {
+        "name": "Lewis University DS Practice",
+        "link": "https://www.kaggle.com/competitions/dslewispractice",
+        "prize": 0
+    },
+    {
+        "name": "2019 Kaggle Machine Learning & Data Science Survey",
+        "link": "https://www.kaggle.com/competitions/kaggle-survey-2019",
+        "prize": 30000
+    },
+    {
+        "name": "F1 Boost",
+        "link": "https://www.kaggle.com/competitions/f1-boost",
+        "prize": 0
+    },
+    {
+        "name": "BYU Data Science CNN",
+        "link": "https://www.kaggle.com/competitions/byudeepcnn",
+        "prize": 0
+    },
+    {
+        "name": "Ristek 2019 Internal Competition",
+        "link": "https://www.kaggle.com/competitions/ristekcomp19",
+        "prize": 0
+    },
+    {
+        "name": "DL50 Project 1",
+        "link": "https://www.kaggle.com/competitions/dl50-project1",
+        "prize": 0
+    },
+    {
+        "name": "Machine Learning Competition",
+        "link": "https://www.kaggle.com/competitions/ids-2019-ut-course",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Nigeria Golden Bank ",
+        "link": "https://www.kaggle.com/competitions/data-science-nigeria-golden-bank",
+        "prize": 0
+    },
+    {
+        "name": "Machine Learning Lab - CAS Data Science HS 19",
+        "link": "https://www.kaggle.com/competitions/cas-data-science-hs-19",
+        "prize": 0
+    },
+    {
+        "name": "Data Science for Business | IBIS Seminar | LMU",
+        "link": "https://www.kaggle.com/competitions/data-science-for-business-ibis-seminar-lmu-ws1920",
+        "prize": 0
+    },
+    {
+        "name": "DSL-test-competition",
+        "link": "https://www.kaggle.com/competitions/dsl-test-competition",
+        "prize": 0
+    },
+    {
+        "name": "BDI Health Data Science CDT 2019 - Genomics ML",
+        "link": "https://www.kaggle.com/competitions/bdi-cdt-machine-learning-genomics",
+        "prize": 0
+    },
+    {
+        "name": "DATAMIX Data Science Course Basic Step NLP",
+        "link": "https://www.kaggle.com/competitions/datamix-datascience-course-basic-nlp",
+        "prize": 0
+    },
+    {
+        "name": "108 Data Science HW1",
+        "link": "https://www.kaggle.com/competitions/108-data-science-hw1",
+        "prize": 0
+    },
+    {
+        "name": "MISTER SPEX DATA SCIENCE CASE",
+        "link": "https://www.kaggle.com/competitions/msxcase-xw",
+        "prize": 0
+    },
+    {
+        "name": "2019 Data Science Bowl",
+        "link": "https://www.kaggle.com/competitions/data-science-bowl-2019",
+        "prize": 160000
+    },
+    {
+        "name": "BADS1920",
+        "link": "https://www.kaggle.com/competitions/bads1920",
+        "prize": 0
+    },
+    {
+        "name": "BYU Data Science Capstone",
+        "link": "https://www.kaggle.com/competitions/byudatasciencecapstone",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Lab 2019",
+        "link": "https://www.kaggle.com/competitions/data-science-lab-2019",
+        "prize": 0
+    },
+    {
+        "name": "MISTER SPEX DATA SCIENCE CASE",
+        "link": "https://www.kaggle.com/competitions/msxcase-nm",
+        "prize": 0
+    },
+    {
+        "name": "Polytech' Nice Data Science course 2019",
+        "link": "https://www.kaggle.com/competitions/polytech-ds-2019",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Hackathon",
+        "link": "https://www.kaggle.com/competitions/kriti2019cna",
+        "prize": 0
+    },
+    {
+        "name": "Finding Chandler! Sarcasm Detection",
+        "link": "https://www.kaggle.com/competitions/finding-chandler-sarcasm",
+        "prize": 0
+    },
+    {
+        "name": "Synthessence - Engineer 2019",
+        "link": "https://www.kaggle.com/competitions/synthessence-engineer-2019",
+        "prize": 0
+    },
+    {
+        "name": "MISTER SPEX DATA SCIENCE CASE",
+        "link": "https://www.kaggle.com/competitions/msxcase-test",
+        "prize": 0
+    },
+    {
+        "name": "MDSS Datathon",
+        "link": "https://www.kaggle.com/competitions/mdss-datathon",
+        "prize": 0
+    },
+    {
+        "name": "ASHRAE - Great Energy Predictor III",
+        "link": "https://www.kaggle.com/competitions/ashrae-energy-prediction",
+        "prize": 25000
+    },
+    {
+        "name": "Group Project",
+        "link": "https://www.kaggle.com/competitions/nyu-shbigb-7311",
+        "prize": 0
+    },
+    {
+        "name": "Real Estate Price Prediction",
+        "link": "https://www.kaggle.com/competitions/realestatepriceprediction",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Nigeria Vehicle Insurance renewal",
+        "link": "https://www.kaggle.com/competitions/data-science-nigeria-vehicle-insurance-re-newer",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Nigeria HR Performance  Index",
+        "link": "https://www.kaggle.com/competitions/data-science-nigeria-hr-performance-index",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Nigeria Apex Bank Convert Algorithm ",
+        "link": "https://www.kaggle.com/competitions/data-science-nigeria-apex-bank-convert-algorithm",
+        "prize": 0
+    },
+    {
+        "name": "Group Project",
+        "link": "https://www.kaggle.com/competitions/shbigb-7311",
+        "prize": 0
+    },
+    {
+        "name": "UI DS Summer School",
+        "link": "https://www.kaggle.com/competitions/uisummerschool",
+        "prize": 0
+    },
+    {
+        "name": "SPV First Data Science Competition",
+        "link": "https://www.kaggle.com/competitions/spvfirstdatasciencecompetition",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Nigeria Staff Promotion Algorithm ",
+        "link": "https://www.kaggle.com/competitions/intercampusai2019",
+        "prize": 0
+    },
+    {
+        "name": "Competição DSA de Machine Learning",
+        "link": "https://www.kaggle.com/competitions/competicao-dsa-machine-learning-sep-2019",
+        "prize": 0
+    },
+    {
+        "name": "HMIF Data Science Bootcamp 2019",
+        "link": "https://www.kaggle.com/competitions/hmif-data-science-bootcamp-2019",
+        "prize": 0
+    },
+    {
+        "name": "ML-Hack-2019",
+        "link": "https://www.kaggle.com/competitions/cte-ml-hack-2019",
+        "prize": 0
+    },
+    {
+        "name": "Kaggle Days Meetup Porto 2019",
+        "link": "https://www.kaggle.com/competitions/kdm-porto-2019",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Pre-Semester Competition",
+        "link": "https://www.kaggle.com/competitions/ucfai-dsg-quals-fa19",
+        "prize": 0
+    },
+    {
+        "name": "Understanding Clouds from Satellite Images",
+        "link": "https://www.kaggle.com/competitions/understanding_cloud_organization",
+        "prize": 10000
+    },
+    {
+        "name": "DSN : Financial Inclusion in Africa",
+        "link": "https://www.kaggle.com/competitions/dsn-financial-inclusion-in-africa",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Competition IT Today 2019",
+        "link": "https://www.kaggle.com/competitions/ittodaydsc2019",
+        "prize": 0
+    },
+    {
+        "name": "FIAP FSBDS 19Ago - Baby Monitor Forecast",
+        "link": "https://www.kaggle.com/competitions/fiap-fsbds-19ago-baby-monitor-forecast",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Nigeria Pre-University Titanic ",
+        "link": "https://www.kaggle.com/competitions/titanic-ml-pre-university-class",
+        "prize": 0
+    },
+    {
+        "name": "FIAP FSBDS 22 - Baby Monitor Forecast",
+        "link": "https://www.kaggle.com/competitions/fiap-fsbds-22",
+        "prize": 0
+    },
+    {
+        "name": "ISFOG2020 Pile driving predictions",
+        "link": "https://www.kaggle.com/competitions/isfog2020-pile-driving-predictions",
+        "prize": 0
+    },
+    {
+        "name": "Quin Data Science Course",
+        "link": "https://www.kaggle.com/competitions/quin",
+        "prize": 0
+    },
+    {
+        "name": "FIAP FSBDS 21 - Baby Monitor Forecast",
+        "link": "https://www.kaggle.com/competitions/fiap-fsbds-21",
+        "prize": 0
+    },
+    {
+        "name": "Severstal: Steel Defect Detection",
+        "link": "https://www.kaggle.com/competitions/severstal-steel-defect-detection",
+        "prize": 120000
+    },
+    {
+        "name": "Itjen Data Science Competition",
+        "link": "https://www.kaggle.com/competitions/itjen-data-science-competition",
+        "prize": 0
+    },
+    {
+        "name": "Kuzushiji Recognition",
+        "link": "https://www.kaggle.com/competitions/kuzushiji-recognition",
+        "prize": 15000
+    },
+    {
+        "name": "Data Science Competition",
+        "link": "https://www.kaggle.com/competitions/mamam",
+        "prize": 0
+    },
+    {
+        "name": "ExamenMachineLearningG10",
+        "link": "https://www.kaggle.com/competitions/examenmachinelearningg10",
+        "prize": 0
+    },
+    {
+        "name": "Certification Data Science",
+        "link": "https://www.kaggle.com/competitions/certif-data-science",
+        "prize": 0
+    },
+    {
+        "name": "DSNet: fastai Hackathon",
+        "link": "https://www.kaggle.com/competitions/dsnetxfastai",
+        "prize": 0
+    },
+    {
+        "name": "Handwritten digit recognition",
+        "link": "https://www.kaggle.com/competitions/ds-guild-hackathon",
+        "prize": 0
+    },
+    {
+        "name": "Recursion Cellular Image Classification",
+        "link": "https://www.kaggle.com/competitions/recursion-cellular-image-classification",
+        "prize": 13000
+    },
+    {
+        "name": "Raisa Data Science Challenge",
+        "link": "https://www.kaggle.com/competitions/raisadatasciencechallenge",
+        "prize": 0
+    },
+    {
+        "name": "ITU Data Science Bowl 2019",
+        "link": "https://www.kaggle.com/competitions/itu-data-science-bowl-2019",
+        "prize": 0
+    },
+    {
+        "name": "FIAP FSBDS - Baby Monitor Forecast",
+        "link": "https://www.kaggle.com/competitions/fiap-fsbds-20",
+        "prize": 0
+    },
+    {
+        "name": "Psych Data Science Lab @ BGU",
+        "link": "https://www.kaggle.com/competitions/psychds-bgu-classi",
+        "prize": 0
+    },
+    {
+        "name": "DSRP - Kaggle Reuniones 1",
+        "link": "https://www.kaggle.com/competitions/dsrp-kaggle-semillero-01",
+        "prize": 0
+    },
+    {
+        "name": "Python for Data science ITEA",
+        "link": "https://www.kaggle.com/competitions/p4ds4itea",
+        "prize": 0
+    },
+    {
+        "name": "BGU Intro to Data Science Final Assignment",
+        "link": "https://www.kaggle.com/competitions/bgu-intro-to-data-science",
+        "prize": 0
+    },
+    {
+        "name": "Big Data Science 2019",
+        "link": "https://www.kaggle.com/competitions/um2019",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Lab - CAS Data Science FS 19",
+        "link": "https://www.kaggle.com/competitions/cas-data-science-fs19",
+        "prize": 0
+    },
+    {
+        "name": "Project3 of Data Mining 2019 spring",
+        "link": "https://www.kaggle.com/competitions/dm2019springproj3",
+        "prize": 0
+    },
+    {
+        "name": "Predicting Molecular Properties",
+        "link": "https://www.kaggle.com/competitions/champs-scalar-coupling",
+        "prize": 30000
+    },
+    {
+        "name": "DOJO ML - São Carlos",
+        "link": "https://www.kaggle.com/competitions/dojoml-saocarlos",
+        "prize": 0
+    },
+    {
+        "name": "Part Time Data Science Regression Competition",
+        "link": "https://www.kaggle.com/competitions/dat-sea-419-project-3-regression-challenge",
+        "prize": 0
+    },
+    {
+        "name": "Sport & Data Science assignment 6",
+        "link": "https://www.kaggle.com/competitions/sportdatascience-assignment6",
+        "prize": 0
+    },
+    {
+        "name": "Clickbait news detection",
+        "link": "https://www.kaggle.com/competitions/clickbait-news-detection",
+        "prize": 0
+    },
+    {
+        "name": "Amazon pet product reviews classification",
+        "link": "https://www.kaggle.com/competitions/amazon-pet-product-reviews-classification",
+        "prize": 0
+    },
+    {
+        "name": "NCTU IEM DataScience p3",
+        "link": "https://www.kaggle.com/competitions/nctu-iem-datascience-p3",
+        "prize": 0
+    },
+    {
+        "name": "Northeastern SMILE Lab - Recognizing Faces in the Wild",
+        "link": "https://www.kaggle.com/competitions/recognizing-faces-in-the-wild",
+        "prize": 0
+    },
+    {
+        "name": "KML Challenge",
+        "link": "https://www.kaggle.com/competitions/kml",
+        "prize": 0
+    },
+    {
+        "name": "Project2 of Data Mining 2019 spring",
+        "link": "https://www.kaggle.com/competitions/dm2019springproj2",
+        "prize": 0
+    },
+    {
+        "name": "Data Science for Good: City of Los Angeles",
+        "link": "https://www.kaggle.com/competitions/data-science-for-good-city-of-los-angeles",
+        "prize": 15000
+    },
+    {
+        "name": "Dog vs Cat ",
+        "link": "https://www.kaggle.com/competitions/dog-vs-cat",
+        "prize": 0
+    },
+    {
+        "name": "Applied Data Science with R",
+        "link": "https://www.kaggle.com/competitions/applieddatasciencewithr",
+        "prize": 0
+    },
+    {
+        "name": "Lewis University Datathon 2019",
+        "link": "https://www.kaggle.com/competitions/lewisudatathon2019",
+        "prize": 0
+    },
+    {
+        "name": " Mini Hackathon",
+        "link": "https://www.kaggle.com/competitions/infor-mini-hackathon",
+        "prize": 0
+    },
+    {
+        "name": "NCTU IEM DataScience p2",
+        "link": "https://www.kaggle.com/competitions/nctu-iem-datascience-p2",
+        "prize": 0
+    },
+    {
+        "name": "Infor Hackathon",
+        "link": "https://www.kaggle.com/competitions/infor-hackathon",
+        "prize": 0
+    },
+    {
+        "name": "UCSD 2019 Datathon",
+        "link": "https://www.kaggle.com/competitions/ucsd-2019-datathon",
+        "prize": 0
+    },
+    {
+        "name": "Inqline-IBA Data Science Hackathon",
+        "link": "https://www.kaggle.com/competitions/inqline-iba-data-science-hackathon",
+        "prize": 0
+    },
+    {
+        "name": "Yidu AI Data Science Course Week 4",
+        "link": "https://www.kaggle.com/competitions/yidu-ai-data-science-course-week-4",
+        "prize": 0
+    },
+    {
+        "name": "NTHU DS2019 HW3",
+        "link": "https://www.kaggle.com/competitions/nthuds2019hw3",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Nascon'19",
+        "link": "https://www.kaggle.com/competitions/nascon-19",
+        "prize": 0
+    },
+    {
+        "name": "HUJIKATHON: HUJI-Stats Data Science Hackathon",
+        "link": "https://www.kaggle.com/competitions/hujikathon",
+        "prize": 0
+    },
+    {
+        "name": "Yidu AI Data Science Course Week 3",
+        "link": "https://www.kaggle.com/competitions/yidu-ai-data-science-course-week-3",
+        "prize": 0
+    },
+    {
+        "name": "HUJI-Stats Data Science Hackathon",
+        "link": "https://www.kaggle.com/competitions/huji-hackathon",
+        "prize": 0
+    },
+    {
+        "name": "IEEE PEC Techadroit Data Science Challenge",
+        "link": "https://www.kaggle.com/competitions/ieee-pec-techadroit-data-science-challenge",
+        "prize": 0
+    },
+    {
+        "name": "Techadroit Data Science Challange",
+        "link": "https://www.kaggle.com/competitions/techadroit-data-science-challange",
+        "prize": 0
+    },
+    {
+        "name": "FIAP FSBDS - Baby Monitor Forecast",
+        "link": "https://www.kaggle.com/competitions/fiap-fsbds-baby-monitor-forecast",
+        "prize": 0
+    },
+    {
+        "name": "Synthetic data 1000",
+        "link": "https://www.kaggle.com/competitions/synthetic-data-1000",
+        "prize": 0
+    },
+    {
+        "name": "MSU 1 spring lab",
+        "link": "https://www.kaggle.com/competitions/msu-spring-lab-1",
+        "prize": 0
+    },
+    {
+        "name": "Chapman CS530 Data Science Bowl Spring 2019",
+        "link": "https://www.kaggle.com/competitions/chapmancs530f2019",
+        "prize": 0
+    },
+    {
+        "name": "Yidu AI Data Science Course Week 2",
+        "link": "https://www.kaggle.com/competitions/yidu-ai-data-science-course-week-2",
+        "prize": 0
+    },
+    {
+        "name": "Data Science testing ex №4",
+        "link": "https://www.kaggle.com/competitions/rupmidatascience4",
+        "prize": 0
+    },
+    {
+        "name": "Data Science testing ex №3",
+        "link": "https://www.kaggle.com/competitions/rupmidatascience3",
+        "prize": 0
+    },
+    {
+        "name": "Data Science testing ex №2",
+        "link": "https://www.kaggle.com/competitions/rupmidatascience2",
+        "prize": 0
+    },
+    {
+        "name": "Data Science testing ex №1",
+        "link": "https://www.kaggle.com/competitions/rupmidatascience",
+        "prize": 0
+    },
+    {
+        "name": "Ciphertext Challenge II",
+        "link": "https://www.kaggle.com/competitions/ciphertext-challenge-ii",
+        "prize": 0
+    },
+    {
+        "name": "Competição DSA de Machine Learning",
+        "link": "https://www.kaggle.com/competitions/competicao-dsa-machine-learning-mar-2019",
+        "prize": 0
+    },
+    {
+        "name": "Yidu AI Data Science Course Week 1",
+        "link": "https://www.kaggle.com/competitions/yidu-ai-data-science-course-week-1",
+        "prize": 0
+    },
+    {
+        "name": "(New) Project 1 of Data Mining 2019 spring",
+        "link": "https://www.kaggle.com/competitions/new1datamining2019spring",
+        "prize": 0
+    },
+    {
+        "name": "mlcourse.ai: Dota 2 Winner Prediction",
+        "link": "https://www.kaggle.com/competitions/mlcourse-dota2-win-prediction",
+        "prize": 0
+    },
+    {
+        "name": "Project 1 of Data Mining 2019 spring",
+        "link": "https://www.kaggle.com/competitions/datamining2019spring-sysu",
+        "prize": 0
+    },
+    {
+        "name": "Irish language modeling",
+        "link": "https://www.kaggle.com/competitions/irish-language-modeling",
+        "prize": 0
+    },
+    {
+        "name": "SOFTEC '19 Data Science Competition",
+        "link": "https://www.kaggle.com/competitions/softec-19",
+        "prize": 0
+    },
+    {
+        "name": "CareerCon 2019 - Help Navigate Robots ",
+        "link": "https://www.kaggle.com/competitions/career-con-2019",
+        "prize": 0
+    },
+    {
+        "name": "HMIF Data Science Bootcamp Selection",
+        "link": "https://www.kaggle.com/competitions/hmif-data-science-bootcamp",
+        "prize": 0
+    },
+    {
+        "name": "Machine Learning for Data Science VII ",
+        "link": "https://www.kaggle.com/competitions/machine-learning-for-data-science-vii",
+        "prize": 0
+    },
+    {
+        "name": "ING Credit Card Frauds Data Science Game",
+        "link": "https://www.kaggle.com/competitions/ing-credit-card-frauds-data-science-game",
+        "prize": 0
+    },
+    {
+        "name": "DataQuest-2",
+        "link": "https://www.kaggle.com/competitions/dataquest-2",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Ife Telecoms churn prediction",
+        "link": "https://www.kaggle.com/competitions/dsichurnprediction",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Challenge at EEF 2019",
+        "link": "https://www.kaggle.com/competitions/data-science-challenge-at-eef-2019",
+        "prize": 0
+    },
+    {
+        "name": "Workshop Data Science",
+        "link": "https://www.kaggle.com/competitions/workshopds",
+        "prize": 0
+    },
+    {
+        "name": "Data Science for Good: CareerVillage.org",
+        "link": "https://www.kaggle.com/competitions/data-science-for-good-careervillage",
+        "prize": 15000
+    },
+    {
+        "name": "Spring 2019 Data Science Lab ",
+        "link": "https://www.kaggle.com/competitions/spring-2019-data-science-lab",
+        "prize": 0
+    },
+    {
+        "name": "Central University of Rajasthan Lab Exam",
+        "link": "https://www.kaggle.com/competitions/machine-learning-lab-exam",
+        "prize": 0
+    },
+    {
+        "name": "Competição DSA de Machine Learning",
+        "link": "https://www.kaggle.com/competitions/competicao-dsa-machine-learning-fev-2019",
+        "prize": 0
+    },
+    {
+        "name": "National Data Science Challenge 2019 - Advanced",
+        "link": "https://www.kaggle.com/competitions/ndsc-advanced",
+        "prize": 0
+    },
+    {
+        "name": "National Data Science Challenge 2019 - Beginner",
+        "link": "https://www.kaggle.com/competitions/ndsc-beginner",
+        "prize": 0
+    },
+    {
+        "name": "CodeRIT Data Science Competition",
+        "link": "https://www.kaggle.com/competitions/coderit",
+        "prize": 0
+    },
+    {
+        "name": "Introduction to Data Science, NYU, Spring 2019",
+        "link": "https://www.kaggle.com/competitions/introduction-to-data-science-nyu-spring-2019",
+        "prize": 0
+    },
+    {
+        "name": "SCE DATA SCIENCE COURSE",
+        "link": "https://www.kaggle.com/competitions/sce-data-science-course",
+        "prize": 0
+    },
+    {
+        "name": "TAE Data science-human freedom",
+        "link": "https://www.kaggle.com/competitions/tae-data-science-human-freedom",
+        "prize": 0
+    },
+    {
+        "name": "FIAP FSBDS - Baby Monitor Forecast",
+        "link": "https://www.kaggle.com/competitions/fiap-fsbds",
+        "prize": 0
+    },
+    {
+        "name": "Data Science UCA 2019",
+        "link": "https://www.kaggle.com/competitions/ds-uca-2019",
+        "prize": 0
+    },
+    {
+        "name": "Team ISTE's Datathon",
+        "link": "https://www.kaggle.com/competitions/iste-datathon",
+        "prize": 0
+    },
+    {
+        "name": "SYKES ADMU Data Science Hackathon",
+        "link": "https://www.kaggle.com/competitions/compsat-sykes-data-science-hackathon",
+        "prize": 0
+    },
+    {
+        "name": "WiDS Datathon 2019",
+        "link": "https://www.kaggle.com/competitions/widsdatathon2019",
+        "prize": 0
+    },
+    {
+        "name": "Skill task",
+        "link": "https://www.kaggle.com/competitions/skill-task",
+        "prize": 0
+    },
+    {
+        "name": "Competição DSA de Machine Learning",
+        "link": "https://www.kaggle.com/competitions/competicao-dsa-machine-learning-jan-2019",
+        "prize": 0
+    },
+    {
+        "name": "KMU TEST",
+        "link": "https://www.kaggle.com/competitions/kmutest",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Nigeria Loan default prediction 2",
+        "link": "https://www.kaggle.com/competitions/datahack3",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Nigeria  Life Time Value  Modelling",
+        "link": "https://www.kaggle.com/competitions/datahack2",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Nigeria Digital DataHack 2018",
+        "link": "https://www.kaggle.com/competitions/dsndatahack1",
+        "prize": 0
+    },
+    {
+        "name": "mlcourse.ai: Flight delays ",
+        "link": "https://www.kaggle.com/competitions/flight-delays-fall-2018",
+        "prize": 0
+    },
+    {
+        "name": "MBA Challenge",
+        "link": "https://www.kaggle.com/competitions/mba",
+        "prize": 0
+    },
+    {
+        "name": "KBA Challenge",
+        "link": "https://www.kaggle.com/competitions/kba",
+        "prize": 0
+    },
+    {
+        "name": "Irish dialect classification",
+        "link": "https://www.kaggle.com/competitions/irish-dialect-classification",
+        "prize": 0
+    },
+    {
+        "name": "TECH WEEKEND Data Science Hackathon[BITS Goa Only]",
+        "link": "https://www.kaggle.com/competitions/tech-weekend-data-science-hackathon",
+        "prize": 0
+    },
+    {
+        "name": "Machine Learning Competition",
+        "link": "https://www.kaggle.com/competitions/introduction-to-data-science-course-ut-2018",
+        "prize": 0
+    },
+    {
+        "name": "PredictX Titanic Challenge",
+        "link": "https://www.kaggle.com/competitions/predictx-titanic-challenge",
+        "prize": 0
+    },
+    {
+        "name": "Data Science for Business | IBIS Seminar | LMU",
+        "link": "https://www.kaggle.com/competitions/data-science-for-business-ibis-seminar-lmu-ws1819",
+        "prize": 0
+    },
+    {
+        "name": "Pilot Data Science Capstone - Data Exploration",
+        "link": "https://www.kaggle.com/competitions/pilot-data-science-capstone-data-exploration",
+        "prize": 0
+    },
+    {
+        "name": "Pilot-Data-Science MPP Capstone Regression",
+        "link": "https://www.kaggle.com/competitions/pilot-data-science-mpp-capstone-regression",
+        "prize": 0
+    },
+    {
+        "name": "Pilot – Data Science MPP Capstone - Classification",
+        "link": "https://www.kaggle.com/competitions/pilot-data-science-mpp-capstone",
+        "prize": 0
+    },
+    {
+        "name": "1st National Data Science Bowl",
+        "link": "https://www.kaggle.com/competitions/1st-national-data-science-bowl-f18",
+        "prize": 0
+    },
+    {
+        "name": "DSML Kobe Shot Selection",
+        "link": "https://www.kaggle.com/competitions/dsml-kobe-shot-selection",
+        "prize": 0
+    },
+    {
+        "name": "KU DataScience 2018",
+        "link": "https://www.kaggle.com/competitions/ku-datascience-2018",
+        "prize": 0
+    },
+    {
+        "name": "DW Competition",
+        "link": "https://www.kaggle.com/competitions/dwc",
+        "prize": 0
+    },
+    {
+        "name": "Data Science in Practice",
+        "link": "https://www.kaggle.com/competitions/data-science-in-practice",
+        "prize": 0
+    },
+    {
+        "name": "Data Science and GIS for Mobility 2018",
+        "link": "https://www.kaggle.com/competitions/datascienceandgis2018",
+        "prize": 0
+    },
+    {
+        "name": "Synthessence 2018",
+        "link": "https://www.kaggle.com/competitions/synthessence2k18",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Lab Kaggle Competition 2018",
+        "link": "https://www.kaggle.com/competitions/dslab18",
+        "prize": 0
+    },
+    {
+        "name": "PLAsTiCC Astronomical Classification",
+        "link": "https://www.kaggle.com/competitions/PLAsTiCC-2018",
+        "prize": 25000
+    },
+    {
+        "name": "UNSW DataThon 2018",
+        "link": "https://www.kaggle.com/competitions/unswdatathon2018",
+        "prize": 0
+    },
+    {
+        "name": "DATDC28",
+        "link": "https://www.kaggle.com/competitions/datdc28",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Nigeria Comedy Rating Prediction",
+        "link": "https://www.kaggle.com/competitions/dsn2018selection",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Nigeria 2018 InterCampus Competition",
+        "link": "https://www.kaggle.com/competitions/dsn2018intercampus",
+        "prize": 0
+    },
+    {
+        "name": "BADS1819",
+        "link": "https://www.kaggle.com/competitions/bads1718",
+        "prize": 0
+    },
+    {
+        "name": "PyCon KR 2018 Data Science Tutorial",
+        "link": "https://www.kaggle.com/competitions/pycon2018dstutorial",
+        "prize": 0
+    },
+    {
+        "name": "TGS Salt Identification Challenge",
+        "link": "https://www.kaggle.com/competitions/tgs-salt-identification-challenge",
+        "prize": 100000
+    },
+    {
+        "name": "Data Science Game 2018 Online qualifiers",
+        "link": "https://www.kaggle.com/competitions/DSG2018-qualifiers",
+        "prize": 0
+    },
+    {
+        "name": "KÜRT Akadémia Data Science képzés 2018",
+        "link": "https://www.kaggle.com/competitions/ka-ds-2018-data-preparation",
+        "prize": 0
+    },
+    {
+        "name": "Data Science HW #5(NCTUXNTHU)",
+        "link": "https://www.kaggle.com/competitions/data-science-hw-5nctuxnthu",
+        "prize": 0
+    },
+    {
+        "name": "Data Science HW # 3 (NCTUXNTHU)",
+        "link": "https://www.kaggle.com/competitions/data-science-hw-3-nctuxnthu",
+        "prize": 0
+    },
+    {
+        "name": "TrackML Particle Tracking Challenge",
+        "link": "https://www.kaggle.com/competitions/trackml-particle-identification",
+        "prize": 25000
+    },
+    {
+        "name": " Flight Delays Prediction",
+        "link": "https://www.kaggle.com/competitions/flight-delays-prediction",
+        "prize": 0
+    },
+    {
+        "name": "ALSET Test",
+        "link": "https://www.kaggle.com/competitions/alsettest",
+        "prize": 0
+    },
+    {
+        "name": "Infor Data Science Hackathon",
+        "link": "https://www.kaggle.com/competitions/infor-retail-data-science-hackathon",
+        "prize": 0
+    },
+    {
+        "name": "ods_class_cs231n",
+        "link": "https://www.kaggle.com/competitions/ods-class-cs231n",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Competition at Dev Day 2018",
+        "link": "https://www.kaggle.com/competitions/devday",
+        "prize": 0
+    },
+    {
+        "name": "2110446 Data Science and Data Engineering",
+        "link": "https://www.kaggle.com/competitions/2110446-data-science-and-data-engineering",
+        "prize": 0
+    },
+    {
+        "name": "Infor Internal Data Science Hackathon ",
+        "link": "https://www.kaggle.com/competitions/infor-internal-data-science-hackathon",
+        "prize": 0
+    },
+    {
+        "name": "MTBC | NaSCon Data Science Competition 2018",
+        "link": "https://www.kaggle.com/competitions/nascon18-data-science",
+        "prize": 0
+    },
+    {
+        "name": "NaSCon'18 Data Science Competition",
+        "link": "https://www.kaggle.com/competitions/nascon2018-data-science",
+        "prize": 0
+    },
+    {
+        "name": "Flight delays",
+        "link": "https://www.kaggle.com/competitions/flight-delays-spring-2018",
+        "prize": 0
+    },
+    {
+        "name": "Exebit Data Science Challenge",
+        "link": "https://www.kaggle.com/competitions/exebit",
+        "prize": 0
+    },
+    {
+        "name": "Capitec BBLB",
+        "link": "https://www.kaggle.com/competitions/capitec-bblb-th",
+        "prize": 0
+    },
+    {
+        "name": "Monash Data Science Society Kaggle 2018",
+        "link": "https://www.kaggle.com/competitions/mdss2018",
+        "prize": 0
+    },
+    {
+        "name": "Vampires or propriety?",
+        "link": "https://www.kaggle.com/competitions/vampires-or-propriety",
+        "prize": 0
+    },
+    {
+        "name": "R Essentials for Data Science : Classification",
+        "link": "https://www.kaggle.com/competitions/resentials",
+        "prize": 0
+    },
+    {
+        "name": "Azerbaijani Unicodification",
+        "link": "https://www.kaggle.com/competitions/azerbaijani-unicodification",
+        "prize": 0
+    },
+    {
+        "name": "How good is your Medium article?",
+        "link": "https://www.kaggle.com/competitions/how-good-is-your-medium-article",
+        "prize": 0
+    },
+    {
+        "name": "UT Data science Lab Spring 2018",
+        "link": "https://www.kaggle.com/competitions/utdslabsp18",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Hackathon",
+        "link": "https://www.kaggle.com/competitions/kyiv-data-science-hackathon",
+        "prize": 0
+    },
+    {
+        "name": "Predict Future Sales",
+        "link": "https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales",
+        "prize": 0
+    },
+    {
+        "name": "Introduction to Data Science, NYU, Spring 2018",
+        "link": "https://www.kaggle.com/competitions/introduction-to-data-science-nyu-spring-2018",
+        "prize": 0
+    },
+    {
+        "name": "Introduction to Data Science, NYU, Spring 2018",
+        "link": "https://www.kaggle.com/competitions/intro-to-data-science-spring-2018",
+        "prize": 0
+    },
+    {
+        "name": "Oprec Ristek 2018 - Data Science",
+        "link": "https://www.kaggle.com/competitions/oprecristekds",
+        "prize": 0
+    },
+    {
+        "name": "Data Science for Business | IBIS Seminar | LMU",
+        "link": "https://www.kaggle.com/competitions/data-science-for-business-seminar-ws1718",
+        "prize": 0
+    },
+    {
+        "name": "Data Science for Business | IBIS Seminar | LMU",
+        "link": "https://www.kaggle.com/competitions/data-science-for-business-ws1718",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Nigeria Telecoms Churn ",
+        "link": "https://www.kaggle.com/competitions/dsntelecomschurn2018",
+        "prize": 0
+    },
+    {
+        "name": "2018 Data Science Bowl ",
+        "link": "https://www.kaggle.com/competitions/data-science-bowl-2018",
+        "prize": 100000
+    },
+    {
+        "name": "NS Data Science Competition - January",
+        "link": "https://www.kaggle.com/competitions/ns-data-science-competition",
+        "prize": 0
+    },
+    {
+        "name": "2018 E.SUN MA/TMA Data Competition",
+        "link": "https://www.kaggle.com/competitions/esun-2018-matma",
+        "prize": 0
+    },
+    {
+        "name": "2018 E.SUN MA/TMA Data Competition",
+        "link": "https://www.kaggle.com/competitions/2018-data-competition",
+        "prize": 0
+    },
+    {
+        "name": "MFAB Data Challenge",
+        "link": "https://www.kaggle.com/competitions/mfab-data-challenge",
+        "prize": 0
+    },
+    {
+        "name": "KÜRT Akadémia Data Science képzés 2017",
+        "link": "https://www.kaggle.com/competitions/ka-ds-2017-regression",
+        "prize": 0
+    },
+    {
+        "name": "opendatascience_class_cs231n",
+        "link": "https://www.kaggle.com/competitions/opendatascience-class-cs231n",
+        "prize": 0
+    },
+    {
+        "name": "Binghamton Data Science Competition 2017 ",
+        "link": "https://www.kaggle.com/competitions/binghamton2017",
+        "prize": 0
+    },
+    {
+        "name": "1st National Data Science Bowl",
+        "link": "https://www.kaggle.com/competitions/1stdsbowl-in-class",
+        "prize": 0
+    },
+    {
+        "name": "Competition 2 / CS4786 Fall '17",
+        "link": "https://www.kaggle.com/competitions/competition-2-cs4786-fall-17",
+        "prize": 0
+    },
+    {
+        "name": "Прогнозирование задержек вылетов",
+        "link": "https://www.kaggle.com/competitions/flight-delays-2017",
+        "prize": 0
+    },
+    {
+        "name": "NFL Free Agent Value First Round",
+        "link": "https://www.kaggle.com/competitions/nfl-free-agent-value",
+        "prize": 0
+    },
+    {
+        "name": "DataJam ",
+        "link": "https://www.kaggle.com/competitions/datajam-10",
+        "prize": 0
+    },
+    {
+        "name": "Data Jam",
+        "link": "https://www.kaggle.com/competitions/datajam",
+        "prize": 0
+    },
+    {
+        "name": "Прогноз популярности статьи на Хабре",
+        "link": "https://www.kaggle.com/competitions/habr-num-bookmarks",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Nigeria/OneFi loan risk prediction",
+        "link": "https://www.kaggle.com/competitions/data-science-nigeria-credit-risk-prediction",
+        "prize": 0
+    },
+    {
+        "name": "UT Data Science Fall 17",
+        "link": "https://www.kaggle.com/competitions/utdc-f17",
+        "prize": 0
+    },
+    {
+        "name": "DSN Competition",
+        "link": "https://www.kaggle.com/competitions/dsn-competition",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Game 17 finals",
+        "link": "https://www.kaggle.com/competitions/dsg17-finals",
+        "prize": 0
+    },
+    {
+        "name": "MDST / QL Lending Strategies Prediction Challenge",
+        "link": "https://www.kaggle.com/competitions/mdst-ql-lending-strategies",
+        "prize": 0
+    },
+    {
+        "name": "Technovit Data Science Hackathon",
+        "link": "https://www.kaggle.com/competitions/technovit-data-science-hackathon",
+        "prize": 0
+    },
+    {
+        "name": "Absa Data Science Masterclass: Predicting House Prices",
+        "link": "https://www.kaggle.com/competitions/absa-dsm-2017",
+        "prize": 0
+    },
+    {
+        "name": "Text Normalization Challenge - Russian Language",
+        "link": "https://www.kaggle.com/competitions/text-normalization-challenge-russian-language",
+        "prize": 25000
+    },
+    {
+        "name": "Text Normalization Challenge - English Language",
+        "link": "https://www.kaggle.com/competitions/text-normalization-challenge-english-language",
+        "prize": 25000
+    },
+    {
+        "name": "Final project: predict future sales",
+        "link": "https://www.kaggle.com/competitions/competitive-data-science-final-project",
+        "prize": 0
+    },
+    {
+        "name": "Carvana Image Masking Challenge",
+        "link": "https://www.kaggle.com/competitions/carvana-image-masking-challenge",
+        "prize": 25000
+    },
+    {
+        "name": "Web Traffic Time Series Forecasting",
+        "link": "https://www.kaggle.com/competitions/web-traffic-time-series-forecasting",
+        "prize": 25000
+    },
+    {
+        "name": "Mercedes-Benz Greener Manufacturing",
+        "link": "https://www.kaggle.com/competitions/mercedes-benz-greener-manufacturing",
+        "prize": 25000
+    },
+    {
+        "name": "COSE471",
+        "link": "https://www.kaggle.com/competitions/cose471",
+        "prize": 0
+    },
+    {
+        "name": "DS100_2017_HW6",
+        "link": "https://www.kaggle.com/competitions/ds100-2017-hw6",
+        "prize": 0
+    },
+    {
+        "name": "Quora Question Pairs",
+        "link": "https://www.kaggle.com/competitions/quora-question-pairs",
+        "prize": 25000
+    },
+    {
+        "name": "Data Science Class challenge 2017",
+        "link": "https://www.kaggle.com/competitions/data-science-class-challenge-2017",
+        "prize": 0
+    },
+    {
+        "name": "Google Cloud & YouTube-8M Video Understanding Challenge",
+        "link": "https://www.kaggle.com/competitions/youtube8m",
+        "prize": 100000
+    },
+    {
+        "name": "Imbalanced Classification Data Science Master",
+        "link": "https://www.kaggle.com/competitions/imbclass",
+        "prize": 0
+    },
+    {
+        "name": "Master Data Science/MVA data competition 2017",
+        "link": "https://www.kaggle.com/competitions/master-data-science-mva-data-competition-2017",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Bowl 2017",
+        "link": "https://www.kaggle.com/competitions/data-science-bowl-2017",
+        "prize": 1000000
+    },
+    {
+        "name": "KÜRT Akadémia - Adatelemzési gyakorlat",
+        "link": "https://www.kaggle.com/competitions/kurt-akademia-adatelemzesi-gyakorlat",
+        "prize": 0
+    },
+    {
+        "name": "Link Prediction TU",
+        "link": "https://www.kaggle.com/competitions/link-prediction-tu",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Dojo Capstone Project: Titanic Model",
+        "link": "https://www.kaggle.com/competitions/datasciencedojo-capstone",
+        "prize": 0
+    },
+    {
+        "name": "Dstl Satellite Imagery Feature Detection",
+        "link": "https://www.kaggle.com/competitions/dstl-satellite-imagery-feature-detection",
+        "prize": 100000
+    },
+    {
+        "name": "Data Science Dojo Capstone Project: Titanic Model",
+        "link": "https://www.kaggle.com/competitions/datasciencedojo-titanic",
+        "prize": 0
+    },
+    {
+        "name": "Data Science - French Actuary Institute",
+        "link": "https://www.kaggle.com/competitions/data-science-french-actuary-institute",
+        "prize": 0
+    },
+    {
+        "name": "KU Data Science",
+        "link": "https://www.kaggle.com/competitions/ku-data-science3",
+        "prize": 0
+    },
+    {
+        "name": "Harvard Data Science Course Competition",
+        "link": "https://www.kaggle.com/competitions/harvard-data-science-course-competition",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Challenge - FIAP 2016",
+        "link": "https://www.kaggle.com/competitions/dsc2016",
+        "prize": 0
+    },
+    {
+        "name": "Data Mining In Action 2016 - competition zero",
+        "link": "https://www.kaggle.com/competitions/data-mining-in-action-2016-competitions-01",
+        "prize": 0
+    },
+    {
+        "name": "Outbrain Click Prediction",
+        "link": "https://www.kaggle.com/competitions/outbrain-click-prediction",
+        "prize": 25000
+    },
+    {
+        "name": "Data&Science: HEP triggers",
+        "link": "https://www.kaggle.com/competitions/data-science-hep-triggers",
+        "prize": 0
+    },
+    {
+        "name": "CSE Data Science Intro",
+        "link": "https://www.kaggle.com/competitions/cse-data-science-intro",
+        "prize": 0
+    },
+    {
+        "name": "Bosch Production Line Performance",
+        "link": "https://www.kaggle.com/competitions/bosch-production-line-performance",
+        "prize": 30000
+    },
+    {
+        "name": "TalkingData Mobile User Demographics",
+        "link": "https://www.kaggle.com/competitions/talkingdata-mobile-user-demographics",
+        "prize": 25000
+    },
+    {
+        "name": "Data Science Game 2016: Online selection",
+        "link": "https://www.kaggle.com/competitions/data-science-game-2016-online-selection",
+        "prize": 0
+    },
+    {
+        "name": "Facebook V: Predicting Check Ins",
+        "link": "https://www.kaggle.com/competitions/facebook-v-predicting-check-ins",
+        "prize": 0
+    },
+    {
+        "name": "DataScienceSchool: Introduction to Data Science with Python",
+        "link": "https://www.kaggle.com/competitions/datascienceschool-introduction-to-data-science-with-python",
+        "prize": 0
+    },
+    {
+        "name": "GA Data Science Classification Review (Credit Scores)",
+        "link": "https://www.kaggle.com/competitions/ga-data-science-classification-review-credit-scores2",
+        "prize": 0
+    },
+    {
+        "name": "UM-FCSIT Playground",
+        "link": "https://www.kaggle.com/competitions/um-fcsit-playground",
+        "prize": 0
+    },
+    {
+        "name": "GUC Data Science Project",
+        "link": "https://www.kaggle.com/competitions/guc-data-science-project",
+        "prize": 0
+    },
+    {
+        "name": "State Farm Distracted Driver Detection",
+        "link": "https://www.kaggle.com/competitions/state-farm-distracted-driver-detection",
+        "prize": 65000
+    },
+    {
+        "name": "Master Data Science/MVA in-class data challenge",
+        "link": "https://www.kaggle.com/competitions/mds-mva-kaggle",
+        "prize": 0
+    },
+    {
+        "name": "Yelp Restaurant Photo Classification",
+        "link": "https://www.kaggle.com/competitions/yelp-restaurant-photo-classification",
+        "prize": 0
+    },
+    {
+        "name": "Second Annual Data Science Bowl",
+        "link": "https://www.kaggle.com/competitions/second-annual-data-science-bowl",
+        "prize": 200000
+    },
+    {
+        "name": "Telstra Network Disruptions",
+        "link": "https://www.kaggle.com/competitions/telstra-recruiting-network",
+        "prize": 0
+    },
+    {
+        "name": "GA Data Science Classification Review (Credit Scores)",
+        "link": "https://www.kaggle.com/competitions/ga-data-science-classification-review-credit-scores-2",
+        "prize": 0
+    },
+    {
+        "name": "The Allen AI Science Challenge",
+        "link": "https://www.kaggle.com/competitions/the-allen-ai-science-challenge",
+        "prize": 80000
+    },
+    {
+        "name": "Flavours of Physics: Finding τ  →  μμμ",
+        "link": "https://www.kaggle.com/competitions/flavours-of-physics",
+        "prize": 15000
+    },
+    {
+        "name": "Machinery Tube Pricing",
+        "link": "https://www.kaggle.com/competitions/machinery-tube-pricing",
+        "prize": 30000
+    },
+    {
+        "name": "Crowdflower Search Results Relevance",
+        "link": "https://www.kaggle.com/competitions/crowdflower-search-relevance",
+        "prize": 20000
+    },
+    {
+        "name": "Facebook Recruiting IV: Human or Robot?",
+        "link": "https://www.kaggle.com/competitions/facebook-recruiting-iv-human-or-bot",
+        "prize": 0
+    },
+    {
+        "name": "Otto Group Product Classification Challenge",
+        "link": "https://www.kaggle.com/competitions/otto-group-product-classification-challenge",
+        "prize": 10000
+    },
+    {
+        "name": "Microsoft Malware Classification Challenge (BIG 2015)",
+        "link": "https://www.kaggle.com/competitions/malware-classification",
+        "prize": 16000
+    },
+    {
+        "name": "GA Data Science Classification Review (Credit Scores)",
+        "link": "https://www.kaggle.com/competitions/ga-data-science-classification-review-credit-scores",
+        "prize": 0
+    },
+    {
+        "name": "National Data Science Bowl",
+        "link": "https://www.kaggle.com/competitions/datasciencebowl",
+        "prize": 175000
+    },
+    {
+        "name": "GA Data Science Workshop",
+        "link": "https://www.kaggle.com/competitions/ga-data-science-workshop",
+        "prize": 0
+    },
+    {
+        "name": "Getting a Handel on data science",
+        "link": "https://www.kaggle.com/competitions/fill-up-the-house",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Case II",
+        "link": "https://www.kaggle.com/competitions/data-science-case-ii",
+        "prize": 0
+    },
+    {
+        "name": "Random Acts of Pizza",
+        "link": "https://www.kaggle.com/competitions/random-acts-of-pizza",
+        "prize": 0
+    },
+    {
+        "name": "Bike Sharing Demand",
+        "link": "https://www.kaggle.com/competitions/bike-sharing-demand",
+        "prize": 0
+    },
+    {
+        "name": "Billion Word Imputation",
+        "link": "https://www.kaggle.com/competitions/billion-word-imputation",
+        "prize": 0
+    },
+    {
+        "name": "Data Science Case",
+        "link": "https://www.kaggle.com/competitions/data-science-case",
+        "prize": 0
+    },
+    {
+        "name": "GADSLA 1403 Data Science Movie Review Sentiment Analysis",
+        "link": "https://www.kaggle.com/competitions/gadsla-1403-data-science-movie-review-sentiment-analysis",
+        "prize": 0
+    },
+    {
+        "name": "GA Data Science NY Review",
+        "link": "https://www.kaggle.com/competitions/ga-data-science-ny-review",
+        "prize": 0
+    },
+    {
+        "name": "GA Data Science NY 7 Review",
+        "link": "https://www.kaggle.com/competitions/ga-data-science-ny-7-review",
+        "prize": 0
+    },
+    {
+        "name": "Human Activity Recognition Using Smartphones Data Set",
+        "link": "https://www.kaggle.com/competitions/human-activity-recognition-using-smartphones-data-set",
+        "prize": 0
+    },
+    {
+        "name": "Introduction to Data Science, Fall 2013 (W4242, Columbia University)",
+        "link": "https://www.kaggle.com/competitions/introduction-to-data-science-fall-2013-w4242-columbia-university",
+        "prize": 0
+    },
+    {
+        "name": "StumbleUpon Evergreen Classification Challenge",
+        "link": "https://www.kaggle.com/competitions/stumbleupon",
+        "prize": 5000
+    },
+    {
+        "name": "Data Science London + Scikit-learn",
+        "link": "https://www.kaggle.com/competitions/data-science-london-scikit-learn",
+        "prize": 0
+    },
+    {
+        "name": "Just the Basics - Strata 2013",
+        "link": "https://www.kaggle.com/competitions/just-the-basics-strata-2013",
+        "prize": 0
+    },
+    {
+        "name": "Oxford CS Credit Scoring Competition, Michaelmas 2012 edition",
+        "link": "https://www.kaggle.com/competitions/oxford-credit-scoring-competition-late-2012-edition",
+        "prize": 0
+    },
+    {
+        "name": "Columbia University - Introduction to Data Science, Fall 2012",
+        "link": "https://www.kaggle.com/competitions/columbia-university-introduction-to-data-science-fall-2012",
+        "prize": 0
+    },
+    {
+        "name": "EMI Music Data Science Hackathon - July 21st - 24 hours",
+        "link": "https://www.kaggle.com/competitions/MusicHackathon",
+        "prize": 10000
+    },
+    {
+        "name": "EMC Israel Data Science Challenge",
+        "link": "https://www.kaggle.com/competitions/emc-data-science",
+        "prize": 10000
+    },
+    {
+        "name": "EMC Data Science Global Hackathon (Air Quality Prediction)",
+        "link": "https://www.kaggle.com/competitions/dsg-hackathon",
+        "prize": 7030
+    },
+    {
+        "name": "DM1 - MCC-FCUP/UPorto",
+        "link": "https://www.kaggle.com/competitions/DM1MCC",
+        "prize": 0
+    }
+]
