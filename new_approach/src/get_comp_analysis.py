@@ -5,8 +5,8 @@ import time
 import argparse
 
 # --- Configuration ---
-INPUT_FILE = "data/raw/kaggle_competitions_final.json"
-OUTPUT_FILE = "data/raw/ethical_analysis.json"
+INPUT_FILE = "data/kaggle_competitions_final.json"
+OUTPUT_FILE = "data/ethical_analysis.json"
 
 # --- Gemini API Setup ---
 try:

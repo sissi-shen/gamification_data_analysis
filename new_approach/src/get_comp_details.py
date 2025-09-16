@@ -14,7 +14,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 # --- 💡 Configuration ---
 # Set the number of competitions you want to process.
 # To process all, set this to a very large number (e.g., 9999).
-COMPETITIONS_TO_PROCESS = 10
+COMPETITIONS_TO_PROCESS = 1002
 
 TABS_TO_SCRAPE = ["Overview", "Data", "Rules"]
 CONTENT_AREA_SELECTOR = "div[role='main']"
@@ -44,8 +44,8 @@ except TimeoutException:
 time.sleep(1)
 
 # --- Load and Slice the Data ---
-input_path = "data/raw/kaggle_competitions_all_types.json"
-output_path = "data/raw/kaggle_competitions_final.json"
+input_path = "data/kaggle_competitions_all_types.json"
+output_path = "data/kaggle_competitions_final.json"
 
 try:
     with open(input_path, "r", encoding="utf-8") as f:
@@ -89,7 +89,12 @@ for index, competition in enumerate(competitions):
             time.sleep(1)
             
             full_text = content_area.text
-            full_text_no_header = full_text.split('Overview\nData\nCode\nModels\nDiscussion\nLeaderboard\nRules')[1]
+            parts = re.split(r'Overview\nData\n.*?\nRules', full_text, maxsplit=1, flags=re.DOTALL)
+
+            if len(parts) > 1:
+                full_text_no_header = parts[1]  # RIGHT side of the split
+            else:
+                full_text_no_header = full_text
             lines = full_text_no_header.split('\n')
             filtered_lines = [line.strip() for line in lines if len(line.strip().split()) > 5]
             processed_text = '\n'.join(lines)
