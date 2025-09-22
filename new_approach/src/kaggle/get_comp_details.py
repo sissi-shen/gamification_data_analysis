@@ -44,8 +44,8 @@ except TimeoutException:
 time.sleep(1)
 
 # --- Load and Slice the Data ---
-input_path = "data/kaggle_competitions_all_types.json"
-output_path = "data/kaggle_competitions_final.json"
+input_path = "/Users/manikeshmakam/Endgame 2.0/ethicalAI/data/kaggle/inputs/kaggle_competitions_all_types.json"
+output_path = "/Users/manikeshmakam/Endgame 2.0/ethicalAI/data/kaggle/inputs/kaggle_competitions_final.json"
 
 try:
     with open(input_path, "r", encoding="utf-8") as f:

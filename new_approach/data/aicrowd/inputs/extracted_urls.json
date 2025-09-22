@@ -1,0 +1,665 @@
+[
+  {
+    "link": "https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2025"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/meta-crag-mm-challenge-2025"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/brick-by-brick-2024"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/sounding-video-generation-svg-challenge-2024"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/meta-comprehensive-rag-benchmark-kdd-cup-2024"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/generative-interior-design-challenge-2024"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2023"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/meltingpot-challenge-2023"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/neurips-2023-citylearn-challenge"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/neurips-2023-the-neural-mmo-challenge"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/hackaprompt-2023"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/amazon-kdd-cup-23-multilingual-recommendation-challenge"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/mosquitoalert-challenge-2023"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/scene-understanding-for-autonomous-drone-delivery-suadd-23"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/sound-demixing-challenge-2023"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/visual-product-recognition-challenge-2023"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/food-recognition-benchmark-2022"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/neurips-2022-citylearn-challenge"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/neurips-2022-minerl-basalt-competition"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/data-purchasing-challenge-2022"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/neurips-2022-iglu-challenge"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/neurips-2022-the-neural-mmo-challenge"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/esci-challenge-for-improving-product-search"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/multi-agent-behavior-challenge-2022"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/airborne-object-tracking-challenge"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/neurips-2021-the-nethack-challenge"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/ijcai-2022-the-neural-mmo-challenge"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/neurips-2021-minerl-diamond-competition"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/htrec-2022"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/flatland-3"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/addi-alzheimers-detection-challenge"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/ai-blitz-xiii"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/neurips-2021-minerl-basalt-competition"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-challenge"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/neurips-2020-procgen-competition"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/ai-blitz-xii"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/neurips-2021-aws-deepracer-ai-driving-olympics-challenge"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/the-neural-mmo-challenge"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/seismic-facies-identification-challenge"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/ai-blitz-xi"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/music-demixing-challenge-ismir-2021"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/insurance-pricing-game"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/ai-blitz-x"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/ai-blitz-x"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/ai-blitz-9"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/flatland"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/food-recognition-challenge"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/food-recognition-challenge"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/global-wheat-challenge-2021"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/neurips-2020-minerl-competition"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/neurips-2020-minerl-competition"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/multi-agent-behavior-representation-modeling-measurement-and-applications"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/ai-blitz-8"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/dr-derks-mutant-battlegrounds"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/dr-derks-mutant-battlegrounds"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/learning-to-smell"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/snakeclef2021-snake-species-identification-challenge"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/cyd-campus-aircraft-localization-competition"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/ai-blitz-6"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/ai-blitz-6"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/ai-blitz-7"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/hockey-player-localization"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/real-2020-robot-open-ended-autonomous-learning"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/ai-blitz-5"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/ai-blitz-5"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/ai-blitz-4"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/hockey-puck-tracking-challenge"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/hockey-team-classification"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/neurips-2019-learn-to-move-walk-around"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/aicrowd-blitz-2"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/aicrowd-blitz-2"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/neurips-2019-disentanglement-challenge"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/neurips-2019-minerl-competition"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/flatland-challenge"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/columns-property-annotation-cpa-challenge"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/column-type-annotation-cta-challenge"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/cell-entity-annotation-cea-challenge"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/tartanair-visual-slam-mono-track"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/imageclef-2020-drawnui"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/trajnet-a-trajectory-forecasting-challenge"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/mediqa-2019-natural-language-inference-nli"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/aicrowd-blitz-may-2020"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/aicrowd-blitz-may-2020"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/epfl-ml-road-segmentation"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/epfl-ml-recommender-system-47572853-80a6-48e6-9873-ca57cfea3d3c"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/epfl-ml-text-classification"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/amld-2020-transfer-learning-for-international-crisis-response"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/amld-2020-d-avatar-challenge"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/neurips-2019-robot-open-ended-autonomous-learning"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/iccv-2019-learning-to-drive-challenge"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/unity-obstacle-tower-challenge"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/mediqa-2019-recognizing-question-entailment-rqe"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/mediqa-2019-question-answering-qa"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/iswc-2019-column-type-annotation-cta-challenge"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/iswc-2019-cell-entity-annotation-cea-challenge"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/iswc-2019-columns-property-annotation-cpa-challenge"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/spotify-sequential-skip-prediction-challenge-old"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/mapping-challenge-old"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/epfl-machine-learning-project-1"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/plantvillage-disease-classification-challenge-old"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/plantvillage-disease-classification-challenge"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/imageclef-2018-caption-caption-prediction"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/imageclef-2018-caption-concept-detection"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/imageclef-2018-tuberculosis-mdr-detection"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/imageclef-2019-caption-concept-detection"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/imageclef-2019-tuberculosis-severity-scoring"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/imageclef-2019-tuberculosis-ct-report"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/lifeclef-2018-bird-monophone"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/lifeclef-2019-plant"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/lifeclef-2019-geo"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/labor"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/imageclef-2020-lifelog-lmrt"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/imageclef-2020-lifelog-spll"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/imageclef-2020-coral-annotation-and-localisation"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/ai-for-good-ai-blitz-3"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/ai-for-good-ai-blitz-3"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/imageclef-2020-coral-pixel-wise-parsing"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/imageclef-2020-vqa-med-vqa"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/imageclef-2020-caption-concept-detection"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/imageclef-2020-tuberculosis-ct-report"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/imageclef-2020-vqa-med-vqg"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/maskd"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/miccai-2020-hecktor"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/spotify-sequential-skip-prediction-challenge"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/lifeclef-2020-bird-monophone"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/lifeclef-2020-geo"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/lifeclef-2020-plant"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/chess"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/wineq"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/crdio"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/crdio"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/tartanair-visual-slam-stereo-track"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/eccv-2020-commands-4-autonomous-vehicles"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/scrbl"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/snake"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/fnews"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/solve-sudoku"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/lndst"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/autodri"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/skely"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/semtab-2020"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/captcha"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/jigsaw"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/da-wine-quality-assignment"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/da-project-light"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/da-project-aloid"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/da-project-recid"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/final-project-of-the-data-mining-and-machine-learning-course"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/da-project-monsoon-2020"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/da-project-plant"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/mediqa-2021-question-summarization-qs"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/mediqa-2021-multi-answer-summarization-mas"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/mediqa-2021-radiology-report-summarization-rrs"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/mediqa-2021"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/imageclef-2021-aware"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/imageclef-2021-coral-pixel-wise-parsing"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/imageclef-2021-coral-annotation-and-localisation"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/imageclef-2021-drawnui-wireframe"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/imageclef-2021-drawnui-screenshot"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/imageclef-2021-vqa-med-vqa"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/imageclef-2021-vqa-med-vqg"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/f1-car-detection"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/imageclef-2021-caption-concept-detection"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/imageclef-2021-tuberculosis-tbt-classification"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/f1-team-classification"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/lifeclef-2021-plant"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/time-series-prediction"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/time-series-prediction"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/txtocr"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/txtocr"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/imgcol"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/imgcol"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/objde"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/objde"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/sound-sentiment-prediction"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/sound-sentiment-prediction"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/chess-transcription"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/chess-configuration"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/chess-points"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/chess-pieces"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/chess-win-prediction"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/imageclef-2021-caption-caption-prediction"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/evoked-expressions-from-videos-challenge-cvpr-2021"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/ml-battleground"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/tiring-text"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/tile-slider"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/hey-barrels"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/rl-vi"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/mabe-task-1-classical-classification"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/mabe-task-2-annotation-style-transfer"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/mabe-task-3-learning-new-behavior"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/rliitm-1"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/rl-taxi"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/mars-rotation"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/stage-prediction"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/rover-classification"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/debris-detection"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/image-correction"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/miccai-2021-hecktor"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/ai-blitz-community-challenge"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/f1-speed-recognition"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/f1-smoke-elimination"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/iit-m-rl-assignment-2-taxi"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/iit-m-rl-assignment-2-gridworld"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/iit-m-assignment-2"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/f1-car-rotation"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/iitm-rl-final-project"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/emotion-detection"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/research-paper-classification"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/de-shuffling-text"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/nlp-feature-engineering"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/sound-prediction"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/semtab-2021"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/column-type-annotation-by-dbpedia-cta-dbp"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/cell-entity-annotation-by-wikidata-cea-wd"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/cell-entity-annotation-by-dbpedia-cea-dbp"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/column-type-annotation-by-wikidata-cta-wd"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/findcave"
+  },
+  {
+    "link": "https://www.aicrowd.com/challenges/makewaterfall"
+  }
+]

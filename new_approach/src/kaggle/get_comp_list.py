@@ -121,7 +121,7 @@ while True:
         break
 
 # 10. Save the final results
-output_dir = "data"
+output_dir = "/Users/manikeshmakam/Endgame 2.0/ethicalAI/data/kaggle/inputs"
 os.makedirs(output_dir, exist_ok=True)
 output_path = os.path.join(output_dir, "kaggle_competitions_all_types.json")
 

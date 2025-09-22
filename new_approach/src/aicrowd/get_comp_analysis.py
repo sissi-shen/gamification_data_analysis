@@ -6,8 +6,8 @@ import argparse
 import random
 
 # --- Configuration ---
-INPUT_FILE = "data/kaggle_competitions_final.json"
-OUTPUT_FILE = "data/ethical_analysis.json"
+INPUT_FILE = "/Users/manikeshmakam/Endgame 2.0/ethicalAI/data/aicrowd/inputs/aicrowd_competitions_final.json"
+OUTPUT_FILE = "/Users/manikeshmakam/Endgame 2.0/ethicalAI/data/aicrowd/results/ethical_analysis.json"
 
 # --- Gemini API Setup ---
 try:
@@ -84,6 +84,10 @@ def analyze_competition_context(context, competition_name):
         return None
 
 def main(start_index, limit, shuffle):
+    # --- Ensure output directory exists ---
+    output_dir = os.path.dirname(OUTPUT_FILE)
+    os.makedirs(output_dir, exist_ok=True)
+    
     # --- Load Source Data ---
     try:
         with open(INPUT_FILE, "r", encoding="utf-8") as f:
@@ -182,7 +186,7 @@ def main(start_index, limit, shuffle):
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Analyze Kaggle competitions using Gemini API.")
+    parser = argparse.ArgumentParser(description="Analyze AIcrowd competitions using Gemini API.")
     parser.add_argument(
         "--start_index",
         type=int,
@@ -203,4 +207,3 @@ if __name__ == "__main__":
     args = parser.parse_args()
     
     main(args.start_index, args.limit, args.shuffle)
-

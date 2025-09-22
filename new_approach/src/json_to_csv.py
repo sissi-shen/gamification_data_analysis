@@ -3,8 +3,8 @@ import csv
 import os
 
 # --- Configuration ---
-INPUT_FILE = "data/ethical_analysis.json"
-OUTPUT_FILE = "data/ethical_analysis.csv"
+INPUT_FILE = "data/aicrowd/results/ethical_analysis.json"
+OUTPUT_FILE = "data/aicrowd/results/ethical_analysis.csv"
 
 def convert_json_to_csv():
     """
