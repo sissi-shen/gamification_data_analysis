@@ -229,7 +229,8 @@ Update file paths in scripts to match your directory structure:
 
 ### Analysis Parameters
 - `--limit`: Number of competitions to process
-- `--resume`: Continue from previous run
+- `--start_index`: Resume from specific index (0-based)
+- `--shuffle`: Randomize competition order
 - Rate limiting and delay settings
 
 ---
