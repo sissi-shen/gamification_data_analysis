@@ -11,15 +11,11 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 from webdriver_manager.chrome import ChromeDriverManager
 
-# --- 💡 Configuration ---
-# Set the number of competitions you want to process.
-# To process all, set this to a very large number (e.g., 9999).
 COMPETITIONS_TO_PROCESS = 1002
 
 TABS_TO_SCRAPE = ["Overview", "Data", "Rules"]
 CONTENT_AREA_SELECTOR = "div[role='main']"
 
-# --- Script Setup ---
 options = Options()
 # options.add_argument("--headless")
 options.add_experimental_option("detach", True)
@@ -33,7 +29,6 @@ except Exception as e:
     print(f"❌ Failed to start WebDriver: {e}")
     exit()
 
-# --- Handle Cookie Consent ---
 driver.get("https://www.kaggle.com")
 print("Navigated to Kaggle to handle cookie consent.")
 try:
@@ -43,9 +38,8 @@ except TimeoutException:
     print("⚠️ Cookie consent button not found or already handled.")
 time.sleep(1)
 
-# --- Load and Slice the Data ---
-input_path = "/Users/manikeshmakam/Endgame 2.0/ethicalAI/data/kaggle/inputs/kaggle_competitions_all_types.json"
-output_path = "/Users/manikeshmakam/Endgame 2.0/ethicalAI/data/kaggle/inputs/kaggle_competitions_final.json"
+input_path = "../../data/kaggle/inputs/kaggle_competitions_all_types.json"
+output_path = "../../data/kaggle/inputs/kaggle_competitions_final.json"
 
 try:
     with open(input_path, "r", encoding="utf-8") as f:
@@ -62,7 +56,6 @@ except FileNotFoundError:
     driver.quit()
     exit()
 
-# --- Main Scraping Loop ---
 total_competitions = len(competitions)
 successfully_scraped = 0
 for index, competition in enumerate(competitions):

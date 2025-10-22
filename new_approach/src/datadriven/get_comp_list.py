@@ -11,10 +11,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 from webdriver_manager.chrome import ChromeDriverManager
 
-# Configuration
-COMPETITIONS_TO_PROCESS = 2  # Start with 2 for testing
+COMPETITIONS_TO_PROCESS = 2
 
-# Script Setup
 options = Options()
 # options.add_argument("--headless")
 options.add_experimental_option("detach", True)
@@ -28,9 +26,8 @@ except Exception as e:
     print(f"❌ Failed to start WebDriver: {e}")
     exit()
 
-# Load competition data
-input_path = "/Users/manikeshmakam/Endgame 2.0/ethicalAI/data/datadriven/inputs/datadriven_competitions_all_types.json"
-output_path = "/Users/manikeshmakam/Endgame 2.0/ethicalAI/data/datadriven/inputs/datadriven_competitions_final.json"
+input_path = "../../data/datadriven/inputs/datadriven_competitions_all_types.json"
+output_path = "../../data/datadriven/inputs/datadriven_competitions_final.json"
 
 try:
     with open(input_path, "r", encoding="utf-8") as f:
@@ -48,9 +45,6 @@ except FileNotFoundError:
     exit()
 
 def extract_navigation_content(competition_url):
-    """
-    Extract content from all navigation sections except leaderboard results
-    """
     context_parts = []
     
     try:
@@ -157,7 +151,6 @@ def extract_navigation_content(competition_url):
     
     return "\n\n".join(context_parts)
 
-# Main scraping loop
 total_competitions = len(competitions)
 successfully_scraped = 0
 

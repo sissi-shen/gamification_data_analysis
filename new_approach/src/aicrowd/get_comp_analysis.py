@@ -5,11 +5,9 @@ import time
 import argparse
 import random
 
-# --- Configuration ---
-INPUT_FILE = "/Users/manikeshmakam/Endgame 2.0/ethicalAI/data/aicrowd/inputs/aicrowd_competitions_final.json"
-OUTPUT_FILE = "/Users/manikeshmakam/Endgame 2.0/ethicalAI/data/aicrowd/results/ethical_analysis.json"
+INPUT_FILE = "../../data/aicrowd/inputs/aicrowd_competitions_final.json"
+OUTPUT_FILE = "../../data/aicrowd/results/ethical_analysis.json"
 
-# --- Gemini API Setup ---
 try:
     genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
     print("✅ Gemini API configured successfully.")
@@ -23,7 +21,6 @@ model = genai.GenerativeModel(
     "gemini-2.5-pro", generation_config=generation_config
 )
 
-# --- Final, Strict System Prompt ---
 SYSTEM_PROMPT = """
 You are an expert AI assistant specializing in analyzing text for specific ethical and practical characteristics of data science competitions. Your task is to analyze the user-provided 'context' and generate a single, valid JSON object with a specific, flat structure.
 
@@ -84,11 +81,8 @@ def analyze_competition_context(context, competition_name):
         return None
 
 def main(start_index, limit, shuffle):
-    # --- Ensure output directory exists ---
     output_dir = os.path.dirname(OUTPUT_FILE)
     os.makedirs(output_dir, exist_ok=True)
-    
-    # --- Load Source Data ---
     try:
         with open(INPUT_FILE, "r", encoding="utf-8") as f:
             source_competitions = json.load(f)
@@ -97,7 +91,6 @@ def main(start_index, limit, shuffle):
         print(f"❌ Input file not found: {INPUT_FILE}")
         return
 
-    # --- Handle Shuffle Logic ---
     if shuffle:
         print("🔀 Shuffling competitions as requested...")
         random.shuffle(source_competitions)
@@ -105,10 +98,7 @@ def main(start_index, limit, shuffle):
         start_index = 0
         print("✅ Competitions shuffled. --start_index is ignored.")
 
-    # --- Handle Overwrite vs. Resume Logic ---
-    # We only resume if a start_index is given AND we are not in shuffle mode.
     if start_index > 0 and not shuffle:
-        # RESUME MODE: Load existing results to append to them.
         try:
             with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
                 final_results = json.load(f)
@@ -117,14 +107,12 @@ def main(start_index, limit, shuffle):
             print(f"❌ ERROR: You specified --start_index {start_index}, but '{OUTPUT_FILE}' was not found to resume from.")
             return
     else:
-        # OVERWRITE MODE: Start with an empty list.
         final_results = []
         if shuffle:
              print(f"✅ Starting a new analysis in shuffle mode. '{OUTPUT_FILE}' will be overwritten.")
         else:
              print(f"✅ Starting a new analysis session. '{OUTPUT_FILE}' will be overwritten upon completion.")
 
-    # --- Main Processing Loop ---
     total_competitions = len(source_competitions)
     processed_in_this_run = 0
     for index, competition in enumerate(source_competitions):
@@ -158,26 +146,21 @@ def main(start_index, limit, shuffle):
             }
             final_results.append(structured_record)
 
-            # Save progress after every single record.
             with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
                 json.dump(final_results, f, indent=4, ensure_ascii=False)
             print(f"  - ✅ Success! Progress saved. Total records: {len(final_results)}")
             
-            # Rate Limiting: Pause for 60 seconds after every 3 calls.
             if processed_in_this_run % 3 == 0 and (index + 1) < total_competitions:
-                # print(f"\n--- Pausing for 5 seconds to respect API rate limits... ---")
                 time.sleep(1)
             else:
                 print(f"\n--- Pausing for 60 seconds to respect API rate limits... ---")
-                time.sleep(60) # Standard 1-second pause between calls
+                time.sleep(60)
 
-            # Stop early if we've reached the requested limit
             if limit and limit > 0 and processed_in_this_run >= limit:
                 print(f"\n🟡 Reached limit of {limit} competitions for this run. Stopping early.")
                 break
 
         else:
-            # --- Fallback System ---
             print(f"  - Fallback triggered due to API error.")
             print(f"🔴 To resume from this point, run the script again with the command:")
             print(f"   python {os.path.basename(__file__)} --start_index {index}")

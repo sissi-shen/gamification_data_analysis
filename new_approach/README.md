@@ -187,13 +187,15 @@ export GOOGLE_API_KEY='your_gemini_api_key'
 #### 1. Scrape Competitions (DrivenData example)
 ```bash
 cd src/datadriven
-python get_comp_list.py --limit 10
+python get_comp_list.py # full analysis
+python get_comp_list.py --limit 10 # for testing
 python get_comp_details.py
 ```
 
 #### 2. Analyze for Ethics
 ```bash
-python get_comp_analysis.py --limit 10
+python get_comp_analysis.py # full analysis
+python get_comp_analysis.py --limit 10 # for testing
 ```
 
 #### 3. Convert to CSV

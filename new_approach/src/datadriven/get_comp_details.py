@@ -14,7 +14,6 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 from webdriver_manager.chrome import ChromeDriverManager
 
-# Configuration - Parse command line arguments
 parser = argparse.ArgumentParser(description='Scrape DataDriven competition details')
 parser.add_argument('--limit', type=int, help='Limit the number of competitions to process (default: process all)')
 args = parser.parse_args()
@@ -25,7 +24,6 @@ if COMPETITIONS_TO_PROCESS:
 else:
     print("✅ No limit provided. Will process all competitions")
 
-# Script Setup
 options = Options()
 # options.add_argument("--headless")
 options.add_experimental_option("detach", True)
@@ -39,9 +37,8 @@ except Exception as e:
     print(f"❌ Failed to start WebDriver: {e}")
     exit()
 
-# Load competition data
-input_path = "/Users/manikeshmakam/Endgame 2.0/ethicalAI/data/datadriven/inputs/datadriven_competitions_all_types.json"
-output_path = "/Users/manikeshmakam/Endgame 2.0/ethicalAI/data/datadriven/inputs/datadriven_competitions_final.json"
+input_path = "../../data/datadriven/inputs/datadriven_competitions_all_types.json"
+output_path = "../../data/datadriven/inputs/datadriven_competitions_final.json"
 
 try:
     with open(input_path, "r", encoding="utf-8") as f:
@@ -55,10 +52,6 @@ except FileNotFoundError:
     exit()
 
 def flatten_competitions(competitions):
-    """
-    Flatten competitions structure to include all standalone competitions and child competitions
-    Excludes parent links where available (only keeps child links)
-    """
     flattened = []
     
     for competition in competitions:
@@ -85,10 +78,6 @@ def flatten_competitions(competitions):
     return flattened
 
 def extract_navigation_content(competition_url):
-    """
-    Extract content from all navigation sections except leaderboard results
-    Simple approach: collect all hrefs first, then navigate to each one
-    """
     context_parts = []
     sections_successfully_scraped = 0
     
@@ -183,18 +172,15 @@ def extract_navigation_content(competition_url):
     
     return "\n\n".join(context_parts)
 
-# Flatten the competitions structure
 flattened_competitions = flatten_competitions(competitions)
 print(f"✅ Flattened {len(competitions)} competitions into {len(flattened_competitions)} individual competitions to process")
 
-# Apply limit AFTER flattening
 if COMPETITIONS_TO_PROCESS is not None:
     flattened_competitions = flattened_competitions[:COMPETITIONS_TO_PROCESS]
     print(f"✅ Applied limit: processing first {len(flattened_competitions)} flattened competitions")
 else:
     print(f"✅ No limit applied: processing all {len(flattened_competitions)} flattened competitions")
 
-# Main scraping loop
 total_competitions = len(flattened_competitions)
 successfully_scraped = 0
 

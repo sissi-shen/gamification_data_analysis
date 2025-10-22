@@ -2,11 +2,10 @@ import json
 import csv
 import os
 
-# --- Configuration ---
-KAGGLE_JSON = "/Users/manikeshmakam/Endgame 2.0/ethicalAI/data/kaggle/results/ethical_analysis.json"
-AICROWD_JSON = "/Users/manikeshmakam/Endgame 2.0/ethicalAI/data/aicrowd/results/ethical_analysis.json"
-DATADRIVEN_JSON = "/Users/manikeshmakam/Endgame 2.0/ethicalAI/data/datadriven/results/ethical_analysis.json"
-COMBINED_CSV = "/Users/manikeshmakam/Endgame 2.0/ethicalAI/data/ethical_analysis_combined.csv"
+KAGGLE_JSON = "../data/kaggle/results/ethical_analysis.json"
+AICROWD_JSON = "../data/aicrowd/results/ethical_analysis.json"
+DATADRIVEN_JSON = "../data/datadriven/results/ethical_analysis.json"
+COMBINED_CSV = "../data/ethical_analysis_combined.csv"
 
 def load_json_safely(file_path):
     try:

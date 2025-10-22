@@ -9,23 +9,13 @@ from selenium.common.exceptions import (NoSuchElementException, TimeoutException
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
-# Removed WebDriverWait imports - using direct element finding for speed
 from webdriver_manager.chrome import ChromeDriverManager
 
-# --- 💡 Configuration ---
-# Set the number of competitions you want to process.
-# To process all, set this to a very large number (e.g., 9999).
-COMPETITIONS_TO_PROCESS = 9999  # Default to process all
+COMPETITIONS_TO_PROCESS = 9999
 
-# Tabs to scrape from AIcrowd competitions
 TABS_TO_SCRAPE = ["Overview", "Rules"]
 
-# --- Text Cleaning Functions ---
 def clean_text_for_analysis(text):
-    """
-    Comprehensive text cleaning to optimize for token length and analysis.
-    First extracts according to previous logic, then removes emojis/special chars, then applies >10 condition.
-    """
     if not text:
         return ""
     
@@ -65,9 +55,6 @@ def clean_text_for_analysis(text):
     return result
 
 def clean_line_content(line):
-    """
-    Clean individual line content by removing special characters and normalizing text.
-    """
     # Remove URLs
     line = re.sub(r'http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\\(\\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+', '', line)
     
@@ -101,9 +88,6 @@ def clean_line_content(line):
     return line
 
 def deduplicate_urls(competitions):
-    """
-    Remove duplicate URLs from the competitions list, keeping only the first occurrence.
-    """
     seen_urls = set()
     unique_competitions = []
     duplicates_removed = 0
@@ -122,7 +106,6 @@ def deduplicate_urls(competitions):
     
     return unique_competitions
 
-# --- Script Setup ---
 options = Options()
 # options.add_argument("--headless")
 options.add_experimental_option("detach", True)
@@ -134,24 +117,19 @@ try:
         driver = webdriver.Chrome(options=options)
     except:
         driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
-    # Removed WebDriverWait - using direct element finding for speed
     print("✅ WebDriver started successfully.")
 except Exception as e:
     print(f"❌ Failed to start WebDriver: {e}")
     exit()
 
-# --- Cookie consent will be handled on each individual page ---
 
 def main(start_index=None, limit=None):
-    # --- Load and Slice the Data ---
-    input_path = "/Users/manikeshmakam/Endgame 2.0/ethicalAI/data/aicrowd/inputs/extracted_urls.json"
-    output_path = "/Users/manikeshmakam/Endgame 2.0/ethicalAI/data/aicrowd/inputs/aicrowd_competitions_final.json"
+    input_path = "../../data/aicrowd/inputs/extracted_urls.json"
+    output_path = "../../data/aicrowd/inputs/aicrowd_competitions_final.json"
 
-    # Check if output file exists first
     output_exists = os.path.exists(output_path)
     
     if output_exists:
-        # Load existing output file - no need to process input data
         try:
             with open(output_path, "r", encoding="utf-8") as f:
                 existing_competitions = json.load(f)
@@ -163,16 +141,13 @@ def main(start_index=None, limit=None):
             output_exists = False
     
     if not output_exists:
-        # Only process input data if output file doesn't exist
         try:
             with open(input_path, "r", encoding="utf-8") as f:
                 competitions = json.load(f)
             print(f"✅ Successfully loaded {len(competitions)} total competitions from {input_path}")
 
-            # Deduplicate URLs
             competitions = deduplicate_urls(competitions)
             
-            # Create new output file with unique URLs structure - pre-populate with all URLs
             existing_competitions = []
             for comp in competitions:
                 existing_competitions.append({
@@ -182,7 +157,6 @@ def main(start_index=None, limit=None):
                 })
             print("📝 Creating new output file with unique URLs pre-populated")
             
-            # Save the initial structure with URLs
             with open(output_path, "w", encoding="utf-8") as f:
                 json.dump(existing_competitions, f, indent=4, ensure_ascii=False)
             print("✅ Initial file structure saved with all URLs")
@@ -191,25 +165,21 @@ def main(start_index=None, limit=None):
             driver.quit()
             return
 
-    # Handle single index mode
     if start_index is not None:
         if start_index < 1 or start_index > len(competitions):
             print(f"❌ Error: start_index {start_index} is out of range. Valid range: 1-{len(competitions)}")
             driver.quit()
             return
         
-        # Process only the specified index (convert from 1-based to 0-based)
         target_index = start_index - 1
         competitions_to_process = [competitions[target_index]]
         print(f"✅ Processing single competition at index {start_index} (0-based: {target_index})")
     else:
-        # Process all competitions
         competitions_to_process = competitions
         print(f"✅ Processing all {len(competitions)} competitions.")
 
     print(f"Output will be written to {output_path}")
 
-    # --- Main Scraping Loop ---
     total_competitions = len(competitions_to_process)
     processed_competitions = []
     
@@ -340,15 +310,12 @@ def main(start_index=None, limit=None):
         competition['context'] = "\n\n".join(context_parts)
         processed_competitions.append(competition)
 
-        # Save progress every 10 competitions or after each competition in single index mode
         if (index + 1) % 10 == 0 or (index + 1) == total_competitions or start_index is not None:
             if start_index is not None:
-                # Single index mode: update the specific index in existing data
                 target_index = start_index - 1
                 if target_index < len(existing_competitions):
                     existing_competitions[target_index] = competition
                 else:
-                    # Extend the list if needed with original URLs
                     while len(existing_competitions) < target_index:
                         original_index = len(existing_competitions)
                         original_competition = competitions[original_index] if original_index < len(competitions) else {"link": ""}
@@ -360,7 +327,6 @@ def main(start_index=None, limit=None):
                     existing_competitions.append(competition)
                 final_output = existing_competitions
             else:
-                # Full mode: save all processed competitions
                 final_output = processed_competitions
             
             with open(output_path, "w", encoding="utf-8") as f:

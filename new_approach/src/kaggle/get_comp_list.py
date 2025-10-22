@@ -13,20 +13,15 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 from webdriver_manager.chrome import ChromeDriverManager
 
-# 0. CLI Args
-parser = argparse.ArgumentParser(description="Scrape Kaggle competitions by sections (Featured, Research)")
-parser.add_argument("--featured_limit", type=int, default=0, help="Number of Featured to collect (0 = all pages)")
-parser.add_argument("--research_limit", type=int, default=0, help="Number of Research to collect (0 = all pages)")
-parser.add_argument("--limit", type=int, default=0, help="[Deprecated] Total limit; use --featured_limit and --research_limit instead")
+parser = argparse.ArgumentParser(description="Scrape Kaggle competitions")
+parser.add_argument("--featured_limit", type=int, default=0, help="Number of Featured to collect (0 = all)")
+parser.add_argument("--research_limit", type=int, default=0, help="Number of Research to collect (0 = all)")
+parser.add_argument("--limit", type=int, default=0, help="[Deprecated] Total limit")
 args = parser.parse_args()
 
-# 1. Configure Chrome
 options = Options()
-# options.add_argument("--headless")
 options.add_experimental_option("detach", True)
 options.add_argument("--disable-blink-features=AutomationControlled")
-
-# 2. Start Chrome
 try:
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
     wait = WebDriverWait(driver, 15)
@@ -34,7 +29,6 @@ except Exception as e:
     print(f"❌ Failed to start WebDriver: {e}")
     exit()
 
-# 3. Open Kaggle and Navigate
 driver.get("https://www.kaggle.com")
 print("✅ Kaggle opened successfully.")
 
@@ -70,12 +64,10 @@ def click_section(section_label: str):
 
 
 
-# 9. Main Extraction and Pagination Helpers
 results = []
 list_container_locator = (By.CSS_SELECTOR, "ul[role='list']")
 
-# Prepare output path upfront so we can persist after every page
-output_dir = "/Users/manikeshmakam/Endgame 2.0/ethicalAI/data/kaggle/inputs"
+output_dir = "../../data/kaggle/inputs"
 os.makedirs(output_dir, exist_ok=True)
 output_path = os.path.join(output_dir, "kaggle_competitions_all_types.json")
 
@@ -175,10 +167,9 @@ print("✅ Clicked on Competitions tab.")
 click_section("Research")
 scrape_current_listing("Research", args.research_limit)
 
-# 10. Save the final results
 with open(output_path, "w", encoding="utf-8") as f:
     json.dump(results, f, indent=4, ensure_ascii=False)
 
 print(f"\n✅ Extracted a total of {len(results)} competitions (Featured: {sum(1 for r in results if r.get('section')=='Featured')}, Research: {sum(1 for r in results if r.get('section')=='Research')}) and saved to {output_path}")
 
-# driver.quit()
+driver.quit()
